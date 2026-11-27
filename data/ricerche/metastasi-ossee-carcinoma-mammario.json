@@ -1,0 +1,1854 @@
+{
+  "id": "metastasi-ossee-carcinoma-mammario",
+  "argomento": "Il meccanismo delle metastasi ossee da carcinoma mammario",
+  "categoria": "Oncologia",
+  "sottocategoria": "Metastasi ossee",
+  "data": "2026-11-27",
+  "affermazione_iniziale": {
+    "testo": "Presupposto della richiesta: esiste un meccanismo che porta alla formazione di metastasi ossee dal carcinoma mammario.",
+    "esito": "parziale",
+    "motivo": "La letteratura descrive una cascata di passaggi (disseminazione, homing, dormienza, riattivazione, circolo vizioso con l'osso) con vie ridondanti, in gran parte da modelli murini: nessuna catena completa è dimostrata nell'uomo."
+  },
+  "sommario": "Non risulta un unico meccanismo ma una cascata di passaggi: disseminazione dal primario, homing verso il midollo, dormienza delle cellule disseminate, riattivazione e un «circolo vizioso» con l'osso (PTHrP, TGF-beta rilasciato dalla matrice, RANKL, IL-6 e altri mediatori). Quasi tutta la catena è dimostrata nel topo; nell'uomo le prove sono soprattutto correlative (espressione di Jagged1 o PTHrP nei tessuti, cellule disseminate nel midollo, andamento delle recidive ER+ fino a 10 anni). Le vie sono ridondanti e in modelli resistenti a denosumab è stato descritto un asse RANKL-indipendente. L'effetto clinico degli antiriassorbitivi mostra la rilevanza degli osteoclasti, non che PTHrP o Jagged1 siano i nodi del circolo. Il tropismo osseo (affinità di seme e suolo o anatomia) non è risolto da un esperimento che distingua le due spiegazioni. Sul piano terapeutico, i bisfosfonati adiuvanti riducono le recidive ossee con un effetto apparente solo in postmenopausa; denosumab adiuvante non ha raggiunto l'endpoint primario in D-CARE, mentre in ABCSG-18 riduce le fratture e la DFS in postmenopausa con inibitore dell'aromatasi, con sottogruppi esplorativi. Non è una consulenza medica.",
+  "sezioni": [
+    {
+      "titolo": "Osso normale, nicchie, epidemiologia e aspetto delle lesioni",
+      "voci": [
+        {
+          "testo": "Il rimodellamento osseo avviene in tre fasi (riassorbimento osteoclastico, reversal, formazione osteoblastica), con regolazione sistemica e locale.",
+          "livello": "consolidato",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "17308163",
+            "verificata": true
+          },
+          "prova": "Rassegna di biologia ossea normale."
+        },
+        {
+          "testo": "RANKL, RANK e OPG regolano formazione, attivazione e sopravvivenza degli osteoclasti; OPG protegge dal riassorbimento eccessivo.",
+          "livello": "consolidato",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "18395508",
+            "verificata": true
+          },
+          "prova": "Rassegna."
+        },
+        {
+          "testo": "Osteoblasti e osteoclasti si accoppiano per contatto diretto e fattori secreti (M-CSF, RANKL/OPG, WNT) nell'omeostasi ossea.",
+          "livello": "consolidato",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "32927921",
+            "verificata": true
+          },
+          "prova": "Rassegna 2020."
+        },
+        {
+          "testo": "Nell'iperriassorbimento osseo delle metastasi, PTH-rP e citochine, con TGF-beta e IGF-1 depositati nell'osso e liberati dal riassorbimento, formano un circolo vizioso.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "10745942",
+            "verificata": true
+          },
+          "prova": "Rassegna del 2000, in francese con abstract in inglese."
+        },
+        {
+          "testo": "La posizione e la composizione della nicchia metastatica nell'osso sono definite in modo poco preciso.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "32232008",
+            "verificata": true
+          },
+          "prova": "Rassegna 2020 sulla nicchia endostale."
+        },
+        {
+          "testo": "Nel topo le cellule mammarie murine si localizzano in un dominio midollare ricco di vasi di tipo H; il G-CSF tumorale rimodella l'endotelio e il blocco del suo recettore riduce il carico di metastasi ossee.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "34836954",
+            "verificata": true
+          },
+          "prova": "Solo topo; non confermato nell'uomo."
+        },
+        {
+          "testo": "Nel topo i tumori sfruttano macrofagi che portano ferro nella nicchia metastatica ossea; nei campioni umani un'espressione elevata di HBB è correlata a un maggior rischio di metastasi ossee.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "40907490",
+            "verificata": true
+          },
+          "prova": "Il dato umano è una correlazione."
+        },
+        {
+          "testo": "Le cellule tumorali disseminate nel midollo sono una riserva di recidive tardive (concetto di dormienza).",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "36607507",
+            "verificata": true
+          },
+          "prova": "Rassegna sulla biopsia liquida (mammella, prostata, melanoma), senza dati di frequenza."
+        },
+        {
+          "testo": "Meta-analisi di 156 articoli: una mediana del 12% dei pazienti in stadio I-III sviluppa metastasi ossee (follow-up mediano 60 mesi); il 55% delle recidive metastatiche coinvolge l'osso; il 58% dei pazienti già metastatici ha metastasi ossee.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "28602171",
+            "verificata": true
+          },
+          "prova": "Mediane tra studi eterogenei, non un'incidenza unica."
+        },
+        {
+          "testo": "Una rassegna del 2008 afferma che circa il 70% dei pazienti con tumore mammario sviluppa metastasi ossee.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "18059174",
+            "verificata": true
+          },
+          "prova": "Cifra riportata da una rassegna, incompatibile con la meta-analisi per gli stadi I-III: dipende dal denominatore (malattia avanzata)."
+        },
+        {
+          "testo": "Bendre 2003 (rassegna «Breast cancer metastasis to bone: it is not all about PTHrP»): riporta circa l'80% di metastasi ossee; cita un trial prospettico che mette in dubbio il ruolo primario del PTHrP; propone IL-8 come fattore precoce di osteolisi e un'osteoclastogenesi anche in assenza di RANKL.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "14600591",
+            "verificata": true
+          },
+          "prova": "Rassegna con un modello proposto."
+        },
+        {
+          "testo": "Coorte di 3726 pazienti (diagnosi 1986-92): l'osso è il sito metastatico più frequente in tutti i sottotipi tranne il basal-like (l'abstract parla di sito di metastasi o di recidiva).",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "20498394",
+            "verificata": true
+          },
+          "prova": "Dati storici."
+        },
+        {
+          "testo": "IBCSG VIII/IX in pazienti con linfonodi negativi (n=1951): i tumori luminali B-like hanno più spesso l'osso come primo sito di recidiva (P=0,005); i triplo negativi e HER2 hanno un rischio precoce più alto.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "23897954",
+            "verificata": true
+          },
+          "prova": "Analisi retrospettiva di trial."
+        },
+        {
+          "testo": "In una coorte nazionale cinese retrospettiva di carcinoma mammario avanzato le metastasi ossee sono più frequenti nei luminali A (51,1%) e B (44,7%); il fegato nei HER2 (29,1%).",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "36761968",
+            "verificata": true
+          },
+          "prova": "Retrospettivo; denominatore delle percentuali poco chiaro."
+        },
+        {
+          "testo": "In 1662 pazienti cinesi (retrospettivo), rispetto al triplo negativo le HER2 positive hanno un rischio di recidiva ossea più basso (HR 0,384; IC 95% 0,148-0,991; P=0,048).",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "19778431",
+            "verificata": true
+          },
+          "prova": "Retrospettivo."
+        },
+        {
+          "testo": "Il rischio annuo di recidiva scheletrica nei tumori ER positivi persiste fino a 10 anni, mentre quello non scheletrico cala dopo 5 anni; ER positivo e linfonodi positivi predicono recidive tardive (oltre 3 anni).",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "26937933",
+            "verificata": true
+          },
+          "prova": "Retrospettivo su 434 coppie; sono curve di rischio osservazionali: non dimostrano una dormienza biologica specifica."
+        },
+        {
+          "testo": "Tra i tumori con metastasi ossee il 38% è ER+/PR-, contro il 6% di quelli senza (21 contro 94 casi; P<0,0001).",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "18715613",
+            "verificata": true
+          },
+          "prova": "Piccola serie; non è la frequenza di metastasi ossee nei tumori ER+/PR-."
+        },
+        {
+          "testo": "Nel carcinoma mammario le lesioni osteolitiche sono quelle tipiche, con PTHrP e TGF-beta; nel carcinoma prostatico le osteoblastiche sono associate a endotelina-1 e proteine morfogenetiche.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "25351174",
+            "verificata": true
+          },
+          "prova": "Rassegna; la frequenza esatta non è nell'abstract."
+        },
+        {
+          "testo": "TC su 60 pazienti con metastasi ossee da carcinoma mammario (su 468 donne): lesioni osteosclerotiche 53,3%, osteolitiche 30%, miste 16,7%; la sclerosi è più frequente con acido zoledronico (associazione retrospettiva, p<0,05).",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "17952675",
+            "verificata": true
+          },
+          "prova": "Singolo centro; «osteolitico uguale mammario» è vero solo in parte."
+        },
+        {
+          "testo": "PET/TC seriale su 25 pazienti e 146 lesioni: 77 osteolitiche, 41 osteoblastiche, 11 miste; dopo terapia 58 di 72 lesioni osteolitiche FDG-attive diventano osteoblastiche e FDG-negative.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "17592153",
+            "verificata": true
+          },
+          "prova": "Serie piccola."
+        },
+        {
+          "testo": "In 95 pazienti retrospettivi (13 con carcinoma lobulare invasivo) il lobulare ha più spesso lesioni sclerotiche.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "25971426",
+            "verificata": true
+          },
+          "prova": "Sottogruppo lobulare piccolo."
+        },
+        {
+          "testo": "Negli studi randomizzati su tumore avanzato un evento scheletrico maggiore (frattura patologica, ipercalcemia, compressione midollare, radioterapia per dolore) avviene in media ogni 3-6 mesi.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "17062708",
+            "verificata": true
+          },
+          "prova": "Rassegna non specifica per il tumore mammario."
+        }
+      ]
+    },
+    {
+      "titolo": "La cascata dal tumore alla lesione ossea",
+      "voci": [
+        {
+          "testo": "La transizione epitelio-mesenchimale in cellule epiteliali mammarie immortalizzate produce cellule con proprietà staminali e capacità di formare mammosfere; nessun dato sull'osso.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "18485877",
+            "verificata": true
+          },
+          "prova": "Nessuna prova che l'EMT selezioni il tropismo osseo."
+        },
+        {
+          "testo": "In 11 pazienti le cellule tumorali circolanti mesenchimali sono arricchite e il monitoraggio seriale suggerisce un'associazione con la progressione.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "23372014",
+            "verificata": true
+          },
+          "prova": "Piccolo; esiste anche un erratum."
+        },
+        {
+          "testo": "Müller 2001 (Nature): CXCR4 e CCR7 sono espressi nel carcinoma mammario e i ligandi negli organi di destinazione; neutralizzare l'interazione CXCL12/CXCR4 in vivo riduce le metastasi a linfonodi regionali e polmone.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "11242036",
+            "verificata": true
+          },
+          "prova": "Non dimostra l'homing osseo: l'effetto riportato è su linfonodi e polmone."
+        },
+        {
+          "testo": "Taichman 2002: in vitro SDF-1 aumenta l'adesione di cellule prostatiche a osteosarcomi e linee endoteliali e ne promuove la migrazione attraverso monostrati di endotelio midollare.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "11912162",
+            "verificata": true
+          },
+          "prova": "Cellule prostatiche, non mammarie."
+        },
+        {
+          "testo": "Una firma di attivazione di Src è associata a metastasi ossee tardive; Src non è necessario all'homing ma critico per la sopravvivenza nel midollo (CXCL12, TRAIL).",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "19573813",
+            "verificata": true
+          },
+          "prova": "Correlazione clinica più dati sperimentali."
+        },
+        {
+          "testo": "Kang 2003: selezione di sottopopolazioni di cellule mammarie ad alta attività metastatica ossea; IL-11 e CTGF tra i geni coinvolti; la firma ossea si sovrappone alla firma prognostica sfavorevole del tumore primario.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "12842083",
+            "verificata": true
+          },
+          "prova": "Modello sperimentale; la sovrapposizione è una correlazione, non una predizione."
+        },
+        {
+          "testo": "Minn 2005: firma genica di metastasi polmonari del carcinoma mammario.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "16049480",
+            "verificata": true
+          },
+          "prova": "Riguarda il polmone, non l'osso."
+        },
+        {
+          "testo": "Rassegna di Geldof 1997: modelli di prostata in topi nudi e ratti sostengono l'ipotesi del plesso venoso vertebrale di Batson.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "9179192",
+            "verificata": true
+          },
+          "prova": "Tumore prostatico; nessuna prova diretta nel mammario."
+        },
+        {
+          "testo": "Vider 1977 (rassegna di studi scintigrafici nel cancro colorettale): la frequenza di metastasi ossee alla scintigrafia (33-61%) supera il 5% radiografico; se confermata, suggerisce un ruolo importante del plesso vertebrale.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "880573",
+            "verificata": true
+          },
+          "prova": "L'abstract subordina la conclusione alla solidità del dato."
+        },
+        {
+          "testo": "Scintigrafia ossea in 55 pazienti con tumore prostatico e 55 con tumore mammario: la distribuzione assiale e pelvica differisce e viene spiegata con il plesso di Batson.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "2224435",
+            "verificata": true
+          },
+          "prova": "Osservazionale: non distingue le ipotesi."
+        },
+        {
+          "testo": "Wilson 1981: in 318 pazienti con tumori diversi l'incidenza di metastasi scheletriche è statisticamente simile; nei gruppi mammella e polmone la distribuzione regionale non differisce.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "7252563",
+            "verificata": true
+          },
+          "prova": "Osservazionale."
+        },
+        {
+          "testo": "Cox 2018 (rassegna): LOX da tumori mammari primari ipossici favorisce rimodellamento osteolitico e nicchia pre-metastatica; i bisfosfonati potrebbero bloccare il rimodellamento.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "29098360",
+            "verificata": true
+          },
+          "prova": "Il lavoro primario del 2015 non è stato reperito."
+        },
+        {
+          "testo": "Dataset proteomico: 162 proteine del secretoma mammario rilevate in normossia e ipossia, con induzione ipossica differenziale e associazione con l'osteotropismo; le analisi biologiche sono in un altro lavoro.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "26649326",
+            "verificata": true
+          },
+          "prova": "Descrittivo."
+        },
+        {
+          "testo": "Hoshino 2015: le integrine esosomiali determinano l'organotropismo; esosomi da tumori tropici per il polmone redirigono la metastasi di cellule tropiche per l'osso.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "26524530",
+            "verificata": true
+          },
+          "prova": "Una nicchia ossea mammaria non è dimostrata direttamente."
+        },
+        {
+          "testo": "ANGPTL2: il knockdown in cellule mammarie con iniezione intracardiaca riduce le metastasi ossee e l'espressione di CXCR4.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "25773070",
+            "verificata": true
+          },
+          "prova": "L'iniezione intracardiaca bypassa il filtro venoso; non confronta altri organi."
+        },
+        {
+          "testo": "TRAIL-R2: il knockdown in cellule MDA-MB-231 osteotrope con iniezione intracardiaca riduce le metastasi ossee e l'espressione di CXCR4.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "25909161",
+            "verificata": true
+          },
+          "prova": "Stesso limite del precedente."
+        },
+        {
+          "testo": "Ghajar 2013: cellule disseminate dormienti sui microvasi di polmone, midollo e cervello; la trombospondina-1 endoteliale induce quiescenza; TGF-beta1 e periostina dalle cellule tip favoriscono la riattivazione (topi, zebrafish).",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "23728425",
+            "verificata": true
+          },
+          "prova": "TGF-beta1, non beta2."
+        },
+        {
+          "testo": "Yumoto 2016: Axl è necessario per la soppressione indotta da TGF-beta2 in co-coltura con osteoblasti MC3T3-E1, in cellule prostatiche PC3 e DU145.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "27819283",
+            "verificata": true
+          },
+          "prova": "Dato prostatico, non mammario."
+        },
+        {
+          "testo": "Axelrod 2019: AXL è sufficiente a indurre dormienza ma non a mantenerla a lungo termine e non è assolutamente necessario, in cellule prostatiche.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "30291220",
+            "verificata": true
+          },
+          "prova": "Dato prostatico."
+        },
+        {
+          "testo": "Taichman 2013: un rapporto Tyro3 maggiore di Axl si associa a crescita rapida e Axl prevalente a quiescenza, in cellule prostatiche.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "23637920",
+            "verificata": true
+          },
+          "prova": "Associazione, non causalità."
+        },
+        {
+          "testo": "Il gedatolisib sensibilizza alla chemioterapia le cellule quiescenti in coltura midollare, ma nei topi (TNBC e ER+) non riduce il carico di cellule disseminate né le metastasi.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "34058066",
+            "verificata": true
+          },
+          "prova": "Risultato negativo in vivo."
+        },
+        {
+          "testo": "Rassegna 2025 sui tumori endocrino-correlati: nella dormienza mammaria compaiono BMP-7 e TGF-beta1/2.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "39699130",
+            "verificata": true
+          },
+          "prova": "Lo studio primario su BMP7 non è stato reperito."
+        },
+        {
+          "testo": "Nel modello murino cellule mesenchimali NG2+/Nestin+ del midollo inducono dormienza via TGF-beta2/BMP7; nelle pazienti ER+ senza recidiva sistemica TGF-beta2 e BMP7 sono rilevati più spesso nel midollo.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "34993493",
+            "verificata": true
+          },
+          "prova": "L'abstract non nomina la specie: «murino» è dedotto dal modello NG2-CreER; numerosità umana non riportata."
+        },
+        {
+          "testo": "Micrometastasi dormienti risiedono in nicchie perisinusoidali con E-selectina e SDF-1 in xenotrapianto; l'immunoistochimica su midollo di pazienti mostra micrometastasi adiacenti a vasi SDF-1 positivi.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "27225183",
+            "verificata": true
+          },
+          "prova": "Xenotrapianto più dato umano descrittivo."
+        },
+        {
+          "testo": "Stima modellistica su 123.705 pazienti SEER: tasso annuo di riattivazione, con dormienza più lunga nei tumori ER+.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "31264063",
+            "verificata": true
+          },
+          "prova": "È una stima da modello, non una durata misurata."
+        },
+        {
+          "testo": "Nel topo le cellule NK e le cellule stellate epatiche controllano la dormienza nel fegato; nei pazienti è riportata una correlazione tra CXCL12 e cellule stellate attivate in metastasi epatiche.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "34079127",
+            "verificata": true
+          },
+          "prova": "Fegato, non osso."
+        },
+        {
+          "testo": "NR2F1 in cellule disseminate: 86 pazienti, 114 campioni midollari; tutti i pazienti con recidiva entro 12 mesi dopo l'aspirazione avevano non più dell'1% di cellule NR2F1-alto.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "30322396",
+            "verificata": true
+          },
+          "prova": "Marcatore osservazionale, senza controllo."
+        },
+        {
+          "testo": "Pazienti con più di 21 cellule disseminate nel midollo dopo terapia adiuvante: recidiva a 3-6 anni in 4 pazienti su 5 secondo l'abstract.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "27909824",
+            "verificata": true
+          },
+          "prova": "L'abstract è internamente incoerente (parla anche di 2 casi): il denominatore va verificato sul testo completo; 20 pazienti."
+        },
+        {
+          "testo": "NEJM 2000: 552 pazienti, 36% (199) con cellule citocheratina-positive nel midollo; valore prognostico a 4 anni.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "10684910",
+            "verificata": true
+          },
+          "prova": "Non è uno studio di dormienza."
+        },
+        {
+          "testo": "In 191 pazienti con follow-up mediano di 15,3 anni, le cellule disseminate preoperatorie nel midollo (saggio mRNA multimarker) sono l'unico marcatore indipendente di recidive tardive nel sottogruppo senza eventi nei primi 5 anni (n=156).",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "31752747",
+            "verificata": true
+          },
+          "prova": "Seconda lettura indipendente; non è una misura diretta della durata della dormienza."
+        },
+        {
+          "testo": "Ditsch 2002: meta-analisi di 20 studi su 2494 pazienti con carcinoma mammario: in 14 su 20 la positività del midollo suggerisce un indicatore sfavorevole; i metodi non sono standardizzati; l'abstract conclude che è troppo presto per dire se sia un fattore prognostico utile per le scelte terapeutiche.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "12474359",
+            "verificata": true
+          },
+          "prova": "Abstract in inglese di un lavoro tedesco."
+        },
+        {
+          "testo": "Ibridazione genomica comparativa su singole cellule disseminate nel midollo (pazienti M0 e M1) confrontate con il tumore primario.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "12808139",
+            "verificata": true
+          },
+          "prova": "Non è tessuto di metastasi ossea né filogenesi formale."
+        },
+        {
+          "testo": "Sequenziamento di nuova generazione di cellule disseminate in 2 pazienti, confrontato con i profili di numero di copie del primario ottenuti con SNP-CGH.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "24427740",
+            "verificata": true
+          },
+          "prova": "Due pazienti; il primario non è sequenziato con NGS."
+        },
+        {
+          "testo": "Yin 1999: un recettore dominante negativo di TGF-beta II riduce la distruzione ossea e migliora la sopravvivenza; un recettore I attivo aumenta PTHrP e osteolisi; il cDNA di PTHrP nelle cellule con blocco accelera le metastasi.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "9916131",
+            "verificata": true
+          },
+          "prova": "Prova murina."
+        },
+        {
+          "testo": "Kakonen 2002: TGF-beta stimola PTHrP via Smad e MAPK; in vivo un anticorpo anti-PTHrP riduce le metastasi osteolitiche nei topi con cellule a recettore I attivo; gli inibitori di p38 riducono PTHrP in coltura.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "11964407",
+            "verificata": true
+          },
+          "prova": "Il legame con p38 è in vitro."
+        },
+        {
+          "testo": "Guise 1996: evidenza di un ruolo causale del PTHrP tumorale nell'osteolisi in topi inoculati con cellule MDA-MB-231; un anticorpo anti-PTHrP riduce area delle lesioni e numero di osteoclasti.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "8833902",
+            "verificata": true
+          },
+          "prova": "L'abstract usa un linguaggio cauto («può avere un ruolo»)."
+        },
+        {
+          "testo": "Mundy 1997 (rassegna): il circolo vizioso tra PTHrP tumorale, TGF-beta rilasciato dall'osso e osteoclasti.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "9362421",
+            "verificata": true
+          },
+          "prova": "Modello descrittivo."
+        },
+        {
+          "testo": "Sethi 2011: Jagged1 tumorale attiva Notch negli osteoblasti, con rilascio di IL-6 e differenziazione osteoclastica; un inibitore gamma-secretasico riduce le metastasi mediate da Jagged1.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "21295524",
+            "verificata": true
+          },
+          "prova": "Il dato clinico citato nell'abstract non è stato riletto in dettaglio."
+        },
+        {
+          "testo": "Guelcher 2011 (rassegna): la rigidità del tessuto osseo regola PTHrP e Gli2 tramite TGF-beta e meccanotrasduzione.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "21789687",
+            "verificata": true
+          },
+          "prova": "Il lavoro primario su Gli2 non è stato reperito."
+        },
+        {
+          "testo": "IGF-1 e TGF-beta aumentano CREB; K-CREB previene l'osteolisi nei topi.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "20599715",
+            "verificata": true
+          },
+          "prova": "Prova murina."
+        },
+        {
+          "testo": "Kingsley 2007 (rassegna): TGF-beta e IGF rilasciati dall'osso stimolano la crescita tumorale.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "17938257",
+            "verificata": true
+          },
+          "prova": "Il lavoro primario sull'IGF non è stato reperito."
+        },
+        {
+          "testo": "Endotelina-1: le cellule ZR-75-1 con ET-1 stimolano gli osteoblasti, mentre le MDA-MB-231, senza ET-1, sono osteolitiche.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "12548575",
+            "verificata": true
+          },
+          "prova": "Spiega un'eccezione osteoblastica."
+        },
+        {
+          "testo": "Johnson 2022: il PTHrP è presente in due terzi dei tumori primari mammari e nel 90% delle metastasi ossee mammarie; studi clinici suggeriscono un fenotipo meno invasivo; dati murini contrastanti.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "35953110",
+            "verificata": true
+          },
+          "prova": "Rassegna."
+        },
+        {
+          "testo": "In 497 casi di carcinoma mammario precoce, il tasso di metastasi ossee tendeva a essere più alto nei tumori con maggiore espressione di PTHrP (67,6% contro 45,8%; P=0,019).",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "26597083",
+            "verificata": true
+          },
+          "prova": "Associazione come tendenza; il titolo riguarda la co-espressione di PTHrP e TGF-beta come predittore di sopravvivenza."
+        },
+        {
+          "testo": "Il PTHrP è molto espresso sia nelle metastasi ossee (16 pazienti) sia nei tumori primari (64), senza differenze significative; l'HER2 positivo è più frequente nelle metastasi ossee (P=0,016).",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "20126581",
+            "verificata": true
+          },
+          "prova": "Piccola serie."
+        },
+        {
+          "testo": "Jagged1 in 228 tumori mammari (immunoistochimica): associato a grado, HER2, cellule disseminate nel midollo e, nelle pazienti senza metastasi linfonodali, a una sopravvivenza libera da malattia più breve; 85,7% delle cellule circolanti Jagged1 positive in 21 pazienti su 100 testate.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "26721293",
+            "verificata": true
+          },
+          "prova": "Associazione, non causalità."
+        },
+        {
+          "testo": "Rassegna: le interazioni tra tumore e stroma nelle metastasi ossee mammarie comprendono Jagged1/Notch e TGF-beta.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "27184014",
+            "verificata": true
+          },
+          "prova": "L'IL-6 non compare nell'abstract."
+        }
+      ]
+    },
+    {
+      "titolo": "Ridondanze, cloni, estrogeni e spiegazioni alternative",
+      "voci": [
+        {
+          "testo": "Gallwitz 2002: analoghi dei nucleotidi guaninici inibiscono l'espressione di PTHrP e riducono lesioni osteolitiche da cellule mammarie e ipercalcemia da carcinoma squamoso polmonare in topi nudi.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "12438453",
+            "verificata": true
+          },
+          "prova": "Effetto su una via; non prova insufficienza."
+        },
+        {
+          "testo": "Un anticorpo anti-CCN2 (CTGF) riduce l'osteolisi in un modello con sovraproduzione di PTHrP; il PTHrP induce CCN2 via PKA, PKC ed ERK.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "16813525",
+            "verificata": true
+          },
+          "prova": "CTGF e PTHrP sono in serie."
+        },
+        {
+          "testo": "Il blocco di IL-6 (knockdown o anticorpo anti-recettore) riduce la crescita tumorale nell'osso ma non nei tessuti molli (loop di auto-amplificazione RANKL-IL-6).",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "24676805",
+            "verificata": true
+          },
+          "prova": "Prova murina; ridondanza non testata in combinazione."
+        },
+        {
+          "testo": "In un modello di ratto di dolore da cancro osseo un inibitore di IL-6 riduce il rimodellamento osseo e ritarda la frattura senza alterare la crescita tumorale.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "29300279",
+            "verificata": true
+          },
+          "prova": "L'effetto è sull'osso, non sul tumore."
+        },
+        {
+          "testo": "Il knockdown di oncostatina M riduce metastasi ossee e degradazione osteolitica nel modello murino 4T1.2.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "23050044",
+            "verificata": true
+          },
+          "prova": "Altra citochina della famiglia IL-6."
+        },
+        {
+          "testo": "Cellule A375M e MDA-MB-231 attivano TGF-beta latente prodotto da osteoblasti umani, che aumenta la produzione di IL-11; il riassorbimento è misurato in calvaria murina in coltura.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "9139879",
+            "verificata": true
+          },
+          "prova": "Esperimento in vitro."
+        },
+        {
+          "testo": "Gli inibitori delle ciclossigenasi sopprimono il riassorbimento osseo mediato da IL-11 in vitro.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "9572469",
+            "verificata": true
+          },
+          "prova": "Coltura di calvaria."
+        },
+        {
+          "testo": "Il knockdown o un inibitore di ABL riduce le metastasi osteolitiche tramite TAZ e STAT5, IL-6 e MMP1.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "26838548",
+            "verificata": true
+          },
+          "prova": "Più mediatori nella stessa via."
+        },
+        {
+          "testo": "Nei modelli di metastasi ossee ER+ resistenti a denosumab un asse RANKL-indipendente CRKL/circCCDC50/NFATc1 sostiene l'osteoclastogenesi; l'inibitore di CARM1 TP-064 riduce osteoclastogenesi e metastasi in quei modelli.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "42138086",
+            "verificata": true
+          },
+          "prova": "Pubblicazione 2026, non replicata; l'abstract non dice la specie."
+        },
+        {
+          "testo": "L'asse NSUN2-KDM6B-Notch aumenta RANKL e la differenziazione osteoclastica; il blocco di Notch con DAPT contrasta l'osteolisi in vivo.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "40692065",
+            "verificata": true
+          },
+          "prova": "L'abstract non specifica specie né numero di modelli."
+        },
+        {
+          "testo": "L'isoproterenolo aumenta VEGF-A negli osteoblasti e le lesioni ossee dopo iniezione intracardiaca; la perdita di beta2AR negli osteoblasti attenua questo aumento.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "28300321",
+            "verificata": true
+          },
+          "prova": "Il microambiente osseo modifica la colonizzazione: compatibile con seme e suolo, non lo distingue dal flusso."
+        },
+        {
+          "testo": "Rassegna 2022 sull'asse CXCR4-CXCL12 nel cancro, con focus sul pool intracellulare di CXCR4 e sui limiti degli inibitori clinici.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "36058380",
+            "verificata": true
+          },
+          "prova": "Il tropismo d'organo è solo un richiamo storico."
+        },
+        {
+          "testo": "Fokas 2007 (rassegna): il modello seme e suolo e l'interazione tra cellula tumorale e microambiente.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "17786535",
+            "verificata": true
+          },
+          "prova": "Nessun esperimento che separi le due spiegazioni."
+        },
+        {
+          "testo": "Langley 2011 (rassegna): il modello seme e suolo rivisto alla luce delle interazioni tumore-stroma negli organi.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "21365651",
+            "verificata": true
+          },
+          "prova": "Seconda rassegna sullo stesso modello."
+        },
+        {
+          "testo": "Osteoclasti umani di un solo donatore sano, esposti a terreno condizionato di MDA-MB-231: gli osteoclasti indotti dal tumore sono meno sensibili all'acido zoledronico ma non a denosumab; l'anticorpo anti-CSF-1 è più attivo su di essi.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "24956020",
+            "verificata": true
+          },
+          "prova": "Terreno condizionato (mediatori solubili), non co-coltura diretta; un solo donatore."
+        },
+        {
+          "testo": "SOST interagisce con STAT3 e potenzia la via TGF-beta/KRAS; il composto S6 riduce la metastasi ossea nel topo.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "36581888",
+            "verificata": true
+          },
+          "prova": "Nessuna combinazione con RANKL."
+        },
+        {
+          "testo": "Le metastasi ossee riducono la risposta all'immunoterapia in tumori extra-ossei tramite osteopontina prodotta dagli osteoclasti; nei topi la risposta è ripristinata da anti-RANKL, da anti-OPN o dalla deplezione di OPN negli osteoclasti.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "40280123",
+            "verificata": true
+          },
+          "prova": "L'abstract cita una validazione clinica con anti-RANKL più immunoterapia, non riletta; è un asse immunitario."
+        },
+        {
+          "testo": "Nel topo l'espansione di linfociti Th17 e TNF+ indotta da PTHrP è promossa dal batterio SFB; silenziare IL-17 o TNF riduce le lesioni ossee nei topi SFB positivi.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "42910519",
+            "verificata": true
+          },
+          "prova": "Asse citochinico parallelo."
+        },
+        {
+          "testo": "Rassegna 2026: l'effetto immunologico sinergico preclinico di anti-RANKL non è stato ancora collegato a un beneficio clinico dimostrato.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "43081461",
+            "verificata": true
+          },
+          "prova": "Rassegna con dati di congresso non pubblicati."
+        },
+        {
+          "testo": "Navin 2011: sequenziamento a singola cellula in due casi di carcinoma mammario: primario monogenomico e metastasi epatica derivano dalla stessa espansione clonale; non riguarda l'osso.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "21399628",
+            "verificata": true
+          },
+          "prova": "Due casi."
+        },
+        {
+          "testo": "Cinque autopsie: 3 casi monoclonali e 2 con almeno due subcloni del primario.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "29263308",
+            "verificata": true
+          },
+          "prova": "Metastasi ossee non isolate."
+        },
+        {
+          "testo": "Cancer Cell 2017 (170 pazienti, 299 campioni): i cloni che seminano metastasi si disseminano tardi dal primario e continuano a mutare; la maggior parte delle metastasi acquisisce driver assenti nel primario.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "28810143",
+            "verificata": true
+          },
+          "prova": "Nessun dato osseo separato."
+        },
+        {
+          "testo": "Dieci autopsie: in alcuni pazienti tutte le metastasi derivano da un precursore metastatico comune, in altri da cloni diversi del primario; cross-seeding tra metastasi.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "28429735",
+            "verificata": true
+          },
+          "prova": "Il dilemma «clone pre-esistente o evoluzione» è falso: si osservano entrambe le modalità."
+        },
+        {
+          "testo": "16 pazienti ER+ con linfonodi positivi: i linfonodi ascellari e le metastasi a distanza hanno origine comune solo nel 25%; diffusione diretta dal primario; l'origine comune si associa a prognosi peggiore.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "32512508",
+            "verificata": true
+          },
+          "prova": "Piccola serie."
+        },
+        {
+          "testo": "Quattro autopsie (programma CASCADE): cross-seeding metastatico in ogni caso.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "28027312",
+            "verificata": true
+          },
+          "prova": "Quattro pazienti."
+        },
+        {
+          "testo": "6 pazienti ER+: primo dato di metastasi-verso-metastasi, con tre percorsi di emergenza.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "28276460",
+            "verificata": true
+          },
+          "prova": "Piccola serie."
+        },
+        {
+          "testo": "Autopsia rapida in una paziente con tumore triplo negativo (30 campioni, 8 organi): il polmone è il primo sito di fuga e fonte di ondate successive; subcloni «incubatori» in più siti polmonari.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "34711268",
+            "verificata": true
+          },
+          "prova": "Un solo caso: l'abstract non dice esplicitamente che l'osso non sia una sorgente."
+        },
+        {
+          "testo": "Cell 2021: cellule disseminate dall'osso acquisiscono proprietà staminali epigenetiche (EZH2) e metastatizzano in più organi, in mammella e prostata.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "33878291",
+            "verificata": true
+          },
+          "prova": "L'osso come sorgente di altre metastasi è dimostrato solo in modelli sperimentali, non nell'uomo."
+        },
+        {
+          "testo": "In 11 tumori primari mammari con metastasi ossee appaiate, l'RNA-seq exome-capture mostra un rimodellamento dell'espressione.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "28878133",
+            "verificata": true
+          },
+          "prova": "Non è un'analisi di clonalità."
+        },
+        {
+          "testo": "Case report: una linea cellulare (P7731) da una lesione ossea metastatica di una paziente condivide 32 mutazioni con il primario (45 nel primario, 76 nella linea).",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "29468485",
+            "verificata": true
+          },
+          "prova": "Un solo paziente."
+        },
+        {
+          "testo": "Nature Genetics 2025: cluster di cellule tumorali circolanti oligoclonali in pazienti con tumore mammario e prostatico.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "40457073",
+            "verificata": true
+          },
+          "prova": "Non è tessuto osseo."
+        },
+        {
+          "testo": "Modello MCF-7 con iniezione intracardiaca e pellet di estradiolo: la secrezione di PTHrP è mediata da ER-alfa in modo dose-dipendente; l'osteolisi aumenta con la dose.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "34790880",
+            "verificata": true
+          },
+          "prova": "Estradiolo a dosi superiori a quelle fisiologiche."
+        },
+        {
+          "testo": "L'estetrolo (agonista genomico) non sostiene la progressione osteolitica, mentre l'estradiolo sì: segnali non genomici possibili, ma l'importanza relativa non è determinabile.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "38715255",
+            "verificata": true
+          },
+          "prova": "Non conclusivo."
+        },
+        {
+          "testo": "In un modello di carcinoma mammario triplo negativo (ERalfa66 assente come premessa, ERalfa36 presente) l'estradiolo induce osteolisi tramite ERalfa36 di membrana (via PLC/PKC).",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "38644978",
+            "verificata": true
+          },
+          "prova": "Una linea cellulare e un modello murino."
+        },
+        {
+          "testo": "Cell 2026: macrofagi ER-alfa positivi nella nicchia ossea; la delezione di Esr1 nei macrofagi riduce la colonizzazione ossea favorendo l'infiltrazione di linfociti T; macrofagi ER-alfa positivi anche in metastasi ossee umane.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "42054994",
+            "verificata": true
+          },
+          "prova": "Recente, non replicato; non riguarda la dormienza."
+        },
+        {
+          "testo": "In tre linee murine immunocompetenti (PyMT, Met1, D2.0R) la dormienza dipende dal sistema immunitario con componenti diverse; le NK sono determinanti nella linea D2.0R e l'agonista di STING MSA-2 potenzia l'uccisione da NK (linea di test non specificata nell'abstract).",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "39106452",
+            "verificata": true
+          },
+          "prova": "Non specifico per l'osso."
+        },
+        {
+          "testo": "Il terreno condizionato da cellule stromali midollari HS5 (segnali paracrini) riduce ER in cellule T47D e MCF7 e le arresta in G0/G1.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "27853906",
+            "verificata": true
+          },
+          "prova": "Linee cellulari."
+        },
+        {
+          "testo": "Nelle cellule disseminate in vivo si osservano vicinanza alle cellule di rivestimento osseo e autofagia; un modello bioispirato di co-coltura indiretta in vitro (hMSC, hFOB) permette di studiare la dormienza ER+.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "36888709",
+            "verificata": true
+          },
+          "prova": "Modello in vitro."
+        },
+        {
+          "testo": "Il TNF-alfa prodotto dai macrofagi riduce ERalfa nelle cellule di carcinoma mammario via inattivazione di FOXO3a (xenotrapianti NSG e tumori di pazienti); i macrofagi associati al tumore si associano a ERalfa negativo.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "32145253",
+            "verificata": true
+          },
+          "prova": "Non dimostra una popolazione dormiente."
+        },
+        {
+          "testo": "Rassegna sull'immunità e le cellule NK nelle metastasi ossee.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "30930851",
+            "verificata": true
+          },
+          "prova": "Senza prove dirette sull'osso ER+."
+        }
+      ]
+    },
+    {
+      "titolo": "Finestra terapeutica, sicurezza e limiti",
+      "voci": [
+        {
+          "testo": "EBCTCG 2015 (Lancet), dati individuali su 18.766 donne, bisfosfonati adiuvanti: recidiva ossea RR 0,83 (0,73-0,94); in postmenopausa RR 0,72 (0,60-0,86) e mortalità per cancro mammario RR 0,82; nessun effetto apparente in premenopausa; eterogeneità per menopausa borderline (p=0,06).",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "26211824",
+            "verificata": true
+          },
+          "prova": "È l'analisi primaria."
+        },
+        {
+          "testo": "Coleman 2019 (Breast): sintesi che riporta i dati EBCTCG (18.766 donne; RR 0,72 in postmenopausa; mortalità 0,82) e che D-CARE non ha effetto sulla sopravvivenza libera da metastasi ossee primaria.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "31839171",
+            "verificata": true
+          },
+          "prova": "Non è l'analisi primaria e non va citata come tale."
+        },
+        {
+          "testo": "D-CARE (4509 pazienti, stadio II-III): denosumab adiuvante non migliora la sopravvivenza libera da metastasi ossee (endpoint primario): HR 0,97 (0,82-1,14); p=0,70.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "31806543",
+            "verificata": true
+          },
+          "prova": "L'endpoint è composito: include morte per qualsiasi causa e recidive extrascheletriche."
+        },
+        {
+          "testo": "D-CARE, analisi esplorative e post hoc: tempo alla prima metastasi ossea HR 0,82 (0,66-1,02), p=0,068; sotto i 50 anni HR 0,70 (0,52-0,94), p=0,018; premenopausali HR 0,74 (0,55-0,98), p=0,038.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "34185259",
+            "verificata": true
+          },
+          "prova": "Senza test di interazione nell'abstract: non conferma la prova principale."
+        },
+        {
+          "testo": "ABCSG-18 (3420 pazienti postmenopausali in terapia con inibitore dell'aromatasi): denosumab 60 mg ogni 6 mesi riduce le fratture cliniche (HR 0,50; IC 0,39-0,65), endpoint primario.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "26040499",
+            "verificata": true
+          },
+          "prova": "Non è uno studio sulle metastasi ossee."
+        },
+        {
+          "testo": "ABCSG-18 a lungo termine (NEJM Evidence): DFS HR 0,83 (0,71-0,97); sopravvivenza libera da metastasi ossee HR 0,81 (0,65-1,00); sopravvivenza globale HR 0,80 (0,64-1,01).",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "38319865",
+            "verificata": true
+          },
+          "prova": "Per le metastasi ossee e la sopravvivenza globale l'intervallo include 1."
+        },
+        {
+          "testo": "Revisione sistematica con meta-analisi di 2 RCT (ABCSG-18 e D-CARE, 7929 pazienti): sopravvivenza libera da metastasi ossee HR 0,9896 (0,751-1,070), intervallo asimmetrico; DFS HR 0,932; OS HR 0,917; analisi aggregata con random-effects, non su dati individuali.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "37284523",
+            "verificata": true
+          },
+          "prova": "L'intervallo asimmetrico fa pensare a un errore di trascrizione: non va usato senza il testo completo."
+        },
+        {
+          "testo": "Moretti 2024: articolo di discussione: risultati misti sulla DFS con denosumab adiuvante; ABCSG-18 raggiunge la prevenzione delle fratture.",
+          "livello": "documentato",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "39509862",
+            "verificata": true
+          },
+          "prova": "Le differenze di popolazione e di endpoint tra i due trial non sono riconciliate dai dati letti."
+        },
+        {
+          "testo": "ASCO-OH 2022: raccomanda di discutere un bisfosfonato adiuvante con le donne in postmenopausa candidate alla terapia sistemica adiuvante (clodronato orale, ibandronato orale, acido zoledronico endovena), avviato presto come consenso; non raccomanda denosumab adiuvante per prevenire le recidive.",
+          "livello": "documentato",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "35041467",
+            "verificata": true
+          },
+          "prova": "Linea guida."
+        },
+        {
+          "testo": "ASCO 2017: agenti modificanti l'osso nel tumore mammario metastatico: intervalli di dosaggio e controllo del dolore osseo.",
+          "livello": "documentato",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "29035643",
+            "verificata": true
+          },
+          "prova": "Raccomandazioni precise non lette."
+        },
+        {
+          "testo": "Denosumab contro acido zoledronico nel tumore mammario avanzato (2046 randomizzati): denosumab superiore sul tempo al primo evento scheletrico (HR 0,82; 0,71-0,95); osteonecrosi della mascella 2,0% contro 1,4% (non significativa).",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "21060033",
+            "verificata": true
+          },
+          "prova": "Endpoint scheletrico, non di sopravvivenza."
+        },
+        {
+          "testo": "Analisi combinata a livello di paziente di 3 trial (mammella, prostata, altri tumori solidi, mieloma): denosumab riduce il primo evento scheletrico rispetto all'acido zoledronico (HR 0,83; 0,76-0,90; P<0,001).",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "22975218",
+            "verificata": true
+          },
+          "prova": "Non solo il tumore mammario."
+        },
+        {
+          "testo": "Osteonecrosi della mascella: D-CARE 5% (122/2241) con denosumab adiuvante contro meno dell'1% (4/2218) con placebo; ipocalcemia emergente 7% contro 4%.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "31806543",
+            "verificata": true
+          },
+          "prova": "Dati dello stesso trial primario."
+        },
+        {
+          "testo": "Retrospettivo in Tirolo su 639 pazienti: osteonecrosi della mascella 8,8% complessiva; 11,6% con denosumab da solo, 2,8% con bisfosfonati da soli, 16,3% con la sequenza bisfosfonato poi denosumab.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "39163561",
+            "verificata": true
+          },
+          "prova": "Popolazione selezionata; incidenza più alta della letteratura."
+        },
+        {
+          "testo": "Linea guida MASCC/ISOO/ASCO 2019 sulla gestione dell'osteonecrosi della mascella correlata ai farmaci.",
+          "livello": "documentato",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "31329513",
+            "verificata": true
+          },
+          "prova": "Raccomandazioni specifiche non lette."
+        },
+        {
+          "testo": "Serie di 8 pazienti con ipocalcemia grave da denosumab in malattia renale cronica di stadio 4-5.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "30519493",
+            "verificata": true
+          },
+          "prova": "Serie di casi."
+        },
+        {
+          "testo": "Rassegna: fratture da rimbalzo dopo la sospensione di denosumab, circa 1 paziente su 14 senza terapia sequenziale.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "39448137",
+            "verificata": true
+          },
+          "prova": "Dato riportato nell'abstract, non verificato su studi primari."
+        },
+        {
+          "testo": "Revisione sistematica e documento di posizione ECTS sulla sospensione di denosumab: indica fattori di rischio di fratture vertebrali multiple e raccomanda una terapia antiriassorbitiva alternativa circa 6 mesi dopo l'ultima dose.",
+          "livello": "documentato",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "33103722",
+            "verificata": true
+          },
+          "prova": "I fattori di rischio derivano da analisi retrospettive."
+        },
+        {
+          "testo": "Rassegna Lancet: l'effetto antiriassorbitivo di denosumab si perde dal 7° mese dopo l'ultima dose, con un cluster di fratture vertebrali da rimbalzo.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "35279261",
+            "verificata": true
+          },
+          "prova": "Rassegna sull'osteoporosi dell'anziano."
+        },
+        {
+          "testo": "Revisione: le fratture atipiche femorali si legano all'uso prolungato (3-5 anni) di antiriassorbitivi, con dolore prodromico all'inguine o alla coscia; l'abstract non menziona la mammella.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "39172879",
+            "verificata": true
+          },
+          "prova": "Non è un dato specifico del denosumab adiuvante nel tumore mammario."
+        },
+        {
+          "testo": "Revisione metodologica sui modelli murini di metastasi ossee del carcinoma mammario: quattro vie di inoculo (intracardiaca, intra-arteriosa, ortotopica, intratibiale).",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "27867497",
+            "verificata": true
+          },
+          "prova": "La traduzione limitata all'uomo non è esplicita nell'abstract."
+        },
+        {
+          "testo": "Rassegna: nel tumore ER+ in fase precoce il rischio di recidiva continua da 5 a oltre 20 anni dalla diagnosi.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "35753212",
+            "verificata": true
+          },
+          "prova": "La durata esatta non è stimata."
+        },
+        {
+          "testo": "Rassegna sulla biopsia liquida e meta-analisi sui marcatori midollari: l'eradicazione delle cellule disseminate è un obiettivo di trial, non una prova di beneficio sulla recidiva.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "",
+            "id": "",
+            "verificata": false
+          },
+          "prova": "Sintesi della scheda."
+        },
+        {
+          "testo": "Un trial di farmaco osso-mirato disegnato sulla finestra di dormienza, con la recidiva come endpoint, e la durata della dormienza nell'uomo non sono stati reperiti.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "",
+            "id": "",
+            "verificata": false
+          },
+          "prova": "Affermazioni negative parzialmente smentite dal controllo indipendente (coorti e trial con altri endpoint)."
+        }
+      ]
+    }
+  ],
+  "tentativi": [
+    {
+      "cosa": "Acido zoledronico adiuvante: meta-analisi EBCTCG (18.766 donne)",
+      "esito": "riuscito",
+      "ragione": "Recidive ossee ridotte solo in postmenopausa (RR 0,72); nessun effetto apparente in premenopausa; mortalità per cancro mammario RR 0,82 in postmenopausa.",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "26211824",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Acido zoledronico adiuvante (AZURE, 3360 pazienti)",
+      "esito": "fallito",
+      "ragione": "Nessuna differenza di sopravvivenza libera da malattia (HR 0,98; 0,85-1,13); sopravvivenza globale HR 0,85 (0,72-1,01; P=0,07).",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "21995387",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Acido zoledronico immediato contro ritardato con letrozolo (ZO-FAST, N=1065 nell'articolo)",
+      "esito": "inconcludente",
+      "ragione": "L'endpoint primario è la variazione della densità ossea lombare; la DFS (secondaria) ha HR 0,66 (P=0,0375). Il registro NCT00050011 riporta 602 pazienti, diverso dall'articolo.",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "23047045",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Denosumab adiuvante in postmenopausa con inibitore dell'aromatasi (ABCSG-18, 3420 pazienti)",
+      "esito": "riuscito",
+      "ragione": "Riduce le fratture cliniche (HR 0,50); DFS HR 0,82 in analisi descrittiva senza correzione per molteplicità; a lungo termine DFS HR 0,83 ma sopravvivenza libera da metastasi ossee HR 0,81 (0,65-1,00).",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "26040499",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Denosumab adiuvante in stadio II-III (D-CARE, 4509 pazienti)",
+      "esito": "fallito",
+      "ragione": "Endpoint primario non raggiunto: sopravvivenza libera da metastasi ossee HR 0,97 (p=0,70); le analisi esplorative sotto i 50 anni e in premenopausa sono post hoc.",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "31806543",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Meta-analisi dei due trial adiuvanti con denosumab (7929 pazienti)",
+      "esito": "inconcludente",
+      "ragione": "Analisi aggregata; l'HR di 0,9896 per la sopravvivenza libera da metastasi ossee ha un intervallo asimmetrico da verificare.",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "37284523",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Denosumab contro acido zoledronico nel tumore mammario avanzato (2046 randomizzati; registro NCT00321464: 2049)",
+      "esito": "riuscito",
+      "ragione": "Denosumab superiore sul tempo al primo evento scheletrico (HR 0,82); il registro lo dichiara non inferiorità come endpoint primario.",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "21060033",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Dasatinib (inibitore di Src) in due schedule (SWOG S0622, 79 pazienti eleggibili)",
+      "esito": "fallito",
+      "ragione": "Sopravvivenza libera da progressione mediana 12,6 settimane; nessuna coorte ha raggiunto la soglia; nessuna differenza significativa tra i bracci (p=0,85).",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "27475087",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Dasatinib più acido zoledronico (TBCRC-010, fase I/II)",
+      "esito": "inconcludente",
+      "ragione": "Risposta ossea 23% (5/22) e beneficio clinico osseo 36% (8/22; risposta parziale o malattia stabile per almeno 6 mesi); studio piccolo e senza controllo.",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "27166393",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Dasatinib più paclitaxel (fase 2, 40 arruolati)",
+      "esito": "inconcludente",
+      "ragione": "Risposta 23% (8/35 valutabili); interrotto per arruolamento lento.",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "29680193",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Saracatinib più inibitore dell'aromatasi (ARISTACAT, fase II randomizzata, 140 pazienti)",
+      "esito": "fallito",
+      "ragione": "Sopravvivenza libera da progressione 3,7 mesi contro 5,6 con placebo; nessun effetto sulla progressione ossea.",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "36859649",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Odanacatib (inibitore della catepsina K) contro acido zoledronico (43 pazienti, 4 settimane)",
+      "esito": "inconcludente",
+      "ragione": "Il marcatore uNTx cala del 77% contro il 73%, risultati simili con intervalli sovrapposti; lo sviluppo del farmaco è stato sospeso per timori di ictus, dato da una rassegna narrativa secondaria (PMID 34258509).",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "21147688",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Radio-223 con terapia endocrina nei tumori HR+ (due studi di fase 2 terminati, analisi pooled)",
+      "esito": "fallito",
+      "ragione": "Sopravvivenza libera da eventi scheletrici HR 0,809 (p=0,1389), rPFS e OS non significative; progressione della fosfatasi alcalina ossea HR 0,593 (p=0,0195, esplorativo); eventi avversi grado 3-4 25,7% contro 8,5%.",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "38123789",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Elacestrant nei tumori ESR1-mutati, sottogruppo con metastasi ossee (EMERALD)",
+      "esito": "inconcludente",
+      "ragione": "Contro terapia endocrina standard la sopravvivenza libera da progressione mediana è 9,1 contro 1,9 mesi; analisi post hoc esplorativa, non un endpoint osseo.",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "39087959",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Palbociclib più fulvestrant (PALOMA-3, fase 3)",
+      "esito": "inconcludente",
+      "ragione": "Sopravvivenza libera da progressione 9,5 contro 4,6 mesi (HR 0,46); l'endpoint primario è la PFS valutata dallo sperimentatore, eleggibili anche pazienti con malattia solo ossea.",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "26947331",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Inibizione di CXCR4 in modelli preclinici (DEC1; AMD3100 in cellule MDA-MB-231)",
+      "esito": "inconcludente",
+      "ragione": "Il knockdown di DEC1 in 4T1 riduce osteolisi e lesioni; AMD3100 riduce in parte l'aumento di CXCR4 indotto da DEC1 in vitro.",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "40420604",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Balixafortide (antagonista di CXCR4) con eribulina, fase 1",
+      "esito": "inconcludente",
+      "ragione": "Endpoint primari tossicità, dose massima tollerata e farmacocinetica; risposta preliminare (16 su 54 risposte parziali); nessun endpoint osseo.",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "29706375",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Fresolimumab (anti-TGF-beta) con radioterapia focale, studio randomizzato di fattibilità (23 pazienti)",
+      "esito": "inconcludente",
+      "ragione": "Randomizzazione tra due dosi di fresolimumab; la sopravvivenza è un esito, non un endpoint; nessun endpoint osseo.",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "29476019",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Inibitore di FAK nell'asse EZH2-integrina beta1-TGF-beta (preclinico)",
+      "esito": "inconcludente",
+      "ragione": "Gli inibitori di FAK sono efficaci in vivo nelle metastasi ossee; nessun inibitore di TGF-beta testato.",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "35538070",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Anticorpo anti-PTHrP in modelli murini (Guise 1997)",
+      "esito": "inconcludente",
+      "ragione": "Riduce sviluppo e progressione di metastasi ossee con cellule MDA-MB-231; solo topo.",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "9362424",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Anticorpo «CAL» contro acido zoledronico (record di registro NCT00051779 e NCT00060138)",
+      "esito": "inconcludente",
+      "ragione": "Completati, senza risultati; nei record mancano endpoint primari e numerosità; il bersaglio è «CAL»: la natura anti-PTHrP non è dichiarata nei record. Trattano metastasi già stabili, non l'innesco.",
+      "fonte": {
+        "tipo": "NCT",
+        "id": "NCT00051779",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Dasatinib preventivo in un modello murino di xenotrapianto",
+      "esito": "inconcludente",
+      "ragione": "15 dei 30 topi ricevettero dasatinib e mostrarono metastasi scheletriche minori alla bioluminescenza; gli altri 15 erano controllo.",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "32170411",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Inibitore di gamma-secretasi RO4929097 con exemestane (fase Ib, 15 pazienti)",
+      "esito": "inconcludente",
+      "ragione": "Obiettivi sicurezza e dose; dose di fase 2 possibile 90 mg/die; risposta riportata come risultato; nessun endpoint osseo.",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "34903452",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Eradicazione delle cellule midollari disseminate: CLEVER (idrossiclorochina, everolimus o combinazione, fase 2, 51 pazienti)",
+      "esito": "inconcludente",
+      "ragione": "Endpoint primario fattibilità e sicurezza; riduzione stimata delle cellule disseminate 80%, 78% e 87% con probabilità a posteriori 98-99,9%; la recidiva non è l'endpoint. Il registro riporta 53 pazienti.",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "40897974",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Eradicazione delle cellule disseminate: PALAVY e ABBY (registro, in corso)",
+      "esito": "inconcludente",
+      "ragione": "PALAVY (NCT04841148, 96 stimati): primario l'efficacia nell'eradicazione delle cellule disseminate in ER+; ABBY (NCT04523857, 44 stimati): primari eventi avversi e variazione delle cellule disseminate; nessuno ha la recidiva come endpoint.",
+      "fonte": {
+        "tipo": "NCT",
+        "id": "NCT04841148",
+        "verificata": true
+      }
+    }
+  ],
+  "buchi": [
+    {
+      "domanda": "In pazienti non metastatiche ad alto rischio di recidiva ossea, un inibitore di una via del circolo vizioso (anti-PTHrP, Notch, TGF-beta) riduce l'incidenza di nuove lesioni ossee rispetto al controllo, e l'attivazione della via nel tumore primario predice la recidiva ossea? (Riformulata: «guidare la formazione» e «trial con endpoint osseo» confondono due cose: i trial anti-PTHrP trattano metastasi già stabilite e non possono testare l'innesco.)",
+      "verdetto": "PARZIALMENTE FATTO",
+      "verifica": "Esistono solo dati umani correlativi: Jagged1 in 228 tumori associato a cellule disseminate nel midollo (e, nelle pazienti senza metastasi linfonodali, a una DFS più breve); PTHrP che tende a essere più alto nei tumori con metastasi ossee in 497 casi, ma senza differenze tra metastasi ossee e primario in una serie di 80; nessun trial di inibitori mirati con endpoint di nuove lesioni ossee in registro e PubMed (anti-IL-6, gamma-secretasi, TGF-beta e CXCR4 solo con altri endpoint). I record dell'anticorpo «CAL» non riportano risultati.",
+      "disegno": "(a) Studio prospettico su tessuto primario con immunoistochimica o RNA per PTHrP, Jagged1 e fosfo-SMAD2 su biopsie pre-trattamento, con esito la recidiva ossea solitaria a 5 anni. (b) RCT in fase adiuvante, inibitore contro placebo, con scintigrafia o risonanza a intervalli fissi e come endpoint la prima lesione ossea nuova.",
+      "falsificazione": "La via non è un driver se la marcatura nel primario non predice la recidiva ossea rispetto a quella viscerale a parità di stadio, oppure se l'inibitore non riduce le nuove lesioni ossee in intention-to-treat con potenza adeguata.",
+      "fonti": [
+        {
+          "tipo": "PMID",
+          "id": "26597083",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "20126581",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "26721293",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "27184014",
+          "verificata": true
+        },
+        {
+          "tipo": "NCT",
+          "id": "NCT00051779",
+          "verificata": true
+        }
+      ]
+    },
+    {
+      "domanda": "Lo stesso clone mammario, con knockdown di CXCR4 (o inibizione dell'integrina) e rescue, riduce la colonizzazione ossea più di quella polmonare o epatica dopo iniezione endovenosa sistemica, mentre con iniezione intracardiaca la distribuzione è indipendente dal recettore? (Riformulata: la domanda iniziale non specificava la via di iniezione, e l'iniezione intracardiaca bypassa il filtro venoso, quindi è già un confondente.)",
+      "verdetto": "NON TROVATO",
+      "verifica": "Parzialmente fatto per componenti, non per il disegno decisivo: i knockdown di ANGPTL2, TRAIL-R2 e DEC1 riducono le metastasi ossee dopo iniezione intracardiaca, senza confronto con altri organi né tra vie di iniezione; il microambiente osseo modifica la colonizzazione (beta2AR); i dati umani di scintigrafia sono osservazionali. Uno studio che mostra riduzioni del carico metastatico in fegato, osso, cervello e polmone con espressione di BRMS1 non riguarda CXCR4. Un lavoro citato sul CXCR4 osseo (PMID 17121921) è marcato come ritirato e non è usato.",
+      "disegno": "(a) Stesso clone, con knockdown o controllo, iniezione endovenosa e intracardiaca; carico di tumore osseo contro polmonare ed epatico a 4-6 settimane con bioluminescenza e microCT. (b) Rescue con CXCR4 wild-type. (c) Immunoistochimica di CXCR4 su metastasi ossee contro viscerali dello stesso paziente in autopsia o biopsia.",
+      "falsificazione": "Il tropismo è solo anatomico o emodinamico se il knockdown riduce la colonizzazione in modo uguale in tutti gli organi, oppure se la distribuzione endovenosa dello stesso clone segue la stessa mappa dell'anatomia venosa anche dopo il knockdown.",
+      "fonti": [
+        {
+          "tipo": "PMID",
+          "id": "25773070",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "25909161",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "40420604",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "28300321",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "2224435",
+          "verificata": true
+        }
+      ]
+    },
+    {
+      "domanda": "Nelle pazienti con carcinoma mammario operabile e cellule midollari disseminate dopo terapia adiuvante, qual è la probabilità di recidiva a distanza per anno di follow-up, e lo stato di dormienza delle cellule (Ki67, p27, NR2F1) predice la recidiva oltre al solo conteggio? (Riformulata: «quanto dura» presuppone una durata individuale non misurata, e «con quale meccanismo» presuppone un meccanismo unico, mentre i dati indicano meccanismi diversi per sito.)",
+      "verdetto": "PARZIALMENTE FATTO",
+      "verifica": "La durata nell'uomo non è misurata: esiste solo una stima modellistica (SEER, dormienza più lunga in ER+). Esistono marcatori osservazionali (NR2F1 in 86 pazienti), coorti con follow-up lungo che mostrano che le cellule disseminate predicono recidive tardive, e trial di eradicazione delle cellule (CLEVER, PALAVY, ABBY) il cui endpoint non è la recidiva. Non trovate misure di NK o macrofagi ER-alfa positivi nel midollo dei pazienti.",
+      "disegno": "Coorte prospettica con aspirati midollari seriali (basale, 6, 12, 24, 36, 60 mesi); immunofluorescenza multiplex per citocheratina, Ki67, p27 e NR2F1; conteggio di NK e macrofagi ER-alfa positivi nello stesso campione; endpoint la recidiva a distanza; analisi tempo-evento con le cellule come covariata variabile nel tempo, stratificata per ER. Dimensione del campione non stimata.",
+      "falsificazione": "L'ipotesi di dormienza marcata è respinta se NR2F1 e Ki67 non aggiungono capacità predittiva oltre al conteggio (C-index incrementale con intervallo che include 0); l'ipotesi NK e macrofagi nell'uomo è respinta se la densità o l'attivazione non differisce tra chi ricade e chi no.",
+      "fonti": [
+        {
+          "tipo": "PMID",
+          "id": "31264063",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "30322396",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "31752747",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "27909824",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "40897974",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "34993493",
+          "verificata": true
+        }
+      ]
+    },
+    {
+      "domanda": "Per le pazienti con carcinoma mammario e metastasi ossea, quale frazione delle metastasi ossee e delle cellule midollari disseminate deriva da un sottoclone presente alla diagnosi, quale da mutazioni acquisite dopo la disseminazione, e il sito osseo è sorgente di metastasi in altri organi? (Riformulata: «clonale dal primario oppure evoluzione dopo la disseminazione» è un falso dilemma, perché la letteratura mostra entrambe le modalità.)",
+      "verdetto": "PARZIALMENTE FATTO",
+      "verifica": "Esistono studi filogenetici su metastasi multiple e autopsie (più modalità, cross-seeding tra metastasi) e confronti a singola cellula tra cellule disseminate e primario, ma nessuna coppia primario-metastasi ossea umana analizzata a livello di sottoclone con DNA; l'osso come sorgente di altre metastasi è dimostrato solo in modelli sperimentali. Una serie di autopsie indica il polmone, non l'osso, come sorgente di ondate successive in un caso.",
+      "disegno": "Coorte di pazienti con primario, metastasi ossea e almeno un'altra metastasi (biopsie o autopsia rapida), con WES o WGS su tessuto e su singole cellule midollari disseminate; filogenesi con frazioni cellulari e confronto dell'ordine dei subcloni.",
+      "falsificazione": "La clonalità pre-esistente è respinta per quel sottotipo se le cellule midollari e le metastasi ossee non condividono alcun sottoclone con il primario; l'osso come sorgente non è confermato nell'uomo se in nessun paziente un clone osseo precede genealogicamente una metastasi altrove.",
+      "fonti": [
+        {
+          "tipo": "PMID",
+          "id": "28429735",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "28810143",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "32512508",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "34711268",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "33878291",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "12808139",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "24427740",
+          "verificata": true
+        }
+      ]
+    },
+    {
+      "domanda": "In modelli murini di metastasi ossee mammarie con risposta parziale a denosumab, il blocco di RANKL più un secondo asse (PTHrP, IL-6, TGF-beta o CSF-1) riduce l'osteolisi più del blocco singolo e più della somma degli effetti, e nell'uomo esistono osteoclasti RANKL-indipendenti in pazienti progrediti su denosumab? (Riformulata: «combinato» senza modello ed endpoint non è falsificabile.)",
+      "verdetto": "NON TROVATO",
+      "verifica": "Parzialmente fatto in senso preclinico: esperimenti murini a due agenti con endpoint osseo (per esempio bufalina con denosumab) che non dichiarano un disegno fattoriale nell'abstract; un asse RANKL-indipendente descritto in modelli ER+ resistenti a denosumab (2026, non replicato). Nessun anti-PTHrP, anti-IL-6 o anti-TGF-beta in disegno fattoriale con endpoint osseo; nessuna serie umana (biopsie o marcatori) di osteoclasti RANKL-indipendenti. L'unico dato clinico di combinazione trovato riguarda l'asse immunitario (anti-RANKL con immunoterapia).",
+      "disegno": "Topi con metastasi intratibiali di linee ER+ e sensibili; bracci vehicle, denosumab, secondo agente, combinazione (2x2); endpoint primario microCT (BV/TV) e osteoclasti TRAP positivi; analisi di interazione.",
+      "falsificazione": "La sinergia cade se la combinazione non supera il miglior singolo agente, con interazione non significativa; la resistenza RANKL-indipendente cade se nelle lesioni progressive su denosumab gli osteoclasti sono ancora sopprimibili da denosumab in vivo.",
+      "fonti": [
+        {
+          "tipo": "PMID",
+          "id": "42138086",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "24956020",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "36581888",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "40280123",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "42910519",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "43081461",
+          "verificata": true
+        }
+      ]
+    },
+    {
+      "domanda": "Un antiriassorbitivo adiuvante riduce le recidive ossee in un sottogruppo definito a priori (menopausa, ER, uso di inibitore dell'aromatasi, età, rischio)? (Riformulata: la domanda non specificava endpoint (fratture, sopravvivenza libera da metastasi ossee, recidiva ossea) né farmaco (bisfosfonati o denosumab).)",
+      "verdetto": "PARZIALMENTE FATTO",
+      "verifica": "Per i bisfosfonati l'analisi EBCTCG sui dati individuali mostra l'effetto in postmenopausa (RR 0,72) e nessun effetto apparente in premenopausa, con eterogeneità borderline. Per denosumab i due trial differiscono per endpoint primario (fratture contro sopravvivenza libera da metastasi ossee, composito), popolazione e dosaggio, e i segnali nei sottogruppi (sotto i 50 anni, premenopausa, HR+) sono post hoc o esplorativi senza correzione per molteplicità o test di interazione. Nessuna analisi di interazione pre-specificata sui dati individuali dei due trial trovata.",
+      "disegno": "Analisi combinata dei dati individuali di D-CARE e ABCSG-18 con interazione pre-specificata (menopausa, ER, uso di inibitore dell'aromatasi per trattamento), endpoint primario la prima recidiva ossea, correzione per confondenti.",
+      "falsificazione": "L'ipotesi di beneficio in postmenopausa con inibitore dell'aromatasi cade se l'interazione menopausa per trattamento non è significativa nei dati individuali; l'ipotesi per le sotto i 50 anni cade se l'HR non si mantiene con correzione per molteplicità.",
+      "fonti": [
+        {
+          "tipo": "PMID",
+          "id": "26211824",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "31806543",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "34185259",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "26040499",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "38319865",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "37284523",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "39509862",
+          "verificata": true
+        }
+      ]
+    }
+  ],
+  "note": "Procedura: 5 passi della scheda con sotto-agenti in parallelo, 6 domande residue verificate una per una, tre giri di verifica delle fonti PubMed e dei record del registro letti in JSON grezzo (giro 1 riletture dirette, giro 2 confronto di ogni PMID con titolo e abstract con agenti diversi, giro 3 controllo indipendente delle affermazioni negative). Limiti: verifica sugli abstract, non sul testo completo; solo PubMed e ClinicalTrials.gov. Quasi tutte le prove meccanicistiche vengono da modelli murini con linee cellulari (MDA-MB-231, MCF-7, 4T1), spesso con estradiolo a dosi superiori a quelle fisiologiche; diverse sono del 2025-2026 e non replicate; Axl/Gas6 e TGF-beta2 nella dormienza vengono da modelli prostatici. Il giro di verifica ha corretto una cinquantina di affermazioni, tra cui tre direzioni di dati che avevo invertito (HR del triplo negativo contro HER2, quota ER+/PR- nei tumori con metastasi ossee, tasso di metastasi ossee per espressione di PTHrP) e due premesse sbagliate (Minn 2005 riguarda il polmone; il lavoro di Müller 2001 non dimostra l'homing osseo). Un lavoro sul CXCR4 osseo (PMID 17121921, Mol Cancer Ther 2006) è marcato Retracted Publication in PubMed (l'avviso non è stato reperito) e non è usato come prova; un erratum è segnalato per PMID 23372014. Due record del registro discordano dagli articoli (ZO-FAST 602 contro 1065 pazienti; CLEVER 53 contro 51). Fonti non reperite: lavoro originale di Batson, Cox 2015 (LOX), studi primari su BMP7, IGF e Gli2, sequenziamenti di Brown e Hong sul seeding osseo, testo delle linee guida ESMO (abstract non disponibili). Non è una consulenza medica: i dati sui farmaci vanno discussi con il medico curante."
+}
