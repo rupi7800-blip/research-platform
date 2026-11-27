@@ -9,7 +9,7 @@
     "esito": "non verificabile",
     "motivo": "Nessuno studio testa direttamente il legame tra ciò che il praticante percepisce e l'esito del ricevente. I test indiretti trovati (Rosa 1998, Shiflett 2002) sono negativi ma limitati, piccoli e non replicati: il presupposto non risulta supportato, e non è nemmeno smentito in modo definitivo."
   },
-  "sommario": "Non risulta dimostrato che chi pratica pratiche energetiche possa percepire se sta lavorando bene. L'unico test cieco di rilevamento del presunto campo (21 praticanti, 44% di risposte corrette contro il 50% atteso) è negativo ma singolo e non replicato, e in un pilota i praticanti non distinguevano il Reiki dal trattamento finto. Le loro sensazioni non risultano legate al trattamento vero (nel pilota riferivano più calore alle mani proprio i praticanti con il finto) e nessuno studio le ha correlate all'esito; non esiste uno strumento validato che misuri la qualità di un singolo praticante. I miglioramenti riferiti dai riceventi compaiono in parte anche con un trattamento finto, e gli esiti oggettivi sono più spesso nulli. Gli studi misurano soprattutto esiti riferiti dal ricevente e quasi mai monitorano gli eventi avversi. Non è una consulenza medica.",
+  "sommario": "Non risulta dimostrato che chi pratica pratiche energetiche possa percepire se sta lavorando bene. L'unico test cieco di rilevamento del presunto campo (21 praticanti, 44% di risposte corrette contro il 50% atteso) è negativo ma singolo e non replicato, e in un pilota i praticanti non distinguevano il Reiki dal trattamento finto. In un pilota le loro sensazioni non risultavano legate al trattamento vero (riferivano più calore alle mani proprio i praticanti con il finto) e nessuno studio le ha correlate all'esito; non esiste uno strumento validato che misuri la qualità di un singolo praticante. I miglioramenti riferiti dai riceventi compaiono in parte anche con un trattamento finto: in diversi RCT il trattamento supera lo sham su esiti riferiti, mentre gli esiti oggettivi, in una lettura qualitativa non quantificata, sono più spesso nulli o incoerenti. Gli studi misurano soprattutto esiti riferiti dal ricevente e spesso non monitorano gli eventi avversi (in una revisione in cure palliative, 1 studio su 9). Non è una consulenza medica.",
   "sezioni": [
     {
       "titolo": "Cosa percepisce e cosa sa il praticante",
@@ -96,7 +96,7 @@
         },
         {
           "testo": "Dillard e Knapp 2005, revisione sulle terapie complementari per il dolore in pronto soccorso: afferma che mancano studi in doppio cieco che mostrino alta affidabilità inter-osservatore per queste terapie.",
-          "livello": "documentato",
+          "livello": "sperimentale",
           "fonte": {
             "tipo": "PMID",
             "id": "15829396",
@@ -191,7 +191,7 @@
         },
         {
           "testo": "Aggiornamento di una revisione sistematica sulla guarigione a distanza (Ernst 2003): la maggior parte dei trial rigorosi non supporta effetti terapeutici specifici.",
-          "livello": "documentato",
+          "livello": "sperimentale",
           "fonte": {
             "tipo": "PMID",
             "id": "12778776",
@@ -207,17 +207,17 @@
             "id": "",
             "verificata": false
           },
-          "prova": "Sintesi del passo 2 sulle fonti sopra, non una singola fonte. Due lavori che invocano entanglement quantistico o campi elettromagnetici non sono sostenuti dai dati nell'abstract."
+          "prova": "Sintesi del passo 2 sulle fonti sopra, non una singola fonte."
         },
         {
-          "testo": "Un effetto ideomotorio (movimenti involontari che sembrano confermare una sensazione) è stato proposto come spiegazione delle sensazioni del praticante, ma non risulta alcuno studio applicato ai praticanti.",
+          "testo": "Si può ipotizzare un effetto ideomotorio (movimenti involontari che sembrano confermare una sensazione) come spiegazione delle sensazioni del praticante: è un'ipotesi della scheda, e non risulta alcuno studio applicato ai praticanti.",
           "livello": "ipotesi",
           "fonte": {
             "tipo": "",
             "id": "",
             "verificata": false
           },
-          "prova": "Ipotesi dal ragionamento, non da una fonte sui praticanti."
+          "prova": "Ipotesi della scheda, senza fonte."
         }
       ]
     },
@@ -425,7 +425,7 @@
           "prova": "Non esiste una meta-analisi che stratifichi per tipo di esito (vedi buchi)."
         },
         {
-          "testo": "Il feedback che il praticante riceve dai riceventi non è studiato nelle pratiche energetiche per bias di conferma, desiderabilità sociale o regressione verso la media; le ricerche sulla regressione verso la media erano scritte male e vanno ripetute.",
+          "testo": "Il feedback che il praticante riceve dai riceventi non è studiato nelle pratiche energetiche per bias di conferma, desiderabilità sociale o regressione verso la media; la ricerca sulla regressione verso la media non è stata completata.",
           "livello": "ipotesi",
           "fonte": {
             "tipo": "",
@@ -467,7 +467,7 @@
             "id": "43033686",
             "verificata": true
           },
-          "prova": "Conclusione degli autori oltre ciò che le prove di bassa qualità permettono; riguarda il biofield, non il Reiki."
+          "prova": "Giudizio della scheda, non degli autori: la conclusione su sicurezza ed equivalenza agli antidepressivi va oltre 10 studi e un monitoraggio degli eventi avversi non descritto nell'abstract. Riguarda le terapie biofield senza contatto."
         },
         {
           "testo": "Linea guida tedesca S3 (2012) sulla fibromialgia: Reiki non raccomandato; qigong, tai chi e yoga fortemente raccomandati.",
@@ -734,12 +734,22 @@
       }
     },
     {
-      "cosa": "Questionari di miglioramento riferito dopo biofield in Giappone e in 14 paesi (Suzuki 2012 e 2020)",
+      "cosa": "Questionario di miglioramento riferito dopo biofield in Giappone (Suzuki 2012, 44.587 partecipanti)",
       "esito": "inconcludente",
-      "ragione": "Miglioramento riferito circa 70-78% e peggioramenti 0,8-2,8%, senza controllo: mostra quanto un feedback positivo sia frequente, non che sia valido.",
+      "ragione": "Miglioramento riferito circa 70%, senza controllo: mostra quanto un feedback positivo sia frequente, non che sia valido.",
       "fonte": {
         "tipo": "PMID",
         "id": "22875592",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Questionario di miglioramento riferito dopo biofield in 14 paesi (Suzuki 2020, 11.303 partecipanti)",
+      "esito": "inconcludente",
+      "ragione": "Miglioramento riferito 73,8-78,4% e peggioramenti 0,8-2,8%, senza controllo; oltre il 50% dei partecipanti erano praticanti.",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "32551797",
         "verificata": true
       }
     },
@@ -799,8 +809,8 @@
       "domanda": "Un praticante, in cieco e prima di conoscere la condizione, classifica ogni sessione come reale o sham con accuratezza superiore al 50%, con intervallo di confidenza al 95% a livello di sessione e il praticante come cluster? (Riformulata: la domanda iniziale mescolava tre cose diverse: distinguere reale da sham, distinguere la presenza dall'assenza di una persona, e «sapere di fare bene». Riuscire a distinguere non implica qualità né efficacia.)",
       "verdetto": "PARZIALMENTE FATTO",
       "verifica": "Esiste il pilota di Shiflett 2002 (praticanti ciechi non sanno dire se fanno Reiki o sham, senza numeri nell'abstract) e il test di Rosa 1998, che però misura quale mano è vicina e non «reale contro sham». Il test in doppio cieco su cellule (Yount 2004) è al livello del caso. Nessuna replica pubblicata con auto-classificazione per sessione, in 8 formulazioni PubMed e 9 nel controllo indipendente.",
-      "disegno": "Praticanti esperti e sham formati ma non iniziati; sequenza di assegnazione nascosta, nessun feedback, risposta registrata prima della sessione successiva; analisi pre-registrata con modello misto. Calcolo dell'agente, non da fonte: circa 67 prove indipendenti per distinguere 65% da 50% con alfa unilaterale 0,05 e potenza 80%; il clustering ne richiede di più.",
-      "falsificazione": "Respinta se l'IC 95% dell'accuratezza complessiva include il 50% alla fine del campione prefissato; una media del 55% con IC che include il 50% non è una prova. Se gli osservatori terzi non distinguono ma il praticante sì, è una sensazione e non l'identificazione della pratica.",
+      "disegno": "Praticanti esperti e sham formati ma non iniziati; sequenza di assegnazione nascosta, nessun feedback, risposta registrata prima della sessione successiva; analisi pre-registrata con modello misto. Calcolo dell'agente, non da fonte: circa 67 unità indipendenti per distinguere 65% da 50% con alfa unilaterale 0,05 e potenza 80%; poiché la condizione è fissa per praticante, l'unità è il praticante e non la sessione, e il clustering ne richiede di più.",
+      "falsificazione": "Respinta se l'IC 90% bilaterale (coerente con l'alfa unilaterale 0,05) dell'accuratezza complessiva include il 50% alla fine del campione prefissato; una media del 55% con IC che include il 50% non è una prova. Se il praticante distingue solo grazie a indizi del proprio comportamento, non si tratta di rilevamento di un campo.",
       "fonti": [
         {
           "tipo": "PMID",
@@ -851,7 +861,7 @@
     {
       "domanda": "Nel disegno 2x2 (praticante formato o non formato × trattamento reale o sham), con protocollo identico, esiste un'interazione misurabile sull'esito clinico primario? (Riformulata: «abilità» e «certificato» non sono definiti, e con protocolli diversi la formazione si confonde con il trattamento.)",
       "verdetto": "PARZIALMENTE FATTO",
-      "verifica": "Non c'è un RCT 2x2. Esiste Shiflett 2002 (pilota con Reiki master, Reiki practitioner, sham e controllo storico, senza effetto sugli esiti), uno studio quasi sperimentale su Healing Touch (Wilkinson 2002: sIgA più alta solo con praticanti più formati, 22 clienti), l'analisi indiretta della Cochrane 2008 (praticanti più esperti sembravano dare effetti maggiori) e la scoping review 2026, in cui lo sham «non formato» dà effetti in 12 studi su 28. Nessuna definizione operativa di «livello» nei 9 studi del controllo.",
+      "verifica": "Non c'è un RCT 2x2. Esiste Shiflett 2002 (pilota con Reiki master, Reiki practitioner, sham e controllo storico, senza effetto sugli esiti), uno studio quasi sperimentale su Healing Touch (Wilkinson 2002: sIgA più alta solo con praticanti più formati, 22 clienti), l'analisi indiretta della Cochrane 2008 (praticanti più esperti sembravano dare effetti maggiori) e la scoping review 2026, in cui lo sham «non formato» dà effetti in 12 studi su 28, e un piccolo studio con praticanti esperti o appena istruiti (Ventura e Persinger 2014, 9 coppie) con esito non clinico, la coerenza EEG. Nessuna definizione operativa di «livello» nei 9 studi del controllo.",
       "disegno": "RCT 2x2 con ricevente randomizzato a praticante (formato o non formato) e a trattamento (reale o sham), protocollo scritto uguale per tutti, competenza del praticante misurata prima con test in cieco, esito primario pre-registrato (per esempio dolore a 4 settimane) con valutatore cieco, numerosità dalla differenza minima clinicamente rilevante.",
       "falsificazione": "Falsificata se l'interazione formazione × trattamento ha IC 95% tra -d e +d (d = differenza minima clinicamente rilevante) e il contrasto formato-non formato sul braccio reale è nullo; oppure se lo sham da non formato produce lo stesso effetto del Reiki formato.",
       "fonti": [
@@ -885,7 +895,7 @@
     {
       "domanda": "Praticanti diversi che valutano in cieco lo stesso ricevente, con una scheda predefinita e un bersaglio presente o assente, producono classificazioni concordanti oltre il caso (kappa di Fleiss o ICC con IC 95% e soglie prefissate)? (Riformulata: «blocchi», «chakra» e «aura» non sono costrutti misurabili in modo indipendente; l'accordo ha senso solo su un output predefinito, e un accordo alto dimostrerebbe una convenzione condivisa, non l'esistenza di un campo.)",
       "verdetto": "PARZIALMENTE FATTO",
-      "verifica": "Un solo studio di accordo tra praticanti, Hammerschlag 2020 (3 praticanti, 10 soggetti, accordo entro 2 pollici nel 33% nell'analisi preliminare, accordo scarso al test Monte Carlo, senza kappa né ICC nell'abstract). Una revisione afferma l'assenza di studi ciechi ad alta affidabilità inter-osservatore; non è una ricerca sistematica. Nessun kappa o ICC in 8 formulazioni, e 287 risultati su «Human Energy Field Assessment» sono tutti falsi positivi.",
+      "verifica": "Un solo studio di accordo tra praticanti, Hammerschlag 2020 (3 praticanti, 10 soggetti, accordo entro 2 pollici nel 33% nell'analisi preliminare, accordo scarso al test Monte Carlo, senza kappa né ICC nell'abstract). Una revisione afferma l'assenza di studi ciechi ad alta affidabilità inter-osservatore; non è una ricerca sistematica. Nessun kappa o ICC in 8 formulazioni; tra i 287 risultati su «Human Energy Field Assessment» nessuno pertinente tra quelli esaminati (19 riletti).",
       "disegno": "Almeno 3 praticanti, ordine casuale, valutazioni indipendenti, condizione con bersaglio presente e condizione con bersaglio assente in cieco, numerosità calcolata sul kappa o sull'ICC.",
       "falsificazione": "Falsificata se il kappa (IC 95%) non supera la soglia prefissata o include zero; in modo più forte se l'accordo senza bersaglio è uguale a quello con bersaglio: la concordanza misurerebbe convenzione e bias.",
       "fonti": [
@@ -911,7 +921,7 @@
       "verdetto": "PARZIALMENTE FATTO",
       "verifica": "Non esiste una meta-analisi del contrasto Reiki-meno-sham stratificata per tipo di esito e per rischio di bias, né un dato pooled sugli esiti oggettivi. Esistono la scoping review sullo sham (35 RCT), la revisione di Zadro (14 RCT con RoB2 e GRADE, quasi tutte scale auto-riferite), la meta-analisi del noncontact healing, la Cochrane sul dolore, sulle ferite, sull'ansia e sulla depressione. Due record della stessa revisione del 2026 (PMID 42766936 e 42721754) riportano numerosità diverse: discrepanza non risolta.",
       "disegno": "Meta-analisi a livello di contrasto per esito con analisi di sensibilità per cecità verificata e somiglianza dello sham; poi un RCT a tre bracci (Reiki da praticante formato, sham con praticante formato ma inerte, attenzione senza tocco) con esito primario oggettivo pre-registrato e controllo della cecità.",
-      "falsificazione": "Se il contrasto Reiki-meno-sham sugli esiti oggettivi ha IC 95% compatibile con zero (|SMD| minore di 0,2) mentre quello sugli esiti auto-riferiti resta positivo, l'effetto specifico fisiologico è respinto. Se i partecipanti indovinano il gruppo oltre il caso (per esempio oltre il 60%), la differenza sugli esiti soggettivi non è interpretabile.",
+      "falsificazione": "Se il contrasto Reiki-meno-sham sugli esiti oggettivi ha IC 95% interamente compreso tra -0,2 e +0,2 SMD mentre quello sugli esiti auto-riferiti resta positivo, l'effetto specifico fisiologico è respinto. Se i partecipanti indovinano il gruppo oltre il caso (per esempio oltre il 60%), la differenza sugli esiti soggettivi non è interpretabile.",
       "fonti": [
         {
           "tipo": "PMID",
@@ -963,7 +973,7 @@
     {
       "domanda": "Il feedback spontaneo dei riceventi (soddisfazione, ringraziamenti) predice il cambiamento misurato con una scala di esito validata, dopo aggiustamento per baseline, regressione verso la media e aspettativa, nelle pratiche energetiche? (Riformulata: la domanda mescolava soddisfazione, ringraziamento e miglioramento, e solo il terzo è un esito di efficacia; «indicatore valido» va definito come validità di criterio.)",
       "verdetto": "NON TROVATO",
-      "verifica": "Nessuno studio nelle pratiche energetiche su bias di conferma, desiderabilità sociale o regressione verso la media nel feedback, né RCT di feedback strutturato. Solo analogie dalla psicoterapia: terapeuti che sovrastimano gli esiti, feedback strutturato che riduce il peggioramento nei casi a rischio (ma non in emergenza psichiatrica) e dati auto-riferiti non puramente oggettivi. Due ricerche sulla regressione verso la media sono fallite per sintassi e vanno rifatte.",
+      "verifica": "Nessuno studio nelle pratiche energetiche su bias di conferma, desiderabilità sociale o regressione verso la media nel feedback, né RCT di feedback strutturato. Solo analogie dalla psicoterapia: terapeuti che sovrastimano gli esiti, feedback strutturato che riduce il peggioramento nei casi a rischio (ma non in emergenza psichiatrica) e dati auto-riferiti non puramente oggettivi. La ricerca sulla regressione verso la media non è stata completata.",
       "disegno": "Coorte prospettica con almeno 30 praticanti e almeno 10 riceventi ciascuno, scala validata a baseline e a ogni sessione, soddisfazione e ringraziamento raccolti a parte, stima del praticante registrata prima di vedere la scala; braccio di controllo (lista d'attesa o sham con lo stesso praticante); braccio con feedback strutturato al praticante.",
       "falsificazione": "Falsificata se la correlazione tra soddisfazione o stima del praticante e cambiamento misurato, dopo aggiustamento, ha IC 95% che include zero (o r<0,1); se la soddisfazione è uguale nel controllo e nel braccio attivo, non è un indicatore specifico.",
       "fonti": [
