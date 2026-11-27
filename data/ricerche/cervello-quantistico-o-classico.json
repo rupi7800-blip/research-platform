@@ -7,9 +7,9 @@
   "affermazione_iniziale": {
     "testo": "Presupposto della domanda: il cervello va considerato o un sistema quantistico o un sistema classico.",
     "esito": "parziale",
-    "motivo": "La dicotomia non regge: ogni sistema fisico è descritto dalla meccanica quantistica e fenomeni come il tunneling negli enzimi sono dimostrati. La domanda scientificamente utile è se effetti non classici (coerenza, entanglement) abbiano un ruolo funzionale nel calcolo neurale: per questa le fonti lette non mostrano alcuna misura diretta."
+    "motivo": "La dicotomia non regge: per la fisica attuale ogni sistema è descritto dalla meccanica quantistica e fenomeni come il tunneling negli enzimi sono dimostrati. La domanda scientificamente utile è se effetti non classici (coerenza, entanglement) abbiano un ruolo funzionale nel calcolo neurale: per questa le fonti lette non mostrano alcuna misura diretta."
   },
-  "sommario": "La domanda va riformulata: la dicotomia non regge, perché ogni sistema fisico è descritto dalla meccanica quantistica e fenomeni come il tunneling negli enzimi sono dimostrati. La questione scientifica è se effetti non banali, come coerenza ed entanglement, abbiano un ruolo funzionale nel calcolo neurale. Il modello classico descrive bene il singolo neurone; sulla dinamica di rete e sulla coscienza non è risolto. Per un ruolo quantistico funzionale le fonti lette non contengono alcuna misura diretta di coerenza o entanglement nel tessuto neurale vivo. Le stime di decoerenza sono calcoli teorici che divergono di diversi ordini di grandezza, e le proposte più note (Orch OR, molecole di Posner) hanno critiche forti, con articoli favorevoli in gran parte di autori proponenti. L'unico effetto isotopico sperimentale (xeno nel topo, un laboratorio) non ha repliche indipendenti trovate. I modelli «quantum-like» della cognizione sono formalismi matematici e non implicano un cervello fisicamente quantistico. La questione resta aperta e, allo stato delle fonti lette, priva di una prova sperimentale a favore di un ruolo funzionale quantistico.",
+  "sommario": "La domanda va riformulata: la dicotomia non regge, perché per la fisica attuale ogni sistema è descritto dalla meccanica quantistica e fenomeni come il tunneling negli enzimi sono dimostrati. La questione scientifica è se effetti non banali, come coerenza ed entanglement, abbiano un ruolo funzionale nel calcolo neurale. Il modello classico descrive bene il singolo neurone; sulla dinamica di rete e sulla coscienza non è risolto. Per un ruolo quantistico funzionale le fonti lette non contengono alcuna misura diretta di coerenza o entanglement nel tessuto neurale vivo. I proponenti citano un test di entanglement alla risonanza magnetica (Kerskens e López Pérez 2022) e un'evidenza diretta di stato entangled (Wiest 2025), non riletti e senza repliche indipendenti trovate. Le stime di decoerenza sono calcoli teorici che divergono di diversi ordini di grandezza, e le proposte più note (Orch OR, molecole di Posner) hanno critiche forti, con articoli favorevoli in gran parte di autori proponenti. L'unico effetto isotopico sperimentale (xeno nel topo, un laboratorio) non ha repliche indipendenti trovate. I modelli «quantum-like» della cognizione sono formalismi matematici e non implicano un cervello fisicamente quantistico. La questione resta aperta e, allo stato delle fonti lette, priva di una prova sperimentale a favore di un ruolo funzionale quantistico.",
   "sezioni": [
     {
       "titolo": "Il modello classico, la chimica quantistica e la biologia quantistica",
@@ -142,17 +142,27 @@
             "id": "42815650",
             "verificata": true
           },
-          "prova": "La biologia quantistica è uno dei domini della rassegna."
+          "prova": "La biologia quantistica è uno dei domini della rassegna, narrativa e di un campo di nicchia: usata solo come sintesi, non come autorità."
         },
         {
-          "testo": "Ogni sistema fisico, cervello compreso, è descritto dalla meccanica quantistica a livello fondamentale: quindi la domanda utile non è «quantistico oppure classico» ma se effetti non classici come coerenza ed entanglement abbiano un ruolo funzionale alle scale di tempo del calcolo neurale.",
+          "testo": "Per la fisica attuale ogni sistema, cervello compreso, è descritto a livello fondamentale dalla meccanica quantistica.",
+          "livello": "consolidato",
+          "fonte": {
+            "tipo": "",
+            "id": "",
+            "verificata": false
+          },
+          "prova": "Conoscenza di base della fisica: una fonte primaria sulla chimica quantistica ordinaria non è stata reperita nella verifica."
+        },
+        {
+          "testo": "Riformulazione della domanda: la questione utile non è «quantistico oppure classico» ma se effetti non classici come coerenza ed entanglement abbiano un ruolo funzionale alle scale di tempo del calcolo neurale.",
           "livello": "ipotesi",
           "fonte": {
             "tipo": "",
             "id": "",
             "verificata": false
           },
-          "prova": "Riformulazione della scheda; una fonte primaria sulla chimica quantistica ordinaria non è stata reperita nella verifica."
+          "prova": "Riformulazione della scheda, non una fonte."
         }
       ]
     },
@@ -387,7 +397,7 @@
             "id": "42920515",
             "verificata": true
           },
-          "prova": "È la prova più chiara, dentro PubMed, che la misura diretta manca; le evidenze di terzi che cita non sono state rilette."
+          "prova": "È la dichiarazione più esplicita, tra le fonti PubMed lette, che la misura diretta manca (affiliazione dichiarata: ricercatore indipendente); le evidenze di terzi che cita non sono state rilette."
         }
       ]
     },
@@ -496,7 +506,7 @@
         },
         {
           "testo": "Hopfield 1982: modello di rete di neuroni semplici con memoria associativa (accessibile per contenuto), proprietà collettive emergenti e correzione d'errore.",
-          "livello": "sperimentale",
+          "livello": "ipotesi",
           "fonte": {
             "tipo": "PMID",
             "id": "6953413",
@@ -606,7 +616,7 @@
         },
         {
           "testo": "Ozawa e Khrennikov 2019: la rappresentazione di Busemeyer e Wang dell'effetto di ordine non si combina con l'effetto di replicabilità della risposta; la combinazione si modella con strumenti quantistici non atomici.",
-          "livello": "sperimentale",
+          "livello": "ipotesi",
           "fonte": {
             "tipo": "PMID",
             "id": "33285812",
@@ -670,7 +680,7 @@
           "prova": "Rivista non biomedica: la non indicizzazione non dice nulla sull'esistenza dell'articolo."
         },
         {
-          "testo": "Criteri di prova proposti: test di disuguaglianza di Bell o testimoni di entanglement, tempi di decoerenza misurati, effetti isotopici, dipendenza dallo spin. Nessuno dei test di Bell o di entanglement è stato riportato in tessuto neurale vivo nelle fonti lette.",
+          "testo": "Criteri di prova proposti: test di disuguaglianza di Bell o testimoni di entanglement, tempi di decoerenza misurati, effetti isotopici, dipendenza dallo spin. Nessun test di Bell o di entanglement è stato riportato in tessuto neurale vivo nelle fonti lette (Kerskens e López Pérez 2022 dichiara un test, non riletto).",
           "livello": "ipotesi",
           "fonte": {
             "tipo": "",
@@ -696,7 +706,7 @@
     {
       "cosa": "Xeno e anestesia nel topo: isotopi con e senza spin nucleare (Li 2018, un laboratorio, 80 topi maschi C57BL/6)",
       "esito": "inconcludente",
-      "ragione": "Gli isotopi con spin nucleare risultano meno potenti (ED50 con isoflurano 0,50%: 15±4%, 16±5%, 22±5%, 23±7%; da soli 70±4%, 72±5%, 99±5%, 105±7%), con polarizzabilità calcolata identica. L'abstract perde i numeri di massa di due gruppi, quindi l'associazione dei valori agli isotopi si deduce dall'ordine. Nessuna replica indipendente trovata; il controllo per massa e vibrazioni non è nell'abstract.",
+      "ragione": "Gli isotopi con spin nucleare risultano meno potenti, come dal titolo dello studio (ED50 con isoflurano 0,50%: 15±4%, 16±5%, 22±5%, 23±7%; da soli 70±4%, 72±5%, 99±5%, 105±7%), con polarizzabilità calcolata identica. L'abstract perde i numeri di massa di due gruppi, quindi l'associazione dei valori agli isotopi si deduce dall'ordine. Nessuna replica indipendente trovata; il controllo per massa e vibrazioni non è nell'abstract.",
       "fonte": {
         "tipo": "PMID",
         "id": "29642079",
@@ -919,11 +929,6 @@
         },
         {
           "tipo": "PMID",
-          "id": "36910259",
-          "verificata": true
-        },
-        {
-          "tipo": "PMID",
           "id": "42041796",
           "verificata": true
         }
@@ -931,10 +936,10 @@
     },
     {
       "domanda": "A massa e isotopo costanti, lo stato di polarizzazione dello spin nucleare di xeno-129 modifica la potenza anestetica nel topo? (Riformulata: confrontare isotopi diversi confonde spin e massa; lo xeno non ha coppie stabili con la stessa massa e spin diverso.)",
-      "verdetto": "PARZIALMENTE FATTO",
-      "verifica": "L'effetto isotopico dello xeno (Li 2018, un laboratorio) non ha repliche indipendenti trovate in 7 formulazioni; i gruppi con spin sono anche i più leggeri dei quattro, ma il controllo per massa e vibrazioni non è nell'abstract (osservazione della scheda). Un tentativo con isotopi del calcio non mostra differenze (stesso gruppo di Li 2018); gli esperimenti sul litio non separano lo spin dalla massa; due modelli a coppia radicalica riproducono i dati a posteriori. Nessun esperimento a massa costante con spin polarizzato trovato.",
-      "disegno": "Proposta, non eseguita: ED50 del riflesso di raddrizzamento con xeno-129 iperpolarizzato contro xeno-129 a polarizzazione termica, stessa miscela e stesso isoflurano di fondo, polarizzazione misurata al momento della somministrazione (decade nel tempo), operatore cieco, pre-registrazione, controllo con gas di massa comparabile, replica in almeno due laboratori.",
-      "falsificazione": "Respinta se la differenza di ED50 tra xeno-129 iperpolarizzato e termico rientra nell'intervallo di equivalenza pre-registrato, o se un gas di controllo di massa comparabile dà lo stesso effetto.",
+      "verdetto": "NON TROVATO",
+      "verifica": "Parzialmente fatto solo per la domanda originaria (confronto tra isotopi): il disegno a massa costante non è mai stato eseguito. L'effetto isotopico dello xeno (Li 2018, un laboratorio) non ha repliche indipendenti trovate in 7 formulazioni; i gruppi con spin sono anche i più leggeri dei quattro, ma il controllo per massa e vibrazioni non è nell'abstract (osservazione della scheda). Un tentativo con isotopi del calcio non mostra differenze (stesso gruppo di Li 2018); gli esperimenti sul litio non separano lo spin dalla massa; due modelli a coppia radicalica riproducono i dati a posteriori. Nessun esperimento a massa costante con spin polarizzato trovato.",
+      "disegno": "Proposta, non eseguita: ED50 del riflesso di raddrizzamento con xeno-129 iperpolarizzato contro xeno-129 a polarizzazione termica, stessa miscela e stesso isoflurano di fondo, polarizzazione misurata al momento della somministrazione (decade nel tempo: la fattibilità dipende dal decadimento, non reperito), operatore cieco, pre-registrazione, controllo sham con lo stesso xeno-129 passato nel polarizzatore senza pompaggio ottico, replica in almeno due laboratori.",
+      "falsificazione": "Respinta se la differenza di ED50 tra xeno-129 iperpolarizzato e termico rientra nell'intervallo di equivalenza pre-registrato, o se il controllo sham dà lo stesso effetto.",
       "fonti": [
         {
           "tipo": "PMID",
@@ -975,10 +980,10 @@
     },
     {
       "domanda": "Qual è il tempo di coerenza misurato, non calcolato, di spin del fosforo in cluster Ca9(PO4)6 o di eccitoni in tubulina a 37 gradi? (Riformulata: la domanda mescolava modelli e misure: il riesame trovato è solo teorico.)",
-      "verdetto": "PARZIALMENTE FATTO",
-      "verifica": "Le stime di decoerenza sono state riesaminate solo con calcoli: Tegmark 2000 (da 10^-13 a 10^-20 s), Hagan e altri 2002 (10^-5-10^-4 s) e altre stime di segno diverso; per le molecole di Posner solo simulazioni. Echternach 2026 scrive che bisogna misurare direttamente la decoerenza nei microtubuli prima di assegnare un ruolo funzionale. Non trovata una rassegna recente equilibrata della disputa. La ricerca sulle molecole di Posner dà 123 risultati, letti solo in parte: non va considerata esaustiva.",
+      "verdetto": "NON TROVATO",
+      "verifica": "Nessuna misura diretta. Le stime di decoerenza sono state riesaminate solo con calcoli: Tegmark 2000 (da 10^-13 a 10^-20 s), Hagan e altri 2002 (10^-5-10^-4 s) e altre stime di ordine di grandezza diverso; misure affini (Kalra 2023, Babcock 2024) riguardano diffusione di energia e fluorescenza, non coerenza; per le molecole di Posner solo simulazioni. Echternach 2026 scrive che bisogna misurare direttamente la decoerenza nei microtubuli prima di assegnare un ruolo funzionale. Non trovata una rassegna recente equilibrata della disputa. La ricerca sulle molecole di Posner dà 123 risultati, letti solo in parte: non va considerata esaustiva.",
       "disegno": "Cluster di Posner sintetici in tampone a 37 gradi con risonanza magnetica nucleare del fosforo-31 e sequenze di entanglement, misurando T2 e tempo di entanglement; microtubuli purificati a 37 gradi con spettroscopia ultraveloce del triptofano, misurando migrazione e decoerenza degli eccitoni; soglie fissate prima, replica indipendente.",
-      "falsificazione": "Un ruolo funzionale è sfavorito se il tempo misurato è inferiore a circa 10^-3 s (limite basso delle scale neurali usato da Tegmark); è compatibile con un ruolo, senza dimostrarlo, se supera circa 10^-1 s e viene replicato in modo indipendente.",
+      "falsificazione": "Un ruolo funzionale è sfavorito se il tempo misurato è inferiore a circa 10^-3 s (limite basso delle scale neurali usato da Tegmark); è compatibile con un ruolo, senza dimostrarlo, se supera circa 10^-1 s (limite alto della stessa scala di Tegmark; soglia scelta dalla scheda) e viene replicato in modo indipendente.",
       "fonti": [
         {
           "tipo": "PMID",
@@ -1014,6 +1019,16 @@
           "tipo": "PMID",
           "id": "42920515",
           "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "36968538",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "38641327",
+          "verificata": true
         }
       ]
     },
@@ -1021,8 +1036,8 @@
       "domanda": "Esiste un test pre-registrato di Orch OR con risultati pubblicati? (Riformulata: «test di Orch OR» mescola due ipotesi: il collasso gravitazionale è osservato alla scala prevista, e l'effetto anestetico dipende dai microtubuli in modo specifico? Un risultato nullo sul collasso falsifica Orch OR solo se la teoria richiede quella forma di collasso.)",
       "verdetto": "NON TROVATO",
       "verifica": "Nessuna pre-registrazione con risultati trovata in PubMed (PubMed non indicizza registri come OSF, che non sono stati consultati). Esistono test indiretti del collasso (Majorana 2022) e un'analisi critica (Derakhshani 2022); un esperimento sul ratto con epotilone B (Khan 2024) senza pre-registrazione né controllo noto dall'abstract; Hameroff 2021 scrive che la teoria è facilmente falsificabile senza indicare un criterio. Non verificato se il limite di Majorana copra la finestra di collasso predetta per i microtubuli.",
-      "disegno": "(a) radiazione spontanea o interferometria su sistemi con energia gravitazionale nota, confrontate con la scala temporale prevista; (b) tre bracci pre-registrati con dose-risposta e riflesso di raddrizzamento: epotilone B, controllo con pari sedazione senza legame ai microtubuli, stabilizzatore di microtubuli in cellule non neuronali.",
-      "falsificazione": "(a) Se il collasso osservato cade fuori dalla finestra predetta, fissata prima della misura, la versione gravitazionale di Orch OR è esclusa a quella scala. (b) Se l'effetto dell'epotilone B è uguale a quello del controllo non legato ai microtubuli, l'ipotesi quantistica dei microtubuli non ha sostegno specifico.",
+      "disegno": "(a) radiazione spontanea o interferometria su sistemi con energia gravitazionale nota, confrontate con la scala temporale prevista; (b) tre bracci pre-registrati con dose-risposta e riflesso di raddrizzamento: epotilone B, controllo con pari sedazione senza legame ai microtubuli, stabilizzatore di microtubuli che non attraversa la barriera emato-encefalica.",
+      "falsificazione": "(a) Se il collasso osservato cade fuori dalla finestra predetta, fissata prima della misura, la versione gravitazionale di Orch OR è esclusa a quella scala. (b) Se l'effetto dell'epotilone B è uguale a quello del controllo non legato ai microtubuli, l'ipotesi quantistica dei microtubuli non ha sostegno specifico; un effetto diverso dal controllo indicherebbe un ruolo dei microtubuli, non specificamente quantistico.",
       "fonti": [
         {
           "tipo": "PMID",
@@ -1110,7 +1125,7 @@
       "verdetto": "NON TROVATO",
       "verifica": "Nessun sondaggio sul ruolo quantistico in 4 formulazioni PubMed. Il più vicino, Michel 2018 (249 partecipanti, informale), riguarda la scienza della coscienza in generale e non cita teorie quantistiche. La rassegna del 2026 (Arias-Carrión) afferma che nessuno studio ha dimostrato entanglement o coerenza di lunga durata nel tessuto neurale, ma è la posizione di tre autori. Il confronto con l'argomento di Penrose e Lucas sulla non computabilità non è stato trovato in PubMed (le riviste di filosofia non sono indicizzate): quel dibattito resta non verificato con questo strumento.",
       "disegno": "Sondaggio pre-registrato con campione stratificato (neuroscienziati cognitivi, fisici quantistici, filosofi della mente come gruppo a parte), 5-10 affermazioni definite su scala di Likert, tasso di risposta dichiarato, intervalli bootstrap.",
-      "falsificazione": "La posizione «effetti quantistici funzionali» prevale se oltre il 50% è favorevole con IC 95% sopra il 50% in entrambi i gruppi; il consenso «classico» è falsificato se la maggioranza di neuroscienziati o fisici sostiene l'affermazione funzionale con IC sopra il 50%.",
+      "falsificazione": "La posizione «effetti quantistici funzionali» prevale se oltre il 50% è favorevole con IC 95% sopra il 50% in ciascun gruppo; il consenso «classico» è falsificato se la maggioranza di neuroscienziati o fisici sostiene l'affermazione funzionale con IC sopra il 50%.",
       "fonti": [
         {
           "tipo": "PMID",
@@ -1125,5 +1140,5 @@
       ]
     }
   ],
-  "note": "Procedura: 5 passi della scheda con sotto-agenti in parallelo, 6 domande residue verificate una per una, tre giri di verifica delle fonti PubMed (giro 1 riletture dirette, giro 2 confronto di ogni PMID con titolo e abstract con agenti diversi, giro 3 controllo indipendente delle affermazioni negative). Limiti importanti: verifica sugli abstract, non sul testo completo; l'accesso a arXiv e ad altri siti di fisica non era disponibile per gli agenti, quindi le fonti non PubMed (Fisher 2015, Kerskens e López Pérez 2022, la critica di Warren 2023, la risposta di Stapp a Tegmark, i test del collasso di Donadi e le critiche all'argomento di Penrose e Lucas) non sono state rilette e restano non verificate o non reperite. Molti degli articoli favorevoli a ipotesi quantistiche sono di autori proponenti, e i loro abstract non sono prove indipendenti. Alcuni abstract hanno perso i numeri di massa degli isotopi (Li 2018), per cui l'associazione dei valori ai singoli isotopi si deduce dall'ordine. Le osservazioni sulla massa degli isotopi dello xeno e sul fatto che i modelli quantum-like non implichino un cervello quantistico sono inferenze della scheda. Molte fonti sono del 2026. La scheda non prende posizione: indica cosa le fonti lette mostrano e cosa manca. Non è una consulenza medica."
+  "note": "Procedura: 5 passi della scheda con sotto-agenti in parallelo, 6 domande residue verificate una per una, tre giri di verifica delle fonti PubMed (giro 1 riletture dirette, giro 2 confronto di ogni PMID con titolo e abstract con agenti diversi, giro 3 controllo indipendente delle affermazioni negative). Limiti importanti: verifica sugli abstract, non sul testo completo; l'accesso a arXiv e ad altri siti di fisica non era disponibile per gli agenti, quindi le fonti non PubMed (Fisher 2015, Kerskens e López Pérez 2022, la critica di Warren 2023, la risposta di Stapp a Tegmark, i test del collasso di Donadi e le critiche all'argomento di Penrose e Lucas) non sono state rilette e restano non verificate o non reperite. Molti degli articoli favorevoli a ipotesi quantistiche sono di autori proponenti, e i loro abstract non sono prove indipendenti. Alcuni abstract hanno perso i numeri di massa degli isotopi (Li 2018), per cui l'associazione dei valori ai singoli isotopi si deduce dall'ordine. Le osservazioni sulla massa degli isotopi dello xeno e sul fatto che i modelli quantum-like non implichino un cervello quantistico sono inferenze della scheda. Molte fonti sono del 2026. Ritiri e correzioni: nei record riletti i metadati PubMed non segnalano ritiri; le errata non sono state controllate una per una. La scheda non prende posizione: indica cosa le fonti lette mostrano e cosa manca. Non è una consulenza medica."
 }
