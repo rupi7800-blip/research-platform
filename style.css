@@ -20,5 +20,16 @@ h2{margin-top:0}h3{border-bottom:1px solid var(--lin);padding-bottom:4px;margin-
 .badge{display:inline-block;font-size:.75rem;padding:1px 7px;border-radius:10px;border:1px solid currentColor;margin-left:6px;white-space:nowrap}
 .badge.ok{color:var(--ok)}.badge.no{color:var(--no)}.badge.ass{color:var(--ass)}.badge.liv{color:var(--mut)}
 .prova{color:var(--mut);font-size:.92rem;margin:4px 0 0}
+a.badge{text-decoration:none}a.badge:hover,a.badge:focus-visible{background:var(--lin)}
+mark{background:#ffe27a;color:#1d2327;border-radius:2px;padding:0 1px}
+.filtri{background:var(--pan);border:1px solid var(--lin);border-radius:8px;padding:8px 12px;margin:16px 0}
+.filtri .conta{margin:0 0 6px;font-weight:600}
+.gruppo{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin:4px 0}
+.gruppo .et{color:var(--mut);font-size:.85rem;margin-right:2px}
+.chip{font:inherit;font-size:.82rem;padding:2px 10px;border-radius:14px;border:1px solid var(--lin);background:var(--bg);color:var(--fg);cursor:pointer}
+.chip.on{background:var(--acc);border-color:var(--acc);color:var(--bg)}
+.azzera{margin-top:6px}
+.estratti{margin:6px 0 0;padding-left:18px;color:var(--mut);font-size:.92rem}
 footer{padding:12px 16px;border-top:1px solid var(--lin);font-size:.85rem;color:var(--mut)}
+@media (min-width:721px){.filtri{position:sticky;top:0;z-index:1}}
 @media (max-width:720px){.corpo{grid-template-columns:1fr}nav{border-right:0;border-bottom:1px solid var(--lin)}}

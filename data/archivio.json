@@ -45,7 +45,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "9533499",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/9533499/"
               },
               "prova": "È l'unico test cieco di rilevamento del presunto campo trovato; è un singolo studio, non replicato in modo indipendente, e il compito non è «vero contro finto»."
             },
@@ -55,7 +56,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "12564352",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/12564352/"
               },
               "prova": "Critica metodologica, non una prova positiva di rilevamento."
             },
@@ -65,7 +67,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "12614528",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/12614528/"
               },
               "prova": "Pilota con un controllo storico; l'abstract non riporta numeri di accuratezza né il numero di praticanti."
             },
@@ -75,7 +78,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "15253850",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/15253850/"
               },
               "prova": "Rilevamento di cellule in beuta, non di un campo umano."
             },
@@ -85,7 +89,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "10328637",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/10328637/"
               },
               "prova": "Pilota molto piccolo, non uno studio di efficacia."
             },
@@ -95,7 +100,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "18466849",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/18466849/"
               },
               "prova": "Descrizioni dei praticanti; l'abstract non indica misure indipendenti."
             },
@@ -105,7 +111,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "33132081",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/33132081/"
               },
               "prova": "Un solo osservatore; il predittore non è la sensazione del praticante."
             },
@@ -115,7 +122,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "32721212",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/32721212/"
               },
               "prova": "Piccolo; è lo studio di accordo tra praticanti più vicino a quanto cercato, ma con una metrica diversa."
             },
@@ -125,7 +133,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "15829396",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/15829396/"
               },
               "prova": "Affermazione di una revisione, non di una ricerca sistematica: la ricerca di verifica ha trovato solo lo studio di Hammerschlag."
             },
@@ -135,7 +144,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "23210468",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/23210468/"
               },
               "prova": "Piccolo; misura un campo elettromagnetico, non la percezione del praticante."
             },
@@ -145,7 +155,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "22863644",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/22863644/"
               },
               "prova": "Misura lo stato del praticante, non l'esito del ricevente."
             },
@@ -155,7 +166,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "24767262",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/24767262/"
               },
               "prova": "Segnali del praticante non risultano validati come indicatori dello stato del ricevente."
             },
@@ -180,7 +192,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "8080307",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/8080307/"
               },
               "prova": "Piccolo; non separa aspettativa e tocco."
             },
@@ -190,7 +203,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "38652801",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/38652801/"
               },
               "prova": "Una componente contestuale è presente anche nello sham; l'effetto non risulta specifico del Reiki."
             },
@@ -200,7 +214,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "12462824",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/12462824/"
               },
               "prova": "Molto piccolo; la vasocostrizione è opposta alla vasodilatazione attesa per il rilassamento."
             },
@@ -210,7 +225,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "25457442",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/25457442/"
               },
               "prova": "Include sistemi non umani e non stratifica per tipo di trattamento finto."
             },
@@ -220,7 +236,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "12778776",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/12778776/"
               },
               "prova": "L'abstract riguarda la guarigione a distanza, non la guarigione energetica in generale."
             },
@@ -255,7 +272,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "42551571",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42551571/"
               },
               "prova": "Non è una meta-analisi e l'abstract non stratifica per esito né per rischio di bias: «non formato» non è un controllo inerte."
             },
@@ -265,7 +283,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "21531671",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/21531671/"
               },
               "prova": "Gli autori attribuiscono l'effetto alla presenza dell'infermiera."
             },
@@ -275,7 +294,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "16449745",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/16449745/"
               },
               "prova": "L'abstract non indica la numerosità; lo sham non è neutro."
             },
@@ -285,7 +305,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "9687125",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/9687125/"
               },
               "prova": "Esito auto-riferito con cecità singola."
             },
@@ -295,7 +316,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "33639007",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/33639007/"
               },
               "prova": "Esito oggettivo; follow-up breve."
             },
@@ -305,7 +327,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "23817594",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/23817594/"
               },
               "prova": "Esito osservato; il terapeuta era dietro una tenda."
             },
@@ -315,7 +338,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "21821642",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/21821642/"
               },
               "prova": "Piccolo crossover; esito fisiologico positivo."
             },
@@ -325,7 +349,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "33639516",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/33639516/"
               },
               "prova": "Pilota piccolo con esiti fisiologici."
             },
@@ -335,7 +360,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "36272846",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/36272846/"
               },
               "prova": "Esiti auto-riferiti."
             },
@@ -345,7 +371,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "41183719",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/41183719/"
               },
               "prova": "Esito auto-riferito; la cecità è dichiarata riuscita dagli autori."
             },
@@ -355,7 +382,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "41015064",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/41015064/"
               },
               "prova": "I p sono dal confronto complessivo tra i gruppi, non da confronti Reiki-sham."
             },
@@ -365,7 +393,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "18843720",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/18843720/"
               },
               "prova": "Controlli misti sham e nessun trattamento; analisi indiretta sull'esperienza."
             },
@@ -375,7 +404,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "25835541",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/25835541/"
               },
               "prova": "Revisione del 2015."
             },
@@ -385,7 +415,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "17636838",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/17636838/"
               },
               "prova": "Ricerca aggiornata a gennaio 2006: versione del 2007."
             },
@@ -395,7 +426,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "27552401",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/27552401/"
               },
               "prova": "Esito oggettivo, evidenza debole."
             },
@@ -405,7 +437,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "30076965",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/30076965/"
               },
               "prova": "Include più terapie, non solo il tocco; mostra come miglioramenti prima-dopo possano non dipendere dal trattamento."
             },
@@ -415,7 +448,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "19922247",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/19922247/"
               },
               "prova": "I risultati positivi sono in prevalenza di bassa qualità."
             },
@@ -425,7 +459,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "18410352",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/18410352/"
               },
               "prova": "Revisione precedente, stesso messaggio della voce sopra."
             },
@@ -435,7 +470,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "11452571",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/11452571/"
               },
               "prova": "Non è una revisione di studi e riguarda il qigong."
             },
@@ -470,7 +506,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "42108752",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42108752/"
               },
               "prova": "«Nessun evento avverso riportato» non equivale a sicurezza."
             },
@@ -480,7 +517,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "31780011",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/31780011/"
               },
               "prova": "Usata solo come esempio del problema, non come prova di sicurezza del Reiki."
             },
@@ -490,7 +528,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "43033686",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/43033686/"
               },
               "prova": "Giudizio della scheda, non degli autori: la conclusione su sicurezza ed equivalenza agli antidepressivi va oltre 10 studi e un monitoraggio degli eventi avversi non descritto nell'abstract. Riguarda le terapie biofield senza contatto."
             },
@@ -500,7 +539,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "22760464",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/22760464/"
               },
               "prova": "Una sola indicazione, sulla fibromialgia."
             },
@@ -510,7 +550,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "40290410",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/40290410/"
               },
               "prova": "Non è un'analisi dell'etica della medicina complementare in generale."
             },
@@ -520,7 +561,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "37595119",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/37595119/"
               },
               "prova": "Qualità bassa; gli autori chiedono più RCT."
             },
@@ -530,7 +572,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "35911042",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/35911042/"
               },
               "prova": "Giudizi GRADE degli autori, non ricontrollati."
             },
@@ -540,7 +583,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "40148929",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/40148929/"
               },
               "prova": "Effetto piccolo, al limite della significatività."
             },
@@ -550,7 +594,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "19856109",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/19856109/"
               },
               "prova": "Sintesi di «migliori evidenze», non una meta-analisi."
             },
@@ -560,7 +605,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "42392933",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42392933/"
               },
               "prova": "Esito auto-riferito."
             },
@@ -570,7 +616,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "41051913",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/41051913/"
               },
               "prova": "Esiti osservati con scala, cecità singola."
             },
@@ -580,7 +627,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "22875592",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/22875592/"
               },
               "prova": "Auto-riferito, senza controllo: mostra quanto un feedback positivo possa essere frequente senza dimostrare efficacia."
             },
@@ -590,7 +638,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "32551797",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/32551797/"
               },
               "prova": "Nessun controllo."
             },
@@ -600,7 +649,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "31638407",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/31638407/"
               },
               "prova": "Senza gruppo di confronto; un'affiliazione degli autori è un centro di ricerca sul Reiki."
             },
@@ -625,7 +675,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "9533499",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9533499/"
           }
         },
         {
@@ -635,7 +686,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "12564352",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12564352/"
           }
         },
         {
@@ -645,7 +697,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "12614528",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12614528/"
           }
         },
         {
@@ -655,7 +708,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "15253850",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15253850/"
           }
         },
         {
@@ -665,7 +719,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "9395679",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9395679/"
           }
         },
         {
@@ -675,7 +730,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "23210468",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23210468/"
           }
         },
         {
@@ -685,7 +741,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "39622875",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39622875/"
           }
         },
         {
@@ -695,7 +752,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "24967637",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24967637/"
           }
         },
         {
@@ -705,7 +763,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "32798173",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32798173/"
           }
         },
         {
@@ -715,7 +774,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "15135764",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15135764/"
           }
         },
         {
@@ -725,7 +785,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "26665041",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26665041/"
           }
         },
         {
@@ -735,7 +796,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "28149063",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28149063/"
           }
         },
         {
@@ -745,7 +807,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "35392431",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35392431/"
           }
         },
         {
@@ -755,7 +818,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "11890432",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11890432/"
           }
         },
         {
@@ -765,7 +829,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "22875592",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22875592/"
           }
         },
         {
@@ -775,7 +840,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "32551797",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32551797/"
           }
         },
         {
@@ -785,7 +851,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "28183083",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28183083/"
           }
         },
         {
@@ -795,7 +862,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "30335463",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30335463/"
           }
         },
         {
@@ -805,7 +873,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "29937396",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29937396/"
           }
         },
         {
@@ -815,7 +884,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "27095106",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27095106/"
           }
         },
         {
@@ -825,7 +895,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "37322037",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37322037/"
           }
         }
       ],
@@ -840,22 +911,26 @@
             {
               "tipo": "PMID",
               "id": "12614528",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/12614528/"
             },
             {
               "tipo": "PMID",
               "id": "9533499",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/9533499/"
             },
             {
               "tipo": "PMID",
               "id": "10328637",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/10328637/"
             },
             {
               "tipo": "PMID",
               "id": "15253850",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/15253850/"
             }
           ]
         },
@@ -869,17 +944,20 @@
             {
               "tipo": "PMID",
               "id": "12614528",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/12614528/"
             },
             {
               "tipo": "PMID",
               "id": "33132081",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/33132081/"
             },
             {
               "tipo": "PMID",
               "id": "18466849",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/18466849/"
             }
           ]
         },
@@ -893,27 +971,32 @@
             {
               "tipo": "PMID",
               "id": "12614528",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/12614528/"
             },
             {
               "tipo": "PMID",
               "id": "11890432",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/11890432/"
             },
             {
               "tipo": "PMID",
               "id": "18843720",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/18843720/"
             },
             {
               "tipo": "PMID",
               "id": "42551571",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42551571/"
             },
             {
               "tipo": "PMID",
               "id": "24967637",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/24967637/"
             }
           ]
         },
@@ -927,17 +1010,20 @@
             {
               "tipo": "PMID",
               "id": "32721212",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/32721212/"
             },
             {
               "tipo": "PMID",
               "id": "9533499",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/9533499/"
             },
             {
               "tipo": "PMID",
               "id": "15829396",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/15829396/"
             }
           ]
         },
@@ -951,47 +1037,56 @@
             {
               "tipo": "PMID",
               "id": "42551571",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42551571/"
             },
             {
               "tipo": "PMID",
               "id": "35911042",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/35911042/"
             },
             {
               "tipo": "PMID",
               "id": "25457442",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/25457442/"
             },
             {
               "tipo": "PMID",
               "id": "18843720",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/18843720/"
             },
             {
               "tipo": "PMID",
               "id": "27552401",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/27552401/"
             },
             {
               "tipo": "PMID",
               "id": "25835541",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/25835541/"
             },
             {
               "tipo": "PMID",
               "id": "17636838",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/17636838/"
             },
             {
               "tipo": "PMID",
               "id": "42766936",
-              "verificata": false
+              "verificata": false,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42766936/"
             },
             {
               "tipo": "PMID",
               "id": "42721754",
-              "verificata": false
+              "verificata": false,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42721754/"
             }
           ]
         },
@@ -1005,27 +1100,32 @@
             {
               "tipo": "PMID",
               "id": "28183083",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/28183083/"
             },
             {
               "tipo": "PMID",
               "id": "29937396",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/29937396/"
             },
             {
               "tipo": "PMID",
               "id": "27095106",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/27095106/"
             },
             {
               "tipo": "PMID",
               "id": "37322037",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/37322037/"
             },
             {
               "tipo": "PMID",
               "id": "30335463",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/30335463/"
             }
           ]
         }
@@ -1054,7 +1154,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "17308163",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/17308163/"
               },
               "prova": "Rassegna di biologia ossea normale."
             },
@@ -1064,7 +1165,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "18395508",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/18395508/"
               },
               "prova": "Rassegna."
             },
@@ -1074,7 +1176,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "32927921",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/32927921/"
               },
               "prova": "Rassegna 2020."
             },
@@ -1084,7 +1187,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "10745942",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/10745942/"
               },
               "prova": "Rassegna del 2000, in francese con abstract in inglese."
             },
@@ -1094,7 +1198,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "32232008",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/32232008/"
               },
               "prova": "Rassegna 2020 sulla nicchia endostale."
             },
@@ -1104,7 +1209,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "34836954",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/34836954/"
               },
               "prova": "Solo topo; non confermato nell'uomo."
             },
@@ -1114,7 +1220,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "40907490",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/40907490/"
               },
               "prova": "Il dato umano è una correlazione."
             },
@@ -1124,7 +1231,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "36607507",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/36607507/"
               },
               "prova": "Rassegna sulla biopsia liquida (mammella, prostata, melanoma), senza dati di frequenza."
             },
@@ -1134,7 +1242,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "28602171",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/28602171/"
               },
               "prova": "Mediane tra studi eterogenei, non un'incidenza unica."
             },
@@ -1144,7 +1253,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "18059174",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/18059174/"
               },
               "prova": "Cifra riportata da una rassegna, incompatibile con la meta-analisi per gli stadi I-III: dipende dal denominatore (malattia avanzata)."
             },
@@ -1154,7 +1264,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "14600591",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/14600591/"
               },
               "prova": "Rassegna con un modello proposto."
             },
@@ -1164,7 +1275,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "20498394",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/20498394/"
               },
               "prova": "Dati storici."
             },
@@ -1174,7 +1286,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "23897954",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/23897954/"
               },
               "prova": "Analisi retrospettiva di trial."
             },
@@ -1184,7 +1297,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "36761968",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/36761968/"
               },
               "prova": "Retrospettivo; denominatore delle percentuali poco chiaro."
             },
@@ -1194,7 +1308,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "19778431",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/19778431/"
               },
               "prova": "Retrospettivo."
             },
@@ -1204,7 +1319,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "26937933",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/26937933/"
               },
               "prova": "Retrospettivo su 434 coppie; sono curve di rischio osservazionali: non dimostrano una dormienza biologica specifica."
             },
@@ -1214,7 +1330,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "18715613",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/18715613/"
               },
               "prova": "Piccola serie; non è la frequenza di metastasi ossee nei tumori ER+/PR-."
             },
@@ -1224,7 +1341,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "25351174",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/25351174/"
               },
               "prova": "Rassegna; la frequenza esatta non è nell'abstract."
             },
@@ -1234,7 +1352,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "17952675",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/17952675/"
               },
               "prova": "Singolo centro; «osteolitico uguale mammario» è vero solo in parte."
             },
@@ -1244,7 +1363,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "17592153",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/17592153/"
               },
               "prova": "Serie piccola."
             },
@@ -1254,7 +1374,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "25971426",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/25971426/"
               },
               "prova": "Sottogruppo lobulare piccolo."
             },
@@ -1264,7 +1385,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "17062708",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/17062708/"
               },
               "prova": "Rassegna non specifica per il tumore mammario."
             }
@@ -1279,7 +1401,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "18485877",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/18485877/"
               },
               "prova": "Nessuna prova che l'EMT selezioni il tropismo osseo."
             },
@@ -1289,7 +1412,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "23372014",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/23372014/"
               },
               "prova": "Piccolo; esiste anche un erratum."
             },
@@ -1299,7 +1423,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "11242036",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/11242036/"
               },
               "prova": "Non dimostra l'homing osseo: l'effetto riportato è su linfonodi e polmone."
             },
@@ -1309,7 +1434,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "11912162",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/11912162/"
               },
               "prova": "Cellule prostatiche, non mammarie."
             },
@@ -1319,7 +1445,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "19573813",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/19573813/"
               },
               "prova": "Correlazione clinica più dati sperimentali."
             },
@@ -1329,7 +1456,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "12842083",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/12842083/"
               },
               "prova": "Modello sperimentale; la sovrapposizione è una correlazione, non una predizione."
             },
@@ -1339,7 +1467,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "16049480",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/16049480/"
               },
               "prova": "Riguarda il polmone, non l'osso."
             },
@@ -1349,7 +1478,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "9179192",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/9179192/"
               },
               "prova": "Tumore prostatico; nessuna prova diretta nel mammario."
             },
@@ -1359,7 +1489,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "880573",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/880573/"
               },
               "prova": "L'abstract subordina la conclusione alla solidità del dato."
             },
@@ -1369,7 +1500,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "2224435",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/2224435/"
               },
               "prova": "Osservazionale: non distingue le ipotesi."
             },
@@ -1379,7 +1511,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "7252563",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/7252563/"
               },
               "prova": "Osservazionale."
             },
@@ -1389,7 +1522,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "29098360",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/29098360/"
               },
               "prova": "Il lavoro primario del 2015 non è stato reperito."
             },
@@ -1399,7 +1533,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "26649326",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/26649326/"
               },
               "prova": "Descrittivo."
             },
@@ -1409,7 +1544,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "26524530",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/26524530/"
               },
               "prova": "Una nicchia ossea mammaria non è dimostrata direttamente."
             },
@@ -1419,7 +1555,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "25773070",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/25773070/"
               },
               "prova": "L'iniezione intracardiaca bypassa il filtro venoso; non confronta altri organi."
             },
@@ -1429,7 +1566,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "25909161",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/25909161/"
               },
               "prova": "Stesso limite del precedente."
             },
@@ -1439,7 +1577,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "23728425",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/23728425/"
               },
               "prova": "TGF-beta1, non beta2."
             },
@@ -1449,7 +1588,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "27819283",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/27819283/"
               },
               "prova": "Dato prostatico, non mammario."
             },
@@ -1459,7 +1599,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "30291220",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/30291220/"
               },
               "prova": "Dato prostatico."
             },
@@ -1469,7 +1610,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "23637920",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/23637920/"
               },
               "prova": "Associazione, non causalità."
             },
@@ -1479,7 +1621,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "34058066",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/34058066/"
               },
               "prova": "Risultato negativo in vivo."
             },
@@ -1489,7 +1632,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "39699130",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/39699130/"
               },
               "prova": "Lo studio primario su BMP7 non è stato reperito."
             },
@@ -1499,7 +1643,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "34993493",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/34993493/"
               },
               "prova": "L'abstract non nomina la specie: «murino» è dedotto dal modello NG2-CreER; numerosità umana non riportata."
             },
@@ -1509,7 +1654,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "27225183",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/27225183/"
               },
               "prova": "Xenotrapianto più dato umano descrittivo."
             },
@@ -1519,7 +1665,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "31264063",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/31264063/"
               },
               "prova": "È una stima da modello, non una durata misurata."
             },
@@ -1529,7 +1676,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "34079127",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/34079127/"
               },
               "prova": "Fegato, non osso."
             },
@@ -1539,7 +1687,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "30322396",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/30322396/"
               },
               "prova": "Marcatore osservazionale, senza controllo."
             },
@@ -1549,7 +1698,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "27909824",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/27909824/"
               },
               "prova": "L'abstract è internamente incoerente (parla di 4 su 5 e di 2 casi): il denominatore va verificato sul testo completo; 20 pazienti."
             },
@@ -1559,7 +1709,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "10684910",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/10684910/"
               },
               "prova": "Non è uno studio di dormienza."
             },
@@ -1569,7 +1720,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "31752747",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/31752747/"
               },
               "prova": "Seconda lettura indipendente; non è una misura diretta della durata della dormienza."
             },
@@ -1579,7 +1731,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "12474359",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/12474359/"
               },
               "prova": "Abstract in inglese di un lavoro tedesco."
             },
@@ -1589,7 +1742,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "12808139",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/12808139/"
               },
               "prova": "Non è tessuto di metastasi ossea né filogenesi formale."
             },
@@ -1599,7 +1753,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "24427740",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/24427740/"
               },
               "prova": "Due pazienti; il primario non è sequenziato con NGS."
             },
@@ -1609,7 +1764,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "9916131",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/9916131/"
               },
               "prova": "Prova murina."
             },
@@ -1619,7 +1775,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "11964407",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/11964407/"
               },
               "prova": "Il legame con p38 è in vitro."
             },
@@ -1629,7 +1786,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "8833902",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/8833902/"
               },
               "prova": "L'abstract usa un linguaggio cauto («può avere un ruolo»)."
             },
@@ -1639,7 +1797,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "9362421",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/9362421/"
               },
               "prova": "Modello descrittivo."
             },
@@ -1649,7 +1808,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "21295524",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/21295524/"
               },
               "prova": "Il dato clinico citato nell'abstract non è stato riletto in dettaglio."
             },
@@ -1659,7 +1819,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "21789687",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/21789687/"
               },
               "prova": "Il lavoro primario su Gli2 non è stato reperito."
             },
@@ -1669,7 +1830,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "20599715",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/20599715/"
               },
               "prova": "Prova murina."
             },
@@ -1679,7 +1841,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "17938257",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/17938257/"
               },
               "prova": "Il lavoro primario sull'IGF non è stato reperito."
             },
@@ -1689,7 +1852,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "12548575",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/12548575/"
               },
               "prova": "Spiega un'eccezione osteoblastica."
             },
@@ -1699,7 +1863,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "35953110",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/35953110/"
               },
               "prova": "Rassegna."
             },
@@ -1709,7 +1874,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "26597083",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/26597083/"
               },
               "prova": "Associazione come tendenza; il titolo riguarda la co-espressione di PTHrP e TGF-beta come predittore di sopravvivenza."
             },
@@ -1719,7 +1885,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "20126581",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/20126581/"
               },
               "prova": "Piccola serie."
             },
@@ -1729,7 +1896,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "26721293",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/26721293/"
               },
               "prova": "Associazione, non causalità."
             },
@@ -1739,7 +1907,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "27184014",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/27184014/"
               },
               "prova": "L'IL-6 non compare nell'abstract."
             }
@@ -1754,7 +1923,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "12438453",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/12438453/"
               },
               "prova": "Effetto su una via; non prova insufficienza."
             },
@@ -1764,7 +1934,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "16813525",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/16813525/"
               },
               "prova": "CTGF e PTHrP sono in serie."
             },
@@ -1774,7 +1945,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "24676805",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/24676805/"
               },
               "prova": "Prova murina; ridondanza non testata in combinazione."
             },
@@ -1784,7 +1956,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "29300279",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/29300279/"
               },
               "prova": "L'effetto è sull'osso, non sul tumore."
             },
@@ -1794,7 +1967,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "23050044",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/23050044/"
               },
               "prova": "Altra citochina della famiglia IL-6."
             },
@@ -1804,7 +1978,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "9139879",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/9139879/"
               },
               "prova": "Esperimento in vitro."
             },
@@ -1814,7 +1989,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "9572469",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/9572469/"
               },
               "prova": "Coltura di calvaria."
             },
@@ -1824,7 +2000,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "26838548",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/26838548/"
               },
               "prova": "Più mediatori nella stessa via."
             },
@@ -1834,7 +2011,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "42138086",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42138086/"
               },
               "prova": "Pubblicazione 2026, non replicata; l'abstract non dice la specie."
             },
@@ -1844,7 +2022,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "40692065",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/40692065/"
               },
               "prova": "L'abstract non specifica specie né numero di modelli."
             },
@@ -1854,7 +2033,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "28300321",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/28300321/"
               },
               "prova": "Il microambiente osseo modifica la colonizzazione: compatibile con seme e suolo, non lo distingue dal flusso."
             },
@@ -1864,7 +2044,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "36058380",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/36058380/"
               },
               "prova": "Il tropismo d'organo è solo un richiamo storico."
             },
@@ -1874,7 +2055,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "17786535",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/17786535/"
               },
               "prova": "Nessun esperimento che separi le due spiegazioni."
             },
@@ -1884,7 +2066,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "21365651",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/21365651/"
               },
               "prova": "Seconda rassegna sullo stesso modello."
             },
@@ -1894,7 +2077,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "24956020",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/24956020/"
               },
               "prova": "Terreno condizionato (mediatori solubili), non co-coltura diretta; un solo donatore."
             },
@@ -1904,7 +2088,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "36581888",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/36581888/"
               },
               "prova": "Nessuna combinazione con RANKL."
             },
@@ -1914,7 +2099,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "40280123",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/40280123/"
               },
               "prova": "L'abstract cita una validazione clinica con anti-RANKL più immunoterapia, non riletta; è un asse immunitario."
             },
@@ -1924,7 +2110,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "42910519",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42910519/"
               },
               "prova": "Asse citochinico parallelo."
             },
@@ -1934,7 +2121,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "43081461",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/43081461/"
               },
               "prova": "Rassegna con dati di congresso non pubblicati."
             },
@@ -1944,7 +2132,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "21399628",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/21399628/"
               },
               "prova": "Due casi."
             },
@@ -1954,7 +2143,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "29263308",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/29263308/"
               },
               "prova": "Metastasi ossee non isolate."
             },
@@ -1964,7 +2154,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "28810143",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/28810143/"
               },
               "prova": "Nessun dato osseo separato."
             },
@@ -1974,7 +2165,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "28429735",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/28429735/"
               },
               "prova": "Il dilemma «clone pre-esistente o evoluzione» è falso: si osservano entrambe le modalità."
             },
@@ -1984,7 +2176,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "32512508",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/32512508/"
               },
               "prova": "Piccola serie."
             },
@@ -1994,7 +2187,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "28027312",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/28027312/"
               },
               "prova": "Quattro pazienti."
             },
@@ -2004,7 +2198,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "28276460",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/28276460/"
               },
               "prova": "Piccola serie."
             },
@@ -2014,7 +2209,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "34711268",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/34711268/"
               },
               "prova": "Un solo caso: l'abstract non dice esplicitamente che l'osso non sia una sorgente."
             },
@@ -2024,7 +2220,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "33878291",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/33878291/"
               },
               "prova": "L'osso come sorgente di altre metastasi è dimostrato solo in modelli sperimentali, non nell'uomo."
             },
@@ -2034,7 +2231,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "28878133",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/28878133/"
               },
               "prova": "Non è un'analisi di clonalità."
             },
@@ -2044,7 +2242,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "29468485",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/29468485/"
               },
               "prova": "Un solo paziente."
             },
@@ -2054,7 +2253,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "40457073",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/40457073/"
               },
               "prova": "Non è tessuto osseo."
             },
@@ -2064,7 +2264,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "34790880",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/34790880/"
               },
               "prova": "Estradiolo a dosi superiori a quelle fisiologiche."
             },
@@ -2074,7 +2275,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "38715255",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/38715255/"
               },
               "prova": "Non conclusivo."
             },
@@ -2084,7 +2286,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "38644978",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/38644978/"
               },
               "prova": "Una linea cellulare e un modello murino."
             },
@@ -2094,7 +2297,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "42054994",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42054994/"
               },
               "prova": "Recente, non replicato; non riguarda la dormienza."
             },
@@ -2104,7 +2308,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "39106452",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/39106452/"
               },
               "prova": "Non specifico per l'osso."
             },
@@ -2114,7 +2319,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "27853906",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/27853906/"
               },
               "prova": "Linee cellulari."
             },
@@ -2124,7 +2330,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "36888709",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/36888709/"
               },
               "prova": "Modello in vitro."
             },
@@ -2134,7 +2341,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "32145253",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/32145253/"
               },
               "prova": "Non dimostra una popolazione dormiente."
             },
@@ -2144,7 +2352,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "30930851",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/30930851/"
               },
               "prova": "Senza prove dirette sull'osso ER+."
             }
@@ -2159,7 +2368,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "26211824",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/26211824/"
               },
               "prova": "È l'analisi primaria."
             },
@@ -2169,7 +2379,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "31839171",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/31839171/"
               },
               "prova": "Non è l'analisi primaria e non va citata come tale."
             },
@@ -2179,7 +2390,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "31806543",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/31806543/"
               },
               "prova": "L'endpoint è composito: include morte per qualsiasi causa e recidive extrascheletriche."
             },
@@ -2189,7 +2401,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "34185259",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/34185259/"
               },
               "prova": "Senza test di interazione nell'abstract: non conferma la prova principale."
             },
@@ -2199,7 +2412,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "26040499",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/26040499/"
               },
               "prova": "Non è uno studio sulle metastasi ossee."
             },
@@ -2209,7 +2423,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "38319865",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/38319865/"
               },
               "prova": "Per le metastasi ossee e la sopravvivenza globale l'intervallo include 1."
             },
@@ -2219,7 +2434,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "37284523",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/37284523/"
               },
               "prova": "L'intervallo asimmetrico fa pensare a un errore di trascrizione: non va usato senza il testo completo."
             },
@@ -2229,7 +2445,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "39509862",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/39509862/"
               },
               "prova": "Le differenze di popolazione e di endpoint tra i due trial non sono riconciliate dai dati letti."
             },
@@ -2239,7 +2456,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "35041467",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/35041467/"
               },
               "prova": "Linea guida."
             },
@@ -2249,7 +2467,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "29035643",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/29035643/"
               },
               "prova": "Raccomandazioni precise non lette."
             },
@@ -2259,7 +2478,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "21060033",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/21060033/"
               },
               "prova": "Endpoint scheletrico, non di sopravvivenza."
             },
@@ -2269,7 +2489,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "22975218",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/22975218/"
               },
               "prova": "Non solo il tumore mammario."
             },
@@ -2279,7 +2500,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "31806543",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/31806543/"
               },
               "prova": "Dati dello stesso trial primario."
             },
@@ -2289,7 +2511,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "39163561",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/39163561/"
               },
               "prova": "Popolazione selezionata; incidenza più alta della letteratura."
             },
@@ -2299,7 +2522,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "31329513",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/31329513/"
               },
               "prova": "Raccomandazioni specifiche non lette."
             },
@@ -2309,7 +2533,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "30519493",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/30519493/"
               },
               "prova": "Serie di casi."
             },
@@ -2319,7 +2544,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "39448137",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/39448137/"
               },
               "prova": "Dato riportato nell'abstract, non verificato su studi primari."
             },
@@ -2329,7 +2555,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "33103722",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/33103722/"
               },
               "prova": "I fattori di rischio derivano da analisi retrospettive."
             },
@@ -2339,7 +2566,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "35279261",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/35279261/"
               },
               "prova": "Rassegna sull'osteoporosi dell'anziano."
             },
@@ -2349,7 +2577,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "39172879",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/39172879/"
               },
               "prova": "Non è un dato specifico del denosumab adiuvante nel tumore mammario."
             },
@@ -2359,7 +2588,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "27867497",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/27867497/"
               },
               "prova": "La traduzione limitata all'uomo non è esplicita nell'abstract."
             },
@@ -2369,7 +2599,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "35753212",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/35753212/"
               },
               "prova": "La durata esatta non è stimata."
             },
@@ -2379,7 +2610,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "40897974",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/40897974/"
               },
               "prova": "Sintesi della scheda su CLEVER; PALAVY e ABBY sono record di registro."
             },
@@ -2404,7 +2636,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "26211824",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26211824/"
           }
         },
         {
@@ -2414,7 +2647,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "21995387",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21995387/"
           }
         },
         {
@@ -2424,7 +2658,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "23047045",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23047045/"
           }
         },
         {
@@ -2434,7 +2669,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "26040499",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26040499/"
           }
         },
         {
@@ -2444,7 +2680,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "31806543",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31806543/"
           }
         },
         {
@@ -2454,7 +2691,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "37284523",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37284523/"
           }
         },
         {
@@ -2464,7 +2702,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "21060033",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21060033/"
           }
         },
         {
@@ -2474,7 +2713,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "27475087",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27475087/"
           }
         },
         {
@@ -2484,7 +2724,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "27166393",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27166393/"
           }
         },
         {
@@ -2494,7 +2735,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "29680193",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29680193/"
           }
         },
         {
@@ -2504,7 +2746,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "36859649",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36859649/"
           }
         },
         {
@@ -2514,7 +2757,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "21147688",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21147688/"
           }
         },
         {
@@ -2524,7 +2768,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "38123789",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38123789/"
           }
         },
         {
@@ -2534,7 +2779,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "39087959",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39087959/"
           }
         },
         {
@@ -2544,7 +2790,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "26947331",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26947331/"
           }
         },
         {
@@ -2554,7 +2801,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "40420604",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40420604/"
           }
         },
         {
@@ -2564,7 +2812,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "29706375",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29706375/"
           }
         },
         {
@@ -2574,7 +2823,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "29476019",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29476019/"
           }
         },
         {
@@ -2584,7 +2834,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "35538070",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35538070/"
           }
         },
         {
@@ -2594,7 +2845,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "9362424",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9362424/"
           }
         },
         {
@@ -2604,7 +2856,8 @@
           "fonte": {
             "tipo": "NCT",
             "id": "NCT00051779",
-            "verificata": true
+            "verificata": true,
+            "url": "https://clinicaltrials.gov/study/NCT00051779"
           }
         },
         {
@@ -2614,7 +2867,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "32170411",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32170411/"
           }
         },
         {
@@ -2624,7 +2878,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "34903452",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34903452/"
           }
         },
         {
@@ -2634,7 +2889,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "40897974",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40897974/"
           }
         },
         {
@@ -2644,7 +2900,8 @@
           "fonte": {
             "tipo": "NCT",
             "id": "NCT04841148",
-            "verificata": true
+            "verificata": true,
+            "url": "https://clinicaltrials.gov/study/NCT04841148"
           }
         }
       ],
@@ -2659,27 +2916,32 @@
             {
               "tipo": "PMID",
               "id": "26597083",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/26597083/"
             },
             {
               "tipo": "PMID",
               "id": "20126581",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/20126581/"
             },
             {
               "tipo": "PMID",
               "id": "26721293",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/26721293/"
             },
             {
               "tipo": "PMID",
               "id": "27184014",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/27184014/"
             },
             {
               "tipo": "NCT",
               "id": "NCT00051779",
-              "verificata": true
+              "verificata": true,
+              "url": "https://clinicaltrials.gov/study/NCT00051779"
             }
           ]
         },
@@ -2693,27 +2955,32 @@
             {
               "tipo": "PMID",
               "id": "25773070",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/25773070/"
             },
             {
               "tipo": "PMID",
               "id": "25909161",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/25909161/"
             },
             {
               "tipo": "PMID",
               "id": "40420604",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40420604/"
             },
             {
               "tipo": "PMID",
               "id": "28300321",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/28300321/"
             },
             {
               "tipo": "PMID",
               "id": "2224435",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/2224435/"
             }
           ]
         },
@@ -2727,32 +2994,38 @@
             {
               "tipo": "PMID",
               "id": "31264063",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/31264063/"
             },
             {
               "tipo": "PMID",
               "id": "30322396",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/30322396/"
             },
             {
               "tipo": "PMID",
               "id": "31752747",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/31752747/"
             },
             {
               "tipo": "PMID",
               "id": "27909824",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/27909824/"
             },
             {
               "tipo": "PMID",
               "id": "40897974",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40897974/"
             },
             {
               "tipo": "PMID",
               "id": "34993493",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/34993493/"
             }
           ]
         },
@@ -2766,37 +3039,44 @@
             {
               "tipo": "PMID",
               "id": "28429735",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/28429735/"
             },
             {
               "tipo": "PMID",
               "id": "28810143",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/28810143/"
             },
             {
               "tipo": "PMID",
               "id": "32512508",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/32512508/"
             },
             {
               "tipo": "PMID",
               "id": "34711268",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/34711268/"
             },
             {
               "tipo": "PMID",
               "id": "33878291",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/33878291/"
             },
             {
               "tipo": "PMID",
               "id": "12808139",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/12808139/"
             },
             {
               "tipo": "PMID",
               "id": "24427740",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/24427740/"
             }
           ]
         },
@@ -2810,32 +3090,38 @@
             {
               "tipo": "PMID",
               "id": "42138086",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42138086/"
             },
             {
               "tipo": "PMID",
               "id": "24956020",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/24956020/"
             },
             {
               "tipo": "PMID",
               "id": "36581888",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/36581888/"
             },
             {
               "tipo": "PMID",
               "id": "40280123",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40280123/"
             },
             {
               "tipo": "PMID",
               "id": "42910519",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42910519/"
             },
             {
               "tipo": "PMID",
               "id": "43081461",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/43081461/"
             }
           ]
         },
@@ -2849,37 +3135,44 @@
             {
               "tipo": "PMID",
               "id": "26211824",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/26211824/"
             },
             {
               "tipo": "PMID",
               "id": "31806543",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/31806543/"
             },
             {
               "tipo": "PMID",
               "id": "34185259",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/34185259/"
             },
             {
               "tipo": "PMID",
               "id": "26040499",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/26040499/"
             },
             {
               "tipo": "PMID",
               "id": "38319865",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/38319865/"
             },
             {
               "tipo": "PMID",
               "id": "37284523",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/37284523/"
             },
             {
               "tipo": "PMID",
               "id": "39509862",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39509862/"
             }
           ]
         }
@@ -2908,7 +3201,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "30312372",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/30312372/"
               },
               "prova": "L'abstract dichiara che il consenso si concentra sulla bassa forza muscolare come caratteristica chiave."
             },
@@ -2918,7 +3212,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "25474696",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/25474696/"
               },
               "prova": "Dodds 2014, dati normativi lungo tutto l'arco della vita."
             },
@@ -2928,7 +3223,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "23958225",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/23958225/"
               },
               "prova": "Spruit 2013: partecipanti iniziali 502.713; 224.830 (mano destra) e 224.852 (sinistra) nel campione normativo."
             },
@@ -2938,7 +3234,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "33432867",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/33432867/"
               },
               "prova": "Popolazione geriatrica, non oncologica. L'attribuzione dei 27/16 kg a uomini e donne viene dal consenso EWGSOP2, non dall'abstract."
             },
@@ -2948,7 +3245,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "31115188",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/31115188/"
               },
               "prova": "Coorte prevalentemente metastatica ma senza confronto con non metastatici o sani: dice che forza e massa non coincidono, non che i metastatici siano più deboli."
             },
@@ -2958,7 +3256,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "36688336",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/36688336/"
               },
               "prova": "Coorte prospettica piccola; HR aggiustato per sesso, età, sintomi, comorbidità, perdita di peso e sede. L'abstract non riporta la soglia di 'bassa'. È la fonte più diretta sui metastatici."
             },
@@ -2968,7 +3267,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "37318103",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/37318103/"
               },
               "prova": "I cut-off sono determinati nella stessa coorte, senza validazione esterna riportata nell'abstract; sensibilità e specificità basse (54% e 63% donne, 69% e 68% uomini). 'Avanzato' non coincide con 'metastatico'."
             },
@@ -2978,7 +3278,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "23872952",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/23872952/"
               },
               "prova": "Studio osservazionale in tumore avanzato, non solo metastatico."
             },
@@ -2988,7 +3289,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "41259322",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/41259322/"
               },
               "prova": "Associazione al limite della significatività con intervallo ampio; massa muscolare e performance fisica non risultano associate alla tossicità nello stesso abstract."
             },
@@ -2998,7 +3300,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "38457901",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/38457901/"
               },
               "prova": "Revisione con mini-revisione sistematica: l'affermazione sulla precedenza è della revisione, non un dato primario nell'uomo."
             },
@@ -3008,7 +3311,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "29860710",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/29860710/"
               },
               "prova": "Studio longitudinale osservazionale, non di sicurezza. Forte attrito (20 completer su 50); l'abstract riguarda performance funzionale, non solo forza."
             }
@@ -3023,7 +3327,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "26457758",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/26457758/"
               },
               "prova": "Prova murina; il dato umano è un'osservazione qualitativa riportata nell'abstract, senza numerosità né misure di forza o massa. Non prova indipendenza dalla massa nell'uomo."
             },
@@ -3033,7 +3338,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "30965315",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/30965315/"
               },
               "prova": "Solo topo."
             },
@@ -3043,7 +3349,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "33762827",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/33762827/"
               },
               "prova": "Risultato negativo in un solo modello di ratto; il dantrolene blocca RyR1 e non è uno stabilizzatore, quindi non testa l'ipotesi Rycal."
             },
@@ -3053,7 +3360,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "36201324",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/36201324/"
               },
               "prova": "Solo modelli murini di tumore primario del polmone."
             },
@@ -3063,7 +3371,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "37251283",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/37251283/"
               },
               "prova": "Studio osservazionale; l'assenza di correlazione con la forza è nella conclusione dell'abstract, non esplicitata nei risultati."
             },
@@ -3073,7 +3382,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "36658635",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/36658635/"
               },
               "prova": "Non è un test del ruolo causale delle citochine sulla debolezza; sopravvissuti, non metastatici."
             },
@@ -3083,7 +3393,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "32661391",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/32661391/"
               },
               "prova": "Solo topo."
             },
@@ -3093,7 +3404,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "41687610",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/41687610/"
               },
               "prova": "Modelli di pancreas, polmone e cute nel topo; forza non riportata nell'abstract."
             },
@@ -3103,7 +3415,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "22450815",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/22450815/"
               },
               "prova": "Solo topo."
             },
@@ -3113,7 +3426,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "42463245",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42463245/"
               },
               "prova": "Solo topo; non prova la sequenza forza-massa nell'uomo."
             },
@@ -3138,7 +3452,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "31333495",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/31333495/"
               },
               "prova": "Il calo di massa e forza dovuto alla deprivazione androgenica è solo la premessa della meta-analisi, non un suo risultato."
             },
@@ -3148,7 +3463,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "21475694",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/21475694/"
               },
               "prova": "Direzione causale non determinabile: fatica, forza e massa possono dipendere da fattori comuni."
             },
@@ -3158,7 +3474,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "28424626",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/28424626/"
               },
               "prova": "Ratto non tumorale; non quantifica la quota di disuso nei pazienti."
             },
@@ -3168,7 +3485,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "38670726",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/38670726/"
               },
               "prova": "Revisione. Che gli steroidi possano a loro volta causare debolezza è una mia inferenza, non scritta nell'abstract."
             },
@@ -3178,7 +3496,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "10604343",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/10604343/"
               },
               "prova": "Studio piccolo, un solo braccio nell'abstract: un deficit nutrizionale confonde i confronti prima-dopo."
             },
@@ -3188,7 +3507,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "28063866",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/28063866/"
               },
               "prova": "Il totale 623 è la somma dei due gruppi, non scritto nell'abstract. Non metastatici."
             },
@@ -3198,7 +3518,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "39946864",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/39946864/"
               },
               "prova": "Mostra che la forza è modificabile in questa condizione, non quanta debolezza dipenda dalla neuropatia."
             },
@@ -3223,7 +3544,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "34358650",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/34358650/"
               },
               "prova": "Revisione; i due agenti di verifica non concordavano sull'attribuzione dei 4 eventi all'esercizio: qui si riporta solo ciò su cui concordano."
             },
@@ -3233,7 +3555,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "36980672",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/36980672/"
               },
               "prova": "Scoping review, qualità degli studi non valutata."
             },
@@ -3243,7 +3566,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "29036016",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/29036016/"
               },
               "prova": "Quasi tutta la sicurezza documentata riguarda il tumore prostatico."
             },
@@ -3253,7 +3577,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "39054374",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/39054374/"
               },
               "prova": "L'abstract dice che i pazienti avevano metastasi ossee non instabili tra i criteri di selezione."
             },
@@ -3278,7 +3603,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "26906526",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26906526/"
           }
         },
         {
@@ -3288,7 +3614,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "28472437",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28472437/"
           }
         },
         {
@@ -3298,7 +3625,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "30138131",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30138131/"
           }
         },
         {
@@ -3308,7 +3636,8 @@
           "fonte": {
             "tipo": "NCT",
             "id": "NCT05546476",
-            "verificata": true
+            "verificata": true,
+            "url": "https://clinicaltrials.gov/study/NCT05546476"
           }
         },
         {
@@ -3318,7 +3647,8 @@
           "fonte": {
             "tipo": "NCT",
             "id": "NCT01433263",
-            "verificata": true
+            "verificata": true,
+            "url": "https://clinicaltrials.gov/study/NCT01433263"
           }
         },
         {
@@ -3328,7 +3658,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "40354592",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40354592/"
           }
         },
         {
@@ -3338,7 +3669,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "23917308",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23917308/"
           }
         },
         {
@@ -3348,7 +3680,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "39054374",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39054374/"
           }
         },
         {
@@ -3358,7 +3691,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "37183104",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37183104/"
           }
         },
         {
@@ -3368,7 +3702,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "34498352",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34498352/"
           }
         },
         {
@@ -3378,7 +3713,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "24042307",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24042307/"
           }
         },
         {
@@ -3403,12 +3739,14 @@
             {
               "tipo": "PMID",
               "id": "26457758",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/26457758/"
             },
             {
               "tipo": "PMID",
               "id": "33762827",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/33762827/"
             }
           ]
         },
@@ -3422,22 +3760,26 @@
             {
               "tipo": "PMID",
               "id": "32396194",
-              "verificata": false
+              "verificata": false,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/32396194/"
             },
             {
               "tipo": "PMID",
               "id": "29860710",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/29860710/"
             },
             {
               "tipo": "PMID",
               "id": "42463245",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42463245/"
             },
             {
               "tipo": "PMID",
               "id": "41553041",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41553041/"
             }
           ]
         },
@@ -3451,17 +3793,20 @@
             {
               "tipo": "PMID",
               "id": "31816924",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/31816924/"
             },
             {
               "tipo": "PMID",
               "id": "37671529",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/37671529/"
             },
             {
               "tipo": "PMID",
               "id": "39500612",
-              "verificata": false
+              "verificata": false,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39500612/"
             }
           ]
         },
@@ -3475,27 +3820,32 @@
             {
               "tipo": "NCT",
               "id": "NCT07521826",
-              "verificata": true
+              "verificata": true,
+              "url": "https://clinicaltrials.gov/study/NCT07521826"
             },
             {
               "tipo": "NCT",
               "id": "NCT04120298",
-              "verificata": true
+              "verificata": true,
+              "url": "https://clinicaltrials.gov/study/NCT04120298"
             },
             {
               "tipo": "PMID",
               "id": "39054374",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39054374/"
             },
             {
               "tipo": "PMID",
               "id": "37183104",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/37183104/"
             },
             {
               "tipo": "PMID",
               "id": "34498352",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/34498352/"
             }
           ]
         },
@@ -3509,32 +3859,38 @@
             {
               "tipo": "PMID",
               "id": "26906526",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/26906526/"
             },
             {
               "tipo": "PMID",
               "id": "28472437",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/28472437/"
             },
             {
               "tipo": "PMID",
               "id": "27138015",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/27138015/"
             },
             {
               "tipo": "PMID",
               "id": "30138131",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/30138131/"
             },
             {
               "tipo": "NCT",
               "id": "NCT05546476",
-              "verificata": true
+              "verificata": true,
+              "url": "https://clinicaltrials.gov/study/NCT05546476"
             },
             {
               "tipo": "NCT",
               "id": "NCT01433263",
-              "verificata": true
+              "verificata": true,
+              "url": "https://clinicaltrials.gov/study/NCT01433263"
             }
           ]
         },
@@ -3548,27 +3904,32 @@
             {
               "tipo": "PMID",
               "id": "37318103",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/37318103/"
             },
             {
               "tipo": "PMID",
               "id": "25474696",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/25474696/"
             },
             {
               "tipo": "PMID",
               "id": "23958225",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/23958225/"
             },
             {
               "tipo": "PMID",
               "id": "33911207",
-              "verificata": false
+              "verificata": false,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/33911207/"
             },
             {
               "tipo": "PMID",
               "id": "34545711",
-              "verificata": false
+              "verificata": false,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/34545711/"
             }
           ]
         }
@@ -3597,7 +3958,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "12991237",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/12991237/"
               },
               "prova": "Il record PubMed non ha un abstract: si riporta solo il titolo, senza affermazioni sulla capacità predittiva."
             },
@@ -3607,7 +3969,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "856318",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/856318/"
               },
               "prova": "Non è scritto che il modello riproduca il firing dei crostacei."
             },
@@ -3617,7 +3980,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "18160135",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/18160135/"
               },
               "prova": "Riporta i primi contributi al benchmark; l'abstract non dà numeri."
             },
@@ -3627,7 +3991,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "28230845",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/28230845/"
               },
               "prova": "Il limite del modello classico indicato è a livello di rete, non quantistico."
             },
@@ -3637,7 +4002,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "2688201",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/2688201/"
               },
               "prova": "È un effetto quantistico non banale, ma non è coerenza di stati neurali."
             },
@@ -3647,7 +4013,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "23746260",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/23746260/"
               },
               "prova": "Rassegna; l'abstract parla di necessità della dinamica proteica per una catalisi ottimale."
             },
@@ -3657,7 +4024,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "22354429",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/22354429/"
               },
               "prova": "Discussione di un tema aperto, non una misura originale."
             },
@@ -3667,7 +4035,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "17429397",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/17429397/"
               },
               "prova": "La funzione della coerenza è contestata (voce seguente)."
             },
@@ -3677,7 +4046,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "32284982",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/32284982/"
               },
               "prova": "Rilegge e contesta l'interpretazione di Engel 2007."
             },
@@ -3687,7 +4057,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "27216936",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/27216936/"
               },
               "prova": "Riguarda la retina degli uccelli migratori, non il cervello."
             },
@@ -3697,7 +4068,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "21321219",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/21321219/"
               },
               "prova": "Teoria vibrazionale dell'olfatto; riguarda il comportamento, non il cervello."
             },
@@ -3707,7 +4079,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "25901328",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/25901328/"
               },
               "prova": "Contesta la teoria vibrazionale dell'olfatto; riguarda i recettori, non il cervello."
             },
@@ -3717,7 +4090,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "42815650",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42815650/"
               },
               "prova": "La biologia quantistica è uno dei domini della rassegna, narrativa e di un campo di nicchia: usata solo come sintesi, non come autorità."
             },
@@ -3752,7 +4126,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "24070914",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/24070914/"
               },
               "prova": "Autori proponenti; non mostra coerenza misurata nel cervello."
             },
@@ -3762,7 +4137,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "11684479",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/11684479/"
               },
               "prova": "L'abstract non riporta dati sperimentali."
             },
@@ -3772,7 +4148,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "11349432",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/11349432/"
               },
               "prova": "Rassegna teorica a sostegno della proposta."
             },
@@ -3782,7 +4159,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "35782391",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/35782391/"
               },
               "prova": "Articolo programmatico; i dati citati non sono riletti qui."
             },
@@ -3792,7 +4170,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "29379925",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/29379925/"
               },
               "prova": "Solo calcolo in silico."
             },
@@ -3802,7 +4181,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "30381344",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/30381344/"
               },
               "prova": "Risultato negativo di un calcolo."
             },
@@ -3812,7 +4192,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "34668712",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/34668712/"
               },
               "prova": "Simulazioni, critica all'ipotesi."
             },
@@ -3822,7 +4203,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "36876913",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/36876913/"
               },
               "prova": "Nessun esperimento riportato nell'abstract, che parla di simulazioni."
             },
@@ -3832,7 +4214,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "40221481",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/40221481/"
               },
               "prova": "L'abstract non riporta un risultato numerico."
             },
@@ -3842,7 +4225,8 @@
               "fonte": {
                 "tipo": "arXiv",
                 "id": "1508.05929",
-                "verificata": false
+                "verificata": false,
+                "url": "https://arxiv.org/abs/1508.05929"
               },
               "prova": "Fonte non in PubMed e non riletta: l'identificativo viene da risultati di ricerca web, non da una lettura diretta."
             },
@@ -3852,7 +4236,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "25232047",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/25232047/"
               },
               "prova": "Investigazione computazionale."
             },
@@ -3862,7 +4247,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "28852014",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/28852014/"
               },
               "prova": "Nessuna misura nel cervello nell'abstract."
             },
@@ -3872,7 +4258,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "38641327",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/38641327/"
               },
               "prova": "Si misura fluorescenza, non coerenza; l'abstract non riporta misure su neuroni."
             },
@@ -3882,7 +4269,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "36968538",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/36968538/"
               },
               "prova": "Misura di trasporto di eccitazione; l'abstract non menziona coerenza."
             },
@@ -3892,7 +4280,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "39721596",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/39721596/"
               },
               "prova": "Calcolo; il singoletto arriva a distanze molto maggiori del tripletto."
             },
@@ -3902,7 +4291,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "41281348",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/41281348/"
               },
               "prova": "Autori favorevoli alla proposta."
             },
@@ -3912,7 +4302,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "42537979",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42537979/"
               },
               "prova": "Affermazioni degli autori; correlazione su dati computazionali."
             },
@@ -3922,7 +4313,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "42137636",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42137636/"
               },
               "prova": "Ipotesi senza test."
             },
@@ -3932,7 +4324,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "38920469",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/38920469/"
               },
               "prova": "Programma proposto, nessun esperimento riportato."
             },
@@ -3942,7 +4335,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "42824118",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42824118/"
               },
               "prova": "Un modello formale, non un esperimento."
             },
@@ -3952,7 +4346,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "41019231",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/41019231/"
               },
               "prova": "Affermazione degli autori; le evidenze primarie non sono nominate."
             },
@@ -3962,7 +4357,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "40342554",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/40342554/"
               },
               "prova": "Affermazione dell'autore; le evidenze primarie non sono nominate nell'abstract."
             },
@@ -3972,7 +4368,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "42920515",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42920515/"
               },
               "prova": "È la dichiarazione più esplicita, tra le fonti PubMed lette, che la misura diretta manca (affiliazione dichiarata: ricercatore indipendente); le evidenze di terzi che cita non sono state rilette."
             }
@@ -3987,7 +4384,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "11088215",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/11088215/"
               },
               "prova": "È un calcolo, non una misura."
             },
@@ -3997,7 +4395,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "12188753",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/12188753/"
               },
               "prova": "Anche il valore rivisto resta sotto la soglia di Tegmark; le protezioni sono proposte, non dimostrate; autori proponenti."
             },
@@ -4007,7 +4406,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "15524544",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/15524544/"
               },
               "prova": "Le critiche non sono univoche."
             },
@@ -4017,7 +4417,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "19792156",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/19792156/"
               },
               "prova": "Critica biofisica."
             },
@@ -4027,7 +4428,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "19251667",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/19251667/"
               },
               "prova": "Analisi teorica senza misure nuove."
             },
@@ -4037,7 +4439,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "25871141",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/25871141/"
               },
               "prova": "Calcolo teorico."
             },
@@ -4047,7 +4450,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "19669419",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/19669419/"
               },
               "prova": "Critica da autori che hanno lavorato anche a favore di ipotesi quantistiche."
             },
@@ -4057,7 +4461,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "42130685",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42130685/"
               },
               "prova": "Senza un verdetto esplicito."
             },
@@ -4067,7 +4472,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "42041796",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42041796/"
               },
               "prova": "Posizione di tre autori, non una misura del consenso."
             },
@@ -4077,7 +4483,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "6755267",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/6755267/"
               },
               "prova": "Compatibile con una spiegazione molecolare classica, ma non la dimostra né esclude altre."
             },
@@ -4087,7 +4494,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "6953413",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/6953413/"
               },
               "prova": "L'etichetta «classico» è una valutazione della scheda, non dell'abstract; non tratta la coscienza."
             },
@@ -4097,7 +4505,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "21521609",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/21521609/"
               },
               "prova": "Spiega la coscienza con misure neurali, senza provare che la fisica quantistica non serva."
             },
@@ -4107,7 +4516,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "40307561",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/40307561/"
               },
               "prova": "Le teorie classiche della coscienza non sono risolte; nessuna teoria quantistica è testata."
             },
@@ -4117,7 +4527,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "23673021",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/23673021/"
               },
               "prova": "Il formalismo non implica un cervello fisicamente quantistico: questa conclusione è un'inferenza della scheda."
             },
@@ -4127,7 +4538,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "37372230",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/37372230/"
               },
               "prova": "Distinzione esplicita nell'abstract."
             },
@@ -4137,7 +4549,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "34546804",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/34546804/"
               },
               "prova": "L'abstract non esplicita la distinzione tra quantum-like e fisico."
             },
@@ -4147,7 +4560,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "24979797",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/24979797/"
               },
               "prova": "L'abstract non riporta un confronto con un modello classico."
             },
@@ -4157,7 +4571,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "36655984",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/36655984/"
               },
               "prova": "Il comparatore non è un modello bayesiano."
             },
@@ -4167,7 +4582,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "21951058",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/21951058/"
               },
               "prova": "Un solo gruppo di effetti."
             },
@@ -4177,7 +4593,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "22593747",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/22593747/"
               },
               "prova": "L'abstract non riporta un comparatore classico."
             },
@@ -4187,7 +4604,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "22823498",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/22823498/"
               },
               "prova": "Alternativa classica su un singolo effetto."
             },
@@ -4197,7 +4615,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "33285812",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/33285812/"
               },
               "prova": "Critica interna al formalismo."
             },
@@ -4207,7 +4626,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "40608277",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/40608277/"
               },
               "prova": "Non è un confronto unico a parità di parametri."
             }
@@ -4222,7 +4642,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "30455661",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/30455661/"
               },
               "prova": "È un analogo generale sulla scienza della coscienza, non un sondaggio sul ruolo quantistico."
             },
@@ -4232,7 +4653,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "10800025",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/10800025/"
               },
               "prova": "La «coerenza» della risonanza magnetica è una coerenza multi-spin descritta classicamente: non è la coerenza quantistica di stati neurali."
             },
@@ -4242,7 +4664,8 @@
               "fonte": {
                 "tipo": "PMID",
                 "id": "36910259",
-                "verificata": true
+                "verificata": true,
+                "url": "https://pubmed.ncbi.nlm.nih.gov/36910259/"
               },
               "prova": "Non è la fonte della tesi sull'entanglement e non va citato come tale."
             },
@@ -4287,7 +4710,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "29642079",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29642079/"
           }
         },
         {
@@ -4297,7 +4721,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "33737599",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33737599/"
           }
         },
         {
@@ -4307,7 +4732,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "3019440",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3019440/"
           }
         },
         {
@@ -4317,7 +4743,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "32084493",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32084493/"
           }
         },
         {
@@ -4327,7 +4754,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "37063814",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37063814/"
           }
         },
         {
@@ -4337,7 +4765,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "33378834",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33378834/"
           }
         },
         {
@@ -4347,7 +4776,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "34108537",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34108537/"
           }
         },
         {
@@ -4367,7 +4797,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "38641327",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38641327/"
           }
         },
         {
@@ -4377,7 +4808,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "36968538",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36968538/"
           }
         },
         {
@@ -4387,7 +4819,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "30381344",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30381344/"
           }
         },
         {
@@ -4397,7 +4830,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "36876913",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36876913/"
           }
         },
         {
@@ -4407,7 +4841,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "39147581",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39147581/"
           }
         },
         {
@@ -4417,7 +4852,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "36053678",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36053678/"
           }
         },
         {
@@ -4427,7 +4863,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "35617922",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35617922/"
           }
         },
         {
@@ -4437,7 +4874,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "33232193",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33232193/"
           }
         },
         {
@@ -4447,7 +4885,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "40307561",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40307561/"
           }
         },
         {
@@ -4457,7 +4896,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "24979797",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24979797/"
           }
         },
         {
@@ -4467,7 +4907,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "36655984",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36655984/"
           }
         },
         {
@@ -4477,7 +4918,8 @@
           "fonte": {
             "tipo": "PMID",
             "id": "22823498",
-            "verificata": true
+            "verificata": true,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22823498/"
           }
         }
       ],
@@ -4492,22 +4934,26 @@
             {
               "tipo": "PMID",
               "id": "10800025",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/10800025/"
             },
             {
               "tipo": "PMID",
               "id": "38641327",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/38641327/"
             },
             {
               "tipo": "PMID",
               "id": "36968538",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/36968538/"
             },
             {
               "tipo": "PMID",
               "id": "42041796",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42041796/"
             }
           ]
         },
@@ -4521,37 +4967,44 @@
             {
               "tipo": "PMID",
               "id": "29642079",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/29642079/"
             },
             {
               "tipo": "PMID",
               "id": "33378834",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/33378834/"
             },
             {
               "tipo": "PMID",
               "id": "3019440",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/3019440/"
             },
             {
               "tipo": "PMID",
               "id": "32084493",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/32084493/"
             },
             {
               "tipo": "PMID",
               "id": "37063814",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/37063814/"
             },
             {
               "tipo": "PMID",
               "id": "33737599",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/33737599/"
             },
             {
               "tipo": "PMID",
               "id": "34108537",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/34108537/"
             }
           ]
         },
@@ -4565,47 +5018,56 @@
             {
               "tipo": "PMID",
               "id": "11088215",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/11088215/"
             },
             {
               "tipo": "PMID",
               "id": "12188753",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/12188753/"
             },
             {
               "tipo": "PMID",
               "id": "30381344",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/30381344/"
             },
             {
               "tipo": "PMID",
               "id": "34668712",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/34668712/"
             },
             {
               "tipo": "PMID",
               "id": "36876913",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/36876913/"
             },
             {
               "tipo": "PMID",
               "id": "19669419",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/19669419/"
             },
             {
               "tipo": "PMID",
               "id": "42920515",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42920515/"
             },
             {
               "tipo": "PMID",
               "id": "36968538",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/36968538/"
             },
             {
               "tipo": "PMID",
               "id": "38641327",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/38641327/"
             }
           ]
         },
@@ -4619,22 +5081,26 @@
             {
               "tipo": "PMID",
               "id": "33232193",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/33232193/"
             },
             {
               "tipo": "PMID",
               "id": "35617922",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/35617922/"
             },
             {
               "tipo": "PMID",
               "id": "36053678",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/36053678/"
             },
             {
               "tipo": "PMID",
               "id": "39147581",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/39147581/"
             }
           ]
         },
@@ -4648,52 +5114,62 @@
             {
               "tipo": "PMID",
               "id": "23673021",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/23673021/"
             },
             {
               "tipo": "PMID",
               "id": "24979797",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/24979797/"
             },
             {
               "tipo": "PMID",
               "id": "36655984",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/36655984/"
             },
             {
               "tipo": "PMID",
               "id": "21951058",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/21951058/"
             },
             {
               "tipo": "PMID",
               "id": "22593747",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/22593747/"
             },
             {
               "tipo": "PMID",
               "id": "22823498",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/22823498/"
             },
             {
               "tipo": "PMID",
               "id": "33285812",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/33285812/"
             },
             {
               "tipo": "PMID",
               "id": "40608277",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40608277/"
             },
             {
               "tipo": "PMID",
               "id": "37372230",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/37372230/"
             },
             {
               "tipo": "PMID",
               "id": "34546804",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/34546804/"
             }
           ]
         },
@@ -4707,12 +5183,14 @@
             {
               "tipo": "PMID",
               "id": "30455661",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/30455661/"
             },
             {
               "tipo": "PMID",
               "id": "42041796",
-              "verificata": true
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42041796/"
             }
           ]
         }
