@@ -4,7 +4,12 @@
   "categoria": "Oncologia",
   "sottocategoria": "Muscolo e cachessia",
   "data": "2026-11-27",
-  "sommario": "Nei pazienti metastatici una forza di presa bassa si associa a peggiore sopravvivenza e tossicità, ma forza e massa muscolare non coincidono e la causa non è il solo tumore. Le prove meccanicistiche più specifiche per le metastasi ossee (TGF-beta, RyR1) vengono dal topo. I farmaci che aumentano massa o peso (anamorelin, enobosarm) non hanno migliorato la forza; l'esercizio supervisionato risulta sicuro anche con metastasi ossee stabili, ma gli studi sono piccoli e quasi tutti sul tumore prostatico. Manca un RCT con la forza come endpoint primario nei metastatici non prostatici.",
+  "affermazione_iniziale": {
+    "testo": "Nessuna affermazione di partenza: l'utente ha indicato solo il tema (forza muscolare nei tumori metastatici).",
+    "esito": "non verificabile",
+    "motivo": "Non c'era una tesi da confermare o smentire; le domande di verifica sono state ricavate dal tema."
+  },
+  "sommario": "Nei pazienti metastatici una forza di presa bassa si associa a peggiore sopravvivenza (e, in un solo studio su anziani, a tossicità), ma forza e massa muscolare non coincidono e la causa non è il solo tumore. Le prove meccanicistiche più specifiche per le metastasi ossee (TGF-beta, RyR1) vengono dal topo. I farmaci che aumentano massa o peso (anamorelin, enobosarm) non hanno migliorato la forza; negli studi disponibili l'esercizio supervisionato ha avuto pochi eventi avversi seri anche con metastasi ossee stabili, ma gli studi sono piccoli e quasi tutti sul tumore prostatico. Non risulta pubblicato un RCT con la forza come endpoint primario nei metastatici non prostatici (uno è registrato, non ancora reclutante).",
   "sezioni": [
     {
       "titolo": "Stato normale e alterazione",
@@ -101,13 +106,23 @@
         },
         {
           "testo": "Nel cancro la debolezza muscolare può comparire indipendentemente da atrofia e cachessia; la revisione riporta evidenza in accumulo che la perdita di funzione preceda l'atrofia.",
-          "livello": "documentato",
+          "livello": "sperimentale",
           "fonte": {
             "tipo": "PMID",
             "id": "38457901",
             "verificata": true
           },
           "prova": "Revisione con mini-revisione sistematica: l'affermazione sulla precedenza è della revisione, non un dato primario nell'uomo."
+        },
+        {
+          "testo": "In 50 pazienti con cachessia toracica o gastrointestinale, nei 20 che hanno completato 8 settimane di osservazione forza e performance funzionale non sono cambiate in modo significativo.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "29860710",
+            "verificata": true
+          },
+          "prova": "Studio longitudinale osservazionale, non di sicurezza. Forte attrito (20 completer su 50); l'abstract riguarda performance funzionale, non solo forza."
         }
       ]
     },
@@ -261,7 +276,7 @@
         },
         {
           "testo": "L'immunoterapia può causare miosite, più frequente con la combinazione di inibitori dei checkpoint che in monoterapia; si tratta con corticosteroidi ad alte dosi, a loro volta causa possibile di debolezza.",
-          "livello": "documentato",
+          "livello": "sperimentale",
           "fonte": {
             "tipo": "PMID",
             "id": "38670726",
@@ -316,7 +331,7 @@
       "voci": [
         {
           "testo": "Revisione sistematica di 17 trial di esercizio con metastasi ossee: 4 eventi avversi seri (0,5%), nessuno correlato alle metastasi; efficacia mista.",
-          "livello": "documentato",
+          "livello": "sperimentale",
           "fonte": {
             "tipo": "PMID",
             "id": "34358650",
@@ -326,7 +341,7 @@
         },
         {
           "testo": "Scoping review di 26 trial di esercizio nelle metastasi ossee: 3 eventi seri, ritenuti probabilmente non correlati alle metastasi.",
-          "livello": "documentato",
+          "livello": "sperimentale",
           "fonte": {
             "tipo": "PMID",
             "id": "36980672",
@@ -353,16 +368,6 @@
             "verificata": true
           },
           "prova": "L'abstract dice che i pazienti avevano metastasi ossee non instabili tra i criteri di selezione."
-        },
-        {
-          "testo": "In 50 pazienti con cachessia toracica o gastrointestinale, nei 20 che hanno completato 8 settimane di osservazione forza e performance funzionale non sono cambiate in modo significativo.",
-          "livello": "sperimentale",
-          "fonte": {
-            "tipo": "PMID",
-            "id": "29860710",
-            "verificata": true
-          },
-          "prova": "Forte attrito (20 completer su 50); l'abstract riguarda performance funzionale, non solo forza."
         },
         {
           "testo": "Linee guida specifiche su esercizio e metastasi ossee (ACSM, ESSA), criteri di Mirels, piastrine e finestra temporale rispetto alla terapia sistemica nei metastatici: fonte non reperita.",
@@ -430,8 +435,8 @@
     },
     {
       "cosa": "Tocilizumab (anti-IL-6) con nab-paclitaxel e gemcitabina nel tumore del pancreas avanzato, fase II randomizzata",
-      "esito": "fallito",
-      "ragione": "Primario di sopravvivenza a 6 mesi non raggiunto (68,6% vs 62,0%, p=0,409); l'abstract riporta la perdita muscolare, non la forza.",
+      "esito": "inconcludente",
+      "ragione": "Per la forza non c'è esito: fallito sull'endpoint primario di sopravvivenza a 6 mesi (68,6% vs 62,0%, p=0,409); l'abstract riporta la perdita muscolare, non la forza.",
       "fonte": {
         "tipo": "PMID",
         "id": "40354592",
@@ -441,7 +446,7 @@
     {
       "cosa": "Allenamento di resistenza in uomini con metastasi ossee da tumore prostatico, RCT pilota, 20 pazienti, 12 settimane, esercizi adattati alla sede delle lesioni",
       "esito": "riuscito",
-      "ragione": "Nessun evento avverso né complicanza scheletrica durante le sessioni supervisionate; forza variata di circa l'11% nel gruppo esercizio. Campione piccolo, popolazione molto specifica.",
+      "ragione": "Riuscito su sicurezza e fattibilità: nessun evento avverso né complicanza scheletrica durante le sessioni supervisionate. L'abstract riporta una variazione di forza di circa l'11% a favore dell'esercizio, ma non chiarisce con precisione il confronto con il controllo. Campione piccolo, popolazione molto specifica.",
       "fonte": {
         "tipo": "PMID",
         "id": "23917308",
@@ -551,7 +556,7 @@
     {
       "domanda": "Qual è l'effetto totale del carico tumorale, della classe di terapia, dell'attività fisica e dell'apporto nutrizionale sulla forza nel tempo nei metastatici, e quale quota di quell'effetto passa per attività fisica e apporto (mediazione)? (Riformulata: 'quanta parte' presuppone quote che si sommano, ma i fattori sono correlati e senza un modello causale non esiste una partizione unica.)",
       "verdetto": "NON TROVATO",
-      "verifica": "Nessuno studio stima insieme i quattro fattori sulla forza. Esistono solo pezzi: coorti che mostrano un calo di presa dopo chemioterapia nei cachettici (n=46), una revisione di 71 trial di cachessia in cui la presa è l'endpoint più usato, e uno studio di mediazione sulla massa (non forza) in non metastatici, letto una sola volta. Ricerche con 6-8 formulazioni.",
+      "verifica": "Nessuno studio stima insieme i quattro fattori sulla forza. Esistono solo pezzi: coorti che mostrano un calo di presa dopo chemioterapia nei cachettici (n=46), una revisione di 71 trial di cachessia in cui la presa è l'endpoint più usato, e uno studio su carcinoma esofageo localmente avanzato (non metastatico) in cui inattività e rischio nutrizionale si associano alla variazione di massa (non di forza), letto una sola volta. Ricerche con 6-8 formulazioni.",
       "disegno": "Coorte prospettica multicentrica di metastatici solidi non prostatici all'inizio di una linea di terapia: dinamometria ripetuta ogni 6-8 settimane, accelerometria, apporto con questionario validato, carico tumorale con TC; terapia come esposizione variabile nel tempo; braccio di riferimento senza terapia attiva; modello misto con mediatori.",
       "falsificazione": "L'ipotesi 'terapia come causa principale' cade se l'effetto della terapia, dopo aggiustamento per attività e apporto, ha IC 95% che include zero; 'inattività e malnutrizione come tramite' cade se spiegano meno di una soglia prefissata (proposta: 20%) dell'effetto del carico tumorale. La soglia è una scelta da fissare in anticipo.",
       "fonti": [
@@ -564,13 +569,18 @@
           "tipo": "PMID",
           "id": "37671529",
           "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "39500612",
+          "verificata": false
         }
       ]
     },
     {
       "domanda": "Esiste un RCT con endpoint primario di forza massimale (dinamometria o 1RM prespecificata), con potenza calcolata, di un allenamento di resistenza in carcinoma solido metastatico non prostatico, incluse metastasi ossee stabili? (Riformulata: 'adeguatamente potenziato' e 'forza' non erano definiti e la domanda mescolava endpoint e popolazione.)",
       "verdetto": "PARZIALMENTE FATTO",
-      "verifica": "Nessun RCT pubblicato trovato con forza massimale primaria in 6 formulazioni. Un record del registro, NCT07521826 (tumore al seno metastatico, 78 pazienti stimati, non ancora reclutante), ha forza degli arti inferiori e forza di presa tra gli endpoint primari. Gli RCT esistenti hanno altri primari: fatica e qualità di vita (PREFERABLE-EFFECT, EFICANCER) oppure un test funzionale, il 30-s chair stand (PMID 34498352).",
+      "verifica": "Il verdetto è parziale solo per la presenza di un record nel registro: nessun RCT pubblicato trovato con forza massimale primaria in 6 formulazioni. Il record del registro, NCT07521826 (tumore al seno metastatico, 78 pazienti stimati, non ancora reclutante), ha forza degli arti inferiori e forza di presa tra gli endpoint primari. Gli RCT esistenti hanno altri primari: fatica e qualità di vita (PREFERABLE-EFFECT, EFICANCER) oppure un test funzionale, il 30-s chair stand (PMID 34498352).",
       "disegno": "RCT 1:1, esercizio di resistenza supervisionato 12-24 settimane contro cure usuali in tumore al seno, polmone e colon-retto metastatici con metastasi ossee stabili ammesse; primario la variazione di forza con dinamometria elettromeccanica. Con d=0,5, alfa 0,05 e potenza 80% servono circa 63 pazienti per braccio (circa 80 con 20% di abbandoni); con d=0,3 circa 175. Stime approssimate: l'effetto di partenza va preso da un pilota in questa popolazione.",
       "falsificazione": "Falsificata se l'IC 95% della differenza di forza a 12 settimane rispetto alle cure usuali include zero o se il limite superiore è sotto la differenza minima clinicamente rilevante, che va fissata prima dello studio (non reperita).",
       "fonti": [
@@ -604,9 +614,9 @@
     {
       "domanda": "In RCT di fase 2-3 in pazienti con cancro avanzato o metastatico, un agente anabolico o anticachettico migliora la forza muscolare (dinamometria o 1RM) come endpoint primario o co-primario rispetto al placebo a 12 settimane? (Riformulata: la domanda mescolava 'forza' e 'funzione' e metteva insieme classi di farmaci con meccanismi diversi.)",
       "verdetto": "PARZIALMENTE FATTO",
-      "verifica": "Fatto per anamorelin (forza di presa co-primaria in ROMANA 1-3: nessun miglioramento) e disegnato per enobosarm (potenza nel salire le scale; esito noto solo da una revisione). Ponsegromab e bimagrumab non hanno forza tra gli endpoint nel registro. Testosterone/nandrolone, anti-IL-6 con forza primaria e altri inibitori di ActRII: non trovati, con ricerche limitate.",
+      "verifica": "Fatto per anamorelin (forza di presa co-primaria in ROMANA 1 e 2, nessun miglioramento; stesso esito nell'estensione ROMANA 3) e disegnato per enobosarm: il PMID 27138015 è l'articolo di disegno dei trial POWER (potenza nel salire le scale), mentre l'esito è noto solo da una revisione (PMID 30138131). Ponsegromab e bimagrumab non hanno forza tra gli endpoint nel registro. Testosterone/nandrolone, anti-IL-6 con forza primaria e altri inibitori di ActRII: non trovati, con ricerche limitate.",
       "disegno": "RCT in doppio cieco contro placebo, stratificato per presenza di metastasi, con forza di presa (3 misure) e funzione (potenza nel salire le scale o cammino di 6 minuti) co-primarie, campione calcolato sulla variazione di forza e non sulla massa magra.",
-      "falsificazione": "Falsificata se la differenza rispetto al placebo a 12 settimane è sotto la soglia clinicamente rilevante prefissata o se l'IC 95% include zero. ROMANA 1-3 hanno già falsificato l'ipotesi per la forza di presa con anamorelin.",
+      "falsificazione": "Falsificata se la differenza rispetto al placebo a 12 settimane è sotto la soglia clinicamente rilevante prefissata o se l'IC 95% include zero. ROMANA 1 e 2 (forza di presa co-primaria) hanno già falsificato l'ipotesi per anamorelin; ROMANA 3 era un'estensione di sicurezza.",
       "fonti": [
         {
           "tipo": "PMID",
@@ -675,5 +685,5 @@
       ]
     }
   ],
-  "note": "Procedura applicata: 5 passi della scheda con sotto-agenti in parallelo, 6 domande residue verificate una per una, tre giri di verifica delle fonti (giro 1 riletture dirette su PubMed, giro 2 confronto di ogni PMID con titolo e abstract con agenti diversi, giro 3 controllo indipendente delle affermazioni negative e dei record del registro, letti in JSON grezzo). Limiti: ogni verifica è stata fatta sull'abstract, non sul testo completo. Sono 'verificate' solo le fonti riletti in tutti i giri; le due coorti di cut-off e lo studio Health ABC sono state lette una volta sola. Le affermazioni negative dei passi 2, 3 e 5 (mitocondri e IGF-1, linee guida ACSM/ESSA, criteri di Mirels, finestra temporale) non sono state ricontrollate. Gli esiti di megestrolo, testosterone e anti-IL-6 non sono stati letti. Il record NCT07521826 risulta ancora non reclutante pur con avvio previsto nel 2026: potrebbe non essere aggiornato. Per i trial POWER è stato trovato solo il lavoro di disegno, non quello con i risultati. Non è una consulenza medica: i dati riguardano studi su popolazioni specifiche (spesso tumore prostatico) e non si estendono a ogni paziente."
+  "note": "Procedura applicata: 5 passi della scheda con sotto-agenti in parallelo, 6 domande residue verificate una per una, tre giri di verifica delle fonti (giro 1 riletture dirette su PubMed, giro 2 confronto di ogni PMID con titolo e abstract con agenti diversi, giro 3 controllo indipendente delle affermazioni negative e dei record del registro, letti in JSON grezzo). Limiti: ogni verifica è stata fatta sull'abstract, non sul testo completo. Sono 'verificate' solo le fonti rilette in tutti i giri; le due coorti di cut-off e lo studio Health ABC sono state lette una volta sola. Le affermazioni negative dei passi 2, 3 e 5 (mitocondri e IGF-1, linee guida ACSM/ESSA, criteri di Mirels, finestra temporale) non sono state ricontrollate. Gli esiti di megestrolo, testosterone e anti-IL-6 non sono stati letti. Il record NCT07521826 risulta ancora non reclutante pur con avvio previsto nel 2026: potrebbe non essere aggiornato. Per i trial POWER è stato trovato solo il lavoro di disegno, non quello con i risultati. Non è una consulenza medica: i dati riguardano studi su popolazioni specifiche (spesso tumore prostatico) e non si estendono a ogni paziente."
 }
