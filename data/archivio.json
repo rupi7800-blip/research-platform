@@ -2,6 +2,12 @@
   "indice": {
     "categorie": [
       {
+        "nome": "Medicina complementare",
+        "sottocategorie": [
+          "Pratiche energetiche"
+        ]
+      },
+      {
         "nome": "Oncologia",
         "sottocategorie": [
           "Muscolo e cachessia"
@@ -10,6 +16,1005 @@
     ]
   },
   "ricerche": [
+    {
+      "id": "pratiche-energetiche-come-sapere-se-si-fa-bene",
+      "argomento": "Pratiche energetiche: come può il praticante sapere se sta facendo bene",
+      "categoria": "Medicina complementare",
+      "sottocategoria": "Pratiche energetiche",
+      "data": "2026-11-27",
+      "affermazione_iniziale": {
+        "testo": "Presupposto della domanda: chi pratica pratiche energetiche può sapere o intuire se sta facendo bene.",
+        "esito": "non verificabile",
+        "motivo": "Nessuno studio testa direttamente il legame tra ciò che il praticante percepisce e l'esito del ricevente. I test indiretti trovati (Rosa 1998, Shiflett 2002) sono negativi ma limitati, piccoli e non replicati: il presupposto non risulta supportato, e non è nemmeno smentito in modo definitivo."
+      },
+      "sommario": "Non risulta dimostrato che chi pratica pratiche energetiche possa percepire se sta lavorando bene. L'unico test cieco di rilevamento del presunto campo (21 praticanti, 44% di risposte corrette contro il 50% atteso) è negativo ma singolo e non replicato, e in un pilota i praticanti non distinguevano il Reiki dal trattamento finto. Le loro sensazioni non risultano legate al trattamento vero (nel pilota riferivano più calore alle mani proprio i praticanti con il finto) e nessuno studio le ha correlate all'esito; non esiste uno strumento validato che misuri la qualità di un singolo praticante. I miglioramenti riferiti dai riceventi compaiono in parte anche con un trattamento finto, e gli esiti oggettivi sono più spesso nulli. Gli studi misurano soprattutto esiti riferiti dal ricevente e quasi mai monitorano gli eventi avversi. Non è una consulenza medica.",
+      "sezioni": [
+        {
+          "titolo": "Cosa percepisce e cosa sa il praticante",
+          "voci": [
+            {
+              "testo": "Rosa 1998 (JAMA): 21 praticanti di tocco terapeutico, 280 prove in cieco su quale delle proprie mani fosse vicina a quella dello sperimentatore. Risposte corrette 123 (44%) contro il 50% atteso per caso; correlazione con gli anni di esperienza r=0,23, non significativa.",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "9533499",
+                "verificata": true
+              },
+              "prova": "È l'unico test cieco di rilevamento del presunto campo trovato; è un singolo studio, non replicato in modo indipendente, e il compito non è «vero contro finto»."
+            },
+            {
+              "testo": "Cox 2003 ha rianalizzato i dati di Rosa contestando disegno e statistica; secondo l'abstract la rianalisi suggerisce contraddizioni con la conclusione di nessun effetto complessivo.",
+              "livello": "ipotesi",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "12564352",
+                "verificata": true
+              },
+              "prova": "Critica metodologica, non una prova positiva di rilevamento."
+            },
+            {
+              "testo": "Shiflett 2002: pilota doppio cieco modificato su 50 pazienti con ictus subacuto, con quattro condizioni (Reiki master, Reiki practitioner, sham, controllo storico). I praticanti in cieco non sanno dire se stanno facendo Reiki o sham; il Reiki non ha effetto su FIM e CES-D. I praticanti con lo sham riferiscono più spesso calore alle mani di quelli con il Reiki.",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "12614528",
+                "verificata": true
+              },
+              "prova": "Pilota con un controllo storico; l'abstract non riporta numeri di accuratezza né il numero di praticanti."
+            },
+            {
+              "testo": "Yount 2004: 8 praticanti esperti di medicina energetica e 9 non praticanti, tre studi pilota randomizzati in doppio cieco su cellule tumorali in coltura: risultati al livello del caso, giudicati preliminari e inconcludenti dagli autori.",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "15253850",
+                "verificata": true
+              },
+              "prova": "Rilevamento di cellule in beuta, non di un campo umano."
+            },
+            {
+              "testo": "Mansour 1999: studio pilota di standardizzazione con praticanti Reiki reali e placebo; nel round decisivo (4 sopravvissute al cancro al seno e 4 osservatori) nessuno distingue l'identità del praticante.",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "10328637",
+                "verificata": true
+              },
+              "prova": "Pilota molto piccolo, non uno studio di efficacia."
+            },
+            {
+              "testo": "Wardell 2008: studio qualitativo su 2 casi di 7 veterani con dolore neuropatico da lesione midollare, 42 sessioni di Healing Touch; i praticanti descrivono danni al campo energetico e ai centri energetici.",
+              "livello": "ipotesi",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "18466849",
+                "verificata": true
+              },
+              "prova": "Descrizioni dei praticanti; l'abstract non indica misure indipendenti."
+            },
+            {
+              "testo": "Wahbeh 2021, studio esplorativo a metodi misti: un osservatore addestrato annota le sessioni di 17 praticanti su pazienti con dolore cronico di mano o polso (119 variabili binarie); le associazioni con la variazione del dolore non reggono la correzione per confronti multipli.",
+              "livello": "ipotesi",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "33132081",
+                "verificata": true
+              },
+              "prova": "Un solo osservatore; il predittore non è la sensazione del praticante."
+            },
+            {
+              "testo": "Hammerschlag 2020 (Biofield Tuning): 3 praticanti, 10 soggetti, 4 siti. Nell'analisi preliminare non statistica l'accordo entro 2 pollici è del 33%; un test Monte Carlo indica accordo scarso. L'abstract non riporta kappa né ICC.",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "32721212",
+                "verificata": true
+              },
+              "prova": "Piccolo; è lo studio di accordo tra praticanti più vicino a quanto cercato, ma con una metrica diversa."
+            },
+            {
+              "testo": "Dillard e Knapp 2005, revisione sulle terapie complementari per il dolore in pronto soccorso: afferma che mancano studi in doppio cieco che mostrino alta affidabilità inter-osservatore per queste terapie.",
+              "livello": "documentato",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "15829396",
+                "verificata": true
+              },
+              "prova": "Affermazione di una revisione, non di una ricerca sistematica: la ricerca di verifica ha trovato solo lo studio di Hammerschlag."
+            },
+            {
+              "testo": "Baldwin 2013: con magnetometro SQUID su 3 Reiki master e 4 volontari non praticanti non si rileva alcun campo superiore a 3 pT; il battito cardiaco dà circa 2 pT e l'oscillazione a 0,25-0,3 Hz è attribuita, probabilmente, alla respirazione.",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "23210468",
+                "verificata": true
+              },
+              "prova": "Piccolo; misura un campo elettromagnetico, non la percezione del praticante."
+            },
+            {
+              "testo": "Baldwin e Schwartz 2012: durante l'autopratica, rispetto ai controlli, nei Reiki master (31) la variabilità cardiaca non cambia; nei Reconnective healer (50) HRV e RMSSD calano; la perfusione cutanea aumenta in entrambi i gruppi. Gli autori scrivono che, contrariamente all'attesa, i praticanti non entrano in uno stato più rilassato.",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "22863644",
+                "verificata": true
+              },
+              "prova": "Misura lo stato del praticante, non l'esito del ricevente."
+            },
+            {
+              "testo": "Revisione sistematica 2014 di 22 studi sui cambiamenti fisiologici nei praticanti durante il trattamento: qualità da moderata a scarsa; la variabilità cardiaca cambia per alcune tecniche ma non per Reiki né tocco terapeutico; molti studi omettono formazione ed esperienza del praticante.",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "24767262",
+                "verificata": true
+              },
+              "prova": "Segnali del praticante non risultano validati come indicatori dello stato del ricevente."
+            },
+            {
+              "testo": "Non è stata trovata alcuna correlazione pubblicata tra le sensazioni del praticante (calore, formicolio, flusso, «sento che funziona») e l'esito del ricevente: ricerche con 11 formulazioni, risultati vicini ma non pertinenti.",
+              "livello": "ipotesi",
+              "fonte": {
+                "tipo": "",
+                "id": "",
+                "verificata": false
+              },
+              "prova": "Affermazione negativa non smentita dal controllo indipendente (con riserva): vale per PubMed e per gli abstract."
+            }
+          ]
+        },
+        {
+          "titolo": "Da dove vengono sensazioni ed effetti",
+          "voci": [
+            {
+              "testo": "RCT su 31 pazienti psichiatrici (tocco terapeutico, rilassamento, tocco terapeutico placebo): l'aspettativa non correla con l'esito; tocco terapeutico e rilassamento riducono l'ansia auto-riferita; il placebo ha effetti piccoli e non significativi.",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "8080307",
+                "verificata": true
+              },
+              "prova": "Piccolo; non separa aspettativa e tocco."
+            },
+            {
+              "testo": "RCT single-blind su 65 cardiopatici (Reiki, sham, controllo): Reiki e sham differiscono dal controllo per il cortisolo (p=0,002), più alto nel controllo; il Reiki ha l'ansia (BAI) più bassa. Il confronto diretto Reiki-sham sul cortisolo non è riportato nell'abstract.",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "38652801",
+                "verificata": true
+              },
+              "prova": "Una componente contestuale è presente anche nello sham; l'effetto non risulta specifico del Reiki."
+            },
+            {
+              "testo": "Studio quasi sperimentale su 11 adulti, tocco terapeutico contro tocco terapeutico simulato: calo immediato dell'ampiezza del polso e della percezione del tempo, con vasocostrizione, maggiore del simulato.",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "12462824",
+                "verificata": true
+              },
+              "prova": "Molto piccolo; la vasocostrizione è opposta alla vasodilatazione attesa per il rilassamento."
+            },
+            {
+              "testo": "Meta-analisi di studi sul noncontact healing: effetto significativo ma eterogeneo, che dipende dalla qualità metodologica. Sistemi non umani r=0,258, ridotta a 0,115 nel sottoinsieme di qualità; umani r=0,203, 0,224 nel sottoinsieme di qualità.",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "25457442",
+                "verificata": true
+              },
+              "prova": "Include sistemi non umani e non stratifica per tipo di trattamento finto."
+            },
+            {
+              "testo": "Aggiornamento di una revisione sistematica sulla guarigione a distanza (Ernst 2003): la maggior parte dei trial rigorosi non supporta effetti terapeutici specifici.",
+              "livello": "documentato",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "12778776",
+                "verificata": true
+              },
+              "prova": "L'abstract riguarda la guarigione a distanza, non la guarigione energetica in generale."
+            },
+            {
+              "testo": "Un meccanismo specifico e misurabile nell'uomo (campo biologico) non risulta dimostrato dalle fonti lette; gli effetti riferiti sono compatibili con aspettativa, contesto, attenzione e tocco.",
+              "livello": "ipotesi",
+              "fonte": {
+                "tipo": "",
+                "id": "",
+                "verificata": false
+              },
+              "prova": "Sintesi del passo 2 sulle fonti sopra, non una singola fonte. Due lavori che invocano entanglement quantistico o campi elettromagnetici non sono sostenuti dai dati nell'abstract."
+            },
+            {
+              "testo": "Un effetto ideomotorio (movimenti involontari che sembrano confermare una sensazione) è stato proposto come spiegazione delle sensazioni del praticante, ma non risulta alcuno studio applicato ai praticanti.",
+              "livello": "ipotesi",
+              "fonte": {
+                "tipo": "",
+                "id": "",
+                "verificata": false
+              },
+              "prova": "Ipotesi dal ragionamento, non da una fonte sui praticanti."
+            }
+          ]
+        },
+        {
+          "titolo": "Ridondanze e cause alternative",
+          "voci": [
+            {
+              "testo": "Scoping review 2026 di 35 RCT sul Reiki con sham: in 28 lo sham imitava il protocollo senza la formazione del praticante; in 12 di questi 28 lo sham ha dato miglioramenti significativi.",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "42551571",
+                "verificata": true
+              },
+              "prova": "Non è una meta-analisi e l'abstract non stratifica per esito né per rischio di bias: «non formato» non è un controllo inerte."
+            },
+            {
+              "testo": "Catlin 2011: RCT su 189 pazienti in chemioterapia (Reiki, sham, assistenza standard): Reiki e sham migliorano entrambi il comfort, l'assistenza standard no.",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "21531671",
+                "verificata": true
+              },
+              "prova": "Gli autori attribuiscono l'effetto alla presenza dell'infermiera."
+            },
+            {
+              "testo": "RCT su studenti con emoglobina bassa: tocco terapeutico e tocco simulato migliorano emoglobina ed ematocrito, il controllo no; il tocco terapeutico è superiore al simulato (p<0,05).",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "16449745",
+                "verificata": true
+              },
+              "prova": "L'abstract non indica la numerosità; lo sham non è neutro."
+            },
+            {
+              "testo": "Turner 1998: RCT single-blind su 99 ustionati: il tocco terapeutico riduce dolore e ansia più del tocco terapeutico sham; nessuna differenza nei farmaci.",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "9687125",
+                "verificata": true
+              },
+              "prova": "Esito auto-riferito con cecità singola."
+            },
+            {
+              "testo": "Gaillard 2021: RCT su 64 adulti con verruche (biofield senza contatto contro sham): nessuna verruca scomparsa a 3 settimane e nessuna differenza significativa tra i gruppi.",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "33639007",
+                "verificata": true
+              },
+              "prova": "Esito oggettivo; follow-up breve."
+            },
+            {
+              "testo": "Johnston 2013: RCT su neonati prematuri (<30 settimane) con tocco terapeutico non tattile (n=27) contro sham (n=28): nessuna differenza in alcun esito sul dolore (PIPP).",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "23817594",
+                "verificata": true
+              },
+              "prova": "Esito osservato; il terapeuta era dietro una tenda."
+            },
+            {
+              "testo": "Díaz-Rodríguez 2011: 21 operatori con burnout, Reiki contro placebo imitato da un terapista non formato: SDNN e temperatura più alti dopo il Reiki.",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "21821642",
+                "verificata": true
+              },
+              "prova": "Piccolo crossover; esito fisiologico positivo."
+            },
+            {
+              "testo": "Bat 2021: pilota doppio cieco su 48 persone (Reiki, sham, nessun trattamento): nessuna differenza statisticamente significativa su frequenza cardiaca, pressione, temperatura e stress; frequenza cardiaca Reiki contro sham p=0,053, non significativa.",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "33639516",
+                "verificata": true
+              },
+              "prova": "Pilota piccolo con esiti fisiologici."
+            },
+            {
+              "testo": "Utli e Doğru 2023: RCT single-blind su 159 pazienti prima di una endoscopia: stress e ansia ridotti e comfort aumentato con il Reiki rispetto a sham e controllo (p<0,001).",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "36272846",
+                "verificata": true
+              },
+              "prova": "Esiti auto-riferiti."
+            },
+            {
+              "testo": "Hanley 2025: RCT su dolore cronico al ginocchio (Reiki, sham, mindfulness, lista d'attesa), n=164: risposta clinica superiore al 30% nel 55% con Reiki e nel 55% con mindfulness, 20% con sham, 13% in lista d'attesa. Reiki contro lista d'attesa p=0,02; mindfulness contro sham p=0,004; il confronto Reiki-sham non è riportato nell'abstract.",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "41183719",
+                "verificata": true
+              },
+              "prova": "Esito auto-riferito; la cecità è dichiarata riuscita dagli autori."
+            },
+            {
+              "testo": "Ozden Yuce 2026: RCT su 180 pazienti per estrazione del terzo molare (Reiki, sham, nessun intervento): l'ansia preoperatoria (STAI-I) non è ridotta in modo significativo (p=0,079); il dolore postoperatorio è più basso (p=0,045).",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "41015064",
+                "verificata": true
+              },
+              "prova": "I p sono dal confronto complessivo tra i gruppi, non da confronti Reiki-sham."
+            },
+            {
+              "testo": "Cochrane 2008 sulle terapie di tocco per il dolore (24 studi): riduzione media di 0,83 punti su 10; l'effetto placebo non è significativo (P=0,29); i trial con praticanti più esperti sembravano dare effetti maggiori.",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "18843720",
+                "verificata": true
+              },
+              "prova": "Controlli misti sham e nessun trattamento; analisi indiretta sull'esperienza."
+            },
+            {
+              "testo": "Cochrane sul Reiki per ansia e depressione: 3 studi, rischio di bias incerto o alto nella maggior parte dei domini; evidenza insufficiente per dire se il Reiki sia utile o dannoso.",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "25835541",
+                "verificata": true
+              },
+              "prova": "Revisione del 2015."
+            },
+            {
+              "testo": "Cochrane sul tocco terapeutico per l'ansia: nessun RCT trovato.",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "17636838",
+                "verificata": true
+              },
+              "prova": "Ricerca aggiornata a gennaio 2006: versione del 2007."
+            },
+            {
+              "testo": "Cochrane 2016 sul tocco terapeutico per la guarigione di ferite acute: 4 trial, tutti ad alto rischio di bias; nessuna evidenza robusta.",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "27552401",
+                "verificata": true
+              },
+              "prova": "Esito oggettivo, evidenza debole."
+            },
+            {
+              "testo": "Zeng 2018: revisione sistematica (non Cochrane) sulla medicina complementare in hospice e cure palliative, 17 studi valutati: miglioramento dalla baseline nel breve periodo, ma differenza tra gruppi non significativa.",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "30076965",
+                "verificata": true
+              },
+              "prova": "Include più terapie, non solo il tocco; mostra come miglioramenti prima-dopo possano non dipendere dal trattamento."
+            },
+            {
+              "testo": "Revisione sistematica sul Reiki (van der Vaart 2009): 12 trial, 9 con effetto positivo e 11 su 12 di qualità scarsa alla scala Jadad.",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "19922247",
+                "verificata": true
+              },
+              "prova": "I risultati positivi sono in prevalenza di bassa qualità."
+            },
+            {
+              "testo": "Revisione sistematica di RCT sul Reiki (Lee 2008): 9 RCT, evidenza insufficiente per ogni condizione.",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "18410352",
+                "verificata": true
+              },
+              "prova": "Revisione precedente, stesso messaggio della voce sopra."
+            },
+            {
+              "testo": "Ai 2001: articolo di discussione metodologica sul disegno di studi clinici sulla guarigione energetica (qigong): elenca aspettativa e placebo, bias del praticante e conflitto di interessi come problemi del disegno; discute il consenso informato.",
+              "livello": "documentato",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "11452571",
+                "verificata": true
+              },
+              "prova": "Non è una revisione di studi e riguarda il qigong."
+            },
+            {
+              "testo": "Sintesi: gli esiti auto-riferiti sono positivi più spesso rispetto al trattamento finto, mentre gli esiti oggettivi (verruche, dolore neonatale osservato, pressione, frequenza cardiaca) sono più spesso nulli o incoerenti. È una lettura qualitativa dei 29 studi del passo 3, non una stima.",
+              "livello": "ipotesi",
+              "fonte": {
+                "tipo": "",
+                "id": "",
+                "verificata": false
+              },
+              "prova": "Non esiste una meta-analisi che stratifichi per tipo di esito (vedi buchi)."
+            },
+            {
+              "testo": "Il feedback che il praticante riceve dai riceventi non è studiato nelle pratiche energetiche per bias di conferma, desiderabilità sociale o regressione verso la media; le ricerche sulla regressione verso la media erano scritte male e vanno ripetute.",
+              "livello": "ipotesi",
+              "fonte": {
+                "tipo": "",
+                "id": "",
+                "verificata": false
+              },
+              "prova": "Affermazione negativa non smentita, con limite di ricerca dichiarato."
+            }
+          ]
+        },
+        {
+          "titolo": "Sicurezza, benefici sui sintomi e indicatori praticabili",
+          "voci": [
+            {
+              "testo": "Revisione sistematica 2026 di 9 studi su 415 partecipanti in cure palliative: solo uno studio monitorava gli eventi avversi, con 1 evento serio potenzialmente correlato.",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "42108752",
+                "verificata": true
+              },
+              "prova": "«Nessun evento avverso riportato» non equivale a sicurezza."
+            },
+            {
+              "testo": "Revisione sistematica 2019 in terapia intensiva (32 RCT su approcci complementari come musica, aromaterapia e massaggio; Reiki non incluso): nessun evento avverso riportato; metà con alto rischio di bias di randomizzazione.",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "31780011",
+                "verificata": true
+              },
+              "prova": "Usata solo come esempio del problema, non come prova di sicurezza del Reiki."
+            },
+            {
+              "testo": "Meta-analisi 2026 di 10 studi sulle terapie biofield senza contatto nei disturbi depressivi (g=-0,49; I²=18,6%): gli autori scrivono che potrebbero essere sicure ed efficaci, con effetto confrontabile a quello degli antidepressivi.",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "43033686",
+                "verificata": true
+              },
+              "prova": "Conclusione degli autori oltre ciò che le prove di bassa qualità permettono; riguarda il biofield, non il Reiki."
+            },
+            {
+              "testo": "Linea guida tedesca S3 (2012) sulla fibromialgia: Reiki non raccomandato; qigong, tai chi e yoga fortemente raccomandati.",
+              "livello": "documentato",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "22760464",
+                "verificata": true
+              },
+              "prova": "Una sola indicazione, sulla fibromialgia."
+            },
+            {
+              "testo": "Rassegna educativa 2025 sull'incontro tra interfacce cervello-computer e medicina tradizionale, complementare e integrativa: tra le questioni da affrontare cita il consenso informato e i quadri regolatori.",
+              "livello": "documentato",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "40290410",
+                "verificata": true
+              },
+              "prova": "Non è un'analisi dell'etica della medicina complementare in generale."
+            },
+            {
+              "testo": "Revisione sistematica su Reiki e dolore oncologico (7 studi sperimentali e quasi sperimentali, 572 pazienti): dolore ridotto in 5 studi su 7.",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "37595119",
+                "verificata": true
+              },
+              "prova": "Qualità bassa; gli autori chiedono più RCT."
+            },
+            {
+              "testo": "Zadro e Stapleton 2022: revisione di 14 RCT Reiki contro placebo con RoB2 e GRADE: certezza alta per stress e depressione clinicamente rilevanti; per i livelli normali bassa per depressione e ansia e da bassa a moderata per lo stress.",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "35911042",
+                "verificata": true
+              },
+              "prova": "Giudizi GRADE degli autori, non ricontrollati."
+            },
+            {
+              "testo": "Meta-analisi 2025 sulla qualità di vita con il Reiki (661 partecipanti): SMD 0,28 (IC 95% 0,01-0,56; p=0,043).",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "40148929",
+                "verificata": true
+              },
+              "prova": "Effetto piccolo, al limite della significatività."
+            },
+            {
+              "testo": "Revisione 2010 sulle terapie biofield (66 studi): evidenza forte per il dolore nelle popolazioni dolorose; moderata per la riduzione del dolore in oncologia; equivoca per affaticamento e qualità di vita in oncologia.",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "19856109",
+                "verificata": true
+              },
+              "prova": "Sintesi di «migliori evidenze», non una meta-analisi."
+            },
+            {
+              "testo": "Çeçen 2026: RCT in emodialisi (80 partecipanti), Reiki contro sham da praticanti senza formazione Reiki: dolore migliore con il Reiki (p<0,001); qualità di vita senza differenza significativa.",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "42392933",
+                "verificata": true
+              },
+              "prova": "Esito auto-riferito."
+            },
+            {
+              "testo": "Karacan 2026: RCT single-blind su 60 pazienti ventilati, Reiki contro sham da non certificato: dolore (p=0,002) e ansia (p=0,006) migliori con il Reiki.",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "41051913",
+                "verificata": true
+              },
+              "prova": "Esiti osservati con scala, cecità singola."
+            },
+            {
+              "testo": "Suzuki 2012: studio descrittivo trasversale su 44.587 partecipanti a terapia biofield in Giappone: miglioramento riferito circa 70% (69,7%, 67,5%, 71,2%), associato a genere, durata, luogo e motivo.",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "22875592",
+                "verificata": true
+              },
+              "prova": "Auto-riferito, senza controllo: mostra quanto un feedback positivo possa essere frequente senza dimostrare efficacia."
+            },
+            {
+              "testo": "Suzuki 2020: studio trasversale pre-post su 11.303 partecipanti in 14 paesi (Okada Purifying Therapy): miglioramento riferito 73,8-78,4%; peggioramenti 0,8-2,8%; oltre il 50% dei partecipanti erano praticanti.",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "32551797",
+                "verificata": true
+              },
+              "prova": "Nessun controllo."
+            },
+            {
+              "testo": "Dyer 2019: 99 praticanti Reiki, 1411 sessioni, braccio singolo pre-post senza controllo: miglioramento significativo (p<0,001) in tutte le misure.",
+              "livello": "sperimentale",
+              "fonte": {
+                "tipo": "PMID",
+                "id": "31638407",
+                "verificata": true
+              },
+              "prova": "Senza gruppo di confronto; un'affiliazione degli autori è un centro di ricerca sul Reiki."
+            },
+            {
+              "testo": "Indicatori praticabili: gli studi usano misure riferite dal ricevente (scale di dolore, ansia, benessere) misurate prima e dopo, il monitoraggio degli eventi avversi e il confronto con un controllo. Le sensazioni del praticante e i segnali fisiologici non risultano validati come indicatori della qualità del lavoro.",
+              "livello": "ipotesi",
+              "fonte": {
+                "tipo": "",
+                "id": "",
+                "verificata": false
+              },
+              "prova": "Sintesi dei passi 4 e 5, non una singola fonte. Anche le misure riferite dal ricevente non separano l'effetto specifico da quello contestuale."
+            }
+          ]
+        }
+      ],
+      "tentativi": [
+        {
+          "cosa": "Test cieco di rilevamento del campo con praticanti di tocco terapeutico (Rosa 1998)",
+          "esito": "fallito",
+          "ragione": "44% di risposte corrette contro il 50% atteso per caso; nessuna relazione con gli anni di esperienza. Singolo studio, mai replicato in modo indipendente.",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "9533499",
+            "verificata": true
+          }
+        },
+        {
+          "cosa": "Rianalisi dei dati di Rosa (Cox 2003)",
+          "esito": "inconcludente",
+          "ragione": "Contesta disegno e statistica ma non offre una prova di rilevamento.",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "12564352",
+            "verificata": true
+          }
+        },
+        {
+          "cosa": "Praticanti in cieco che indicano se stanno facendo Reiki o sham (Shiflett 2002, pilota su ictus)",
+          "esito": "fallito",
+          "ragione": "Non sanno dire in quale categoria sono; nessun effetto del Reiki sugli esiti. Pilota con controllo storico.",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "12614528",
+            "verificata": true
+          }
+        },
+        {
+          "cosa": "Rilevamento in doppio cieco della presenza di cellule tumorali in coltura da parte di praticanti (Yount 2004)",
+          "esito": "inconcludente",
+          "ragione": "Risultati al livello del caso; pilota di 8 praticanti e 9 non praticanti.",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "15253850",
+            "verificata": true
+          }
+        },
+        {
+          "cosa": "Esperimenti in doppio cieco di tocco terapeutico, Reiki, LeShan e preghiera sulla guarigione di ferite (revisione Wirth 1996)",
+          "esito": "inconcludente",
+          "ragione": "Significativi nei primi due esperimenti, non significativi o di segno opposto negli altri tre.",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "9395679",
+            "verificata": true
+          }
+        },
+        {
+          "cosa": "Misura di un campo elettromagnetico con magnetometro SQUID sui praticanti Reiki (Baldwin 2013)",
+          "esito": "fallito",
+          "ragione": "Nessun campo superiore a 3 pT; i segnali coincidono con battito e respirazione.",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "23210468",
+            "verificata": true
+          }
+        },
+        {
+          "cosa": "Un praticante di biofield con EEG e variabilità cardiaca e misure su cellule di carcinoma pancreatico, 60 sessioni in doppio cieco (Cohen 2024)",
+          "esito": "inconcludente",
+          "ragione": "EEG e HRV del praticante cambiano; il calcio intracellulare cresce meno con il trattamento che con lo sham (p=0,03); n=1.",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "39622875",
+            "verificata": true
+          }
+        },
+        {
+          "cosa": "Coerenza EEG tra 9 coppie praticante-ricevente con praticanti esperti o appena istruiti (Ventura e Persinger 2014)",
+          "esito": "inconcludente",
+          "ragione": "La coerenza theta aumenta nel tempo nelle coppie Reiki rispetto alle sham; esito non clinico e campione molto piccolo.",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "24967637",
+            "verificata": true
+          }
+        },
+        {
+          "cosa": "Batteria di 13 misure fisiche (magnetometro, pH, TDS, GDV, variabilità cardiaca, conduttanza cutanea) proposta come test di competenza dei praticanti (studio prospettico su 213 soggetti)",
+          "esito": "inconcludente",
+          "ragione": "L'abstract non riporta validazione contro esiti clinici; campione di convenienza.",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "32798173",
+            "verificata": true
+          }
+        },
+        {
+          "cosa": "Fotografia Kirlian, GDV e imaging elettrofotonico come strumenti diagnostici (revisione Duerden 2004)",
+          "esito": "fallito",
+          "ragione": "Evidenza affidabile insufficiente per l'uso diagnostico; gli autori ammettono un possibile uso come strumento di ricerca.",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "15135764",
+            "verificata": true
+          }
+        },
+        {
+          "cosa": "Dispositivi per la ricerca sul biofield (rassegna Muehsam 2015)",
+          "esito": "inconcludente",
+          "ragione": "La variabilità cardiaca ha un meccanismo ben compreso; per GDV e biofotoni meccanismo e significato clinico non sono chiari.",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "26665041",
+            "verificata": true
+          }
+        },
+        {
+          "cosa": "GDV in doppio cieco su 61 adolescenti con telefono cellulare acceso contro spento (Bhargav 2017)",
+          "esito": "inconcludente",
+          "ragione": "I valori del GDV calano in dieci distretti con il telefono acceso; gli autori lo leggono come effetto sui livelli energetici sottili, e l'abstract non convalida lo strumento come misura.",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "28149063",
+            "verificata": true
+          }
+        },
+        {
+          "cosa": "Elettromiografia di superficie a laboratorio schermato su 20 praticanti contro 24 studenti (Rowold 2020)",
+          "esito": "inconcludente",
+          "ragione": "Più potenza spettrale ad alta frequenza nei praticanti; i due gruppi facevano compiti diversi e l'abstract non descrive controlli sugli artefatti muscolari.",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "35392431",
+            "verificata": true
+          }
+        },
+        {
+          "cosa": "Esperienza del praticante come variabile: pilota su Healing Touch con 22 clienti (Wilkinson 2002)",
+          "esito": "inconcludente",
+          "ragione": "Aumento della sIgA salivare solo con i praticanti più formati; studio quasi sperimentale non randomizzato, piccolo.",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "11890432",
+            "verificata": true
+          }
+        },
+        {
+          "cosa": "Questionari di miglioramento riferito dopo biofield in Giappone e in 14 paesi (Suzuki 2012 e 2020)",
+          "esito": "inconcludente",
+          "ragione": "Miglioramento riferito circa 70-78% e peggioramenti 0,8-2,8%, senza controllo: mostra quanto un feedback positivo sia frequente, non che sia valido.",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "22875592",
+            "verificata": true
+          }
+        },
+        {
+          "cosa": "Per analogia con la psicoterapia: feedback al terapeuta (Lambert 2017, review di 12 trial)",
+          "esito": "riuscito",
+          "ragione": "I terapeuti sembrano sovrastimare gli esiti positivi e individuare male i casi a rischio; con feedback il peggioramento nei casi a rischio scende dal 21% al 13%. Non riguarda le pratiche energetiche.",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "28183083",
+            "verificata": true
+          }
+        },
+        {
+          "cosa": "Per analogia con la psicoterapia: monitoraggio dei progressi con feedback (Lambert 2018, meta-analisi di 24 studi)",
+          "esito": "riuscito",
+          "ragione": "Due terzi dei 24 studi sono superiori al trattamento usuale, con effetti piccoli-moderati. Non riguarda le pratiche energetiche.",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "30335463",
+            "verificata": true
+          }
+        },
+        {
+          "cosa": "Per analogia con la psicoterapia: feedback sul PHQ-9 in un RCT a cluster open-label su 2233 pazienti (Delgadillo 2018)",
+          "esito": "riuscito",
+          "ragione": "Nei casi non in linea con il percorso, a rischio di scarsa risposta, il feedback riduce la gravità (PHQ-9 d=0,23; GAD-7 d=0,19). Non riguarda le pratiche energetiche.",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "29937396",
+            "verificata": true
+          }
+        },
+        {
+          "cosa": "Per analogia con la psicoterapia: feedback in emergenza psichiatrica (van Oenen 2016, n=370)",
+          "esito": "inconcludente",
+          "ragione": "A 3 mesi nessuna differenza (p=0,505); a 6 settimane il gruppo con feedback migliora meno (ES 0,31 contro 0,56): il feedback non è garanzia di beneficio.",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "27095106",
+            "verificata": true
+          }
+        },
+        {
+          "cosa": "Per analogia con la psicoterapia: uso dei dati auto-riferiti dai pazienti (Låver 2024, revisione sistematica di studi qualitativi)",
+          "esito": "inconcludente",
+          "ragione": "I dati auto-riferiti non sono solo una misura oggettiva e i pazienti rispondono in modo strategico: limita il valore del feedback spontaneo.",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "37322037",
+            "verificata": true
+          }
+        }
+      ],
+      "buchi": [
+        {
+          "domanda": "Un praticante, in cieco e prima di conoscere la condizione, classifica ogni sessione come reale o sham con accuratezza superiore al 50%, con intervallo di confidenza al 95% a livello di sessione e il praticante come cluster? (Riformulata: la domanda iniziale mescolava tre cose diverse: distinguere reale da sham, distinguere la presenza dall'assenza di una persona, e «sapere di fare bene». Riuscire a distinguere non implica qualità né efficacia.)",
+          "verdetto": "PARZIALMENTE FATTO",
+          "verifica": "Esiste il pilota di Shiflett 2002 (praticanti ciechi non sanno dire se fanno Reiki o sham, senza numeri nell'abstract) e il test di Rosa 1998, che però misura quale mano è vicina e non «reale contro sham». Il test in doppio cieco su cellule (Yount 2004) è al livello del caso. Nessuna replica pubblicata con auto-classificazione per sessione, in 8 formulazioni PubMed e 9 nel controllo indipendente.",
+          "disegno": "Praticanti esperti e sham formati ma non iniziati; sequenza di assegnazione nascosta, nessun feedback, risposta registrata prima della sessione successiva; analisi pre-registrata con modello misto. Calcolo dell'agente, non da fonte: circa 67 prove indipendenti per distinguere 65% da 50% con alfa unilaterale 0,05 e potenza 80%; il clustering ne richiede di più.",
+          "falsificazione": "Respinta se l'IC 95% dell'accuratezza complessiva include il 50% alla fine del campione prefissato; una media del 55% con IC che include il 50% non è una prova. Se gli osservatori terzi non distinguono ma il praticante sì, è una sensazione e non l'identificazione della pratica.",
+          "fonti": [
+            {
+              "tipo": "PMID",
+              "id": "12614528",
+              "verificata": true
+            },
+            {
+              "tipo": "PMID",
+              "id": "9533499",
+              "verificata": true
+            },
+            {
+              "tipo": "PMID",
+              "id": "10328637",
+              "verificata": true
+            },
+            {
+              "tipo": "PMID",
+              "id": "15253850",
+              "verificata": true
+            }
+          ]
+        },
+        {
+          "domanda": "Il punteggio di percezione del praticante (calore, flusso, «funziona»), registrato prima di conoscere l'esito e in cieco rispetto all'assegnazione, è associato all'esito del ricevente dopo controllo per gruppo reale/sham e per aspettativa del ricevente? (Riformulata: dentro la seduta la correlazione è confondibile da uno stato comune, e le sensazioni non sono misure valide di «fare bene» senza un criterio esterno.)",
+          "verdetto": "NON TROVATO",
+          "verifica": "Nessuna correlazione tra sensazioni del praticante ed esito in 11 e 7 formulazioni (controllo indipendente: non smentita con riserva). Studi vicini: Shiflett 2002, dove i praticanti con lo sham riferiscono più calore dei praticanti Reiki; Wahbeh 2021, in cui un osservatore annota comportamenti dei praticanti e le associazioni non reggono la correzione per confronti multipli. Il verdetto vale solo per PubMed e per gli abstract.",
+          "disegno": "Trial con Reiki o tocco terapeutico reale e sham; il praticante valuta su scala 0-10 calore, flusso e «funziona» dopo ogni sessione, prima dell'esito; esito primario pre-registrato a tempo fisso; modello misto con gruppo e aspettativa come covariate. Calcolo dell'agente, non da fonte: per r=0,30 con potenza 80% e alfa 0,05 bilaterale servono circa 85 coppie praticante-ricevente indipendenti.",
+          "falsificazione": "Respinta se la correlazione parziale (controllata per gruppo e aspettativa) ha IC 95% che include zero; se l'associazione sparisce con il controllo per gruppo e aspettativa il segnale è spiegato da aspettativa o stato comune.",
+          "fonti": [
+            {
+              "tipo": "PMID",
+              "id": "12614528",
+              "verificata": true
+            },
+            {
+              "tipo": "PMID",
+              "id": "33132081",
+              "verificata": true
+            },
+            {
+              "tipo": "PMID",
+              "id": "18466849",
+              "verificata": true
+            }
+          ]
+        },
+        {
+          "domanda": "Nel disegno 2x2 (praticante formato o non formato × trattamento reale o sham), con protocollo identico, esiste un'interazione misurabile sull'esito clinico primario? (Riformulata: «abilità» e «certificato» non sono definiti, e con protocolli diversi la formazione si confonde con il trattamento.)",
+          "verdetto": "PARZIALMENTE FATTO",
+          "verifica": "Non c'è un RCT 2x2. Esiste Shiflett 2002 (pilota con Reiki master, Reiki practitioner, sham e controllo storico, senza effetto sugli esiti), uno studio quasi sperimentale su Healing Touch (Wilkinson 2002: sIgA più alta solo con praticanti più formati, 22 clienti), l'analisi indiretta della Cochrane 2008 (praticanti più esperti sembravano dare effetti maggiori) e la scoping review 2026, in cui lo sham «non formato» dà effetti in 12 studi su 28. Nessuna definizione operativa di «livello» nei 9 studi del controllo.",
+          "disegno": "RCT 2x2 con ricevente randomizzato a praticante (formato o non formato) e a trattamento (reale o sham), protocollo scritto uguale per tutti, competenza del praticante misurata prima con test in cieco, esito primario pre-registrato (per esempio dolore a 4 settimane) con valutatore cieco, numerosità dalla differenza minima clinicamente rilevante.",
+          "falsificazione": "Falsificata se l'interazione formazione × trattamento ha IC 95% tra -d e +d (d = differenza minima clinicamente rilevante) e il contrasto formato-non formato sul braccio reale è nullo; oppure se lo sham da non formato produce lo stesso effetto del Reiki formato.",
+          "fonti": [
+            {
+              "tipo": "PMID",
+              "id": "12614528",
+              "verificata": true
+            },
+            {
+              "tipo": "PMID",
+              "id": "11890432",
+              "verificata": true
+            },
+            {
+              "tipo": "PMID",
+              "id": "18843720",
+              "verificata": true
+            },
+            {
+              "tipo": "PMID",
+              "id": "42551571",
+              "verificata": true
+            },
+            {
+              "tipo": "PMID",
+              "id": "24967637",
+              "verificata": true
+            }
+          ]
+        },
+        {
+          "domanda": "Praticanti diversi che valutano in cieco lo stesso ricevente, con una scheda predefinita e un bersaglio presente o assente, producono classificazioni concordanti oltre il caso (kappa di Fleiss o ICC con IC 95% e soglie prefissate)? (Riformulata: «blocchi», «chakra» e «aura» non sono costrutti misurabili in modo indipendente; l'accordo ha senso solo su un output predefinito, e un accordo alto dimostrerebbe una convenzione condivisa, non l'esistenza di un campo.)",
+          "verdetto": "PARZIALMENTE FATTO",
+          "verifica": "Un solo studio di accordo tra praticanti, Hammerschlag 2020 (3 praticanti, 10 soggetti, accordo entro 2 pollici nel 33% nell'analisi preliminare, accordo scarso al test Monte Carlo, senza kappa né ICC nell'abstract). Una revisione afferma l'assenza di studi ciechi ad alta affidabilità inter-osservatore; non è una ricerca sistematica. Nessun kappa o ICC in 8 formulazioni, e 287 risultati su «Human Energy Field Assessment» sono tutti falsi positivi.",
+          "disegno": "Almeno 3 praticanti, ordine casuale, valutazioni indipendenti, condizione con bersaglio presente e condizione con bersaglio assente in cieco, numerosità calcolata sul kappa o sull'ICC.",
+          "falsificazione": "Falsificata se il kappa (IC 95%) non supera la soglia prefissata o include zero; in modo più forte se l'accordo senza bersaglio è uguale a quello con bersaglio: la concordanza misurerebbe convenzione e bias.",
+          "fonti": [
+            {
+              "tipo": "PMID",
+              "id": "32721212",
+              "verificata": true
+            },
+            {
+              "tipo": "PMID",
+              "id": "9533499",
+              "verificata": true
+            },
+            {
+              "tipo": "PMID",
+              "id": "15829396",
+              "verificata": true
+            }
+          ]
+        },
+        {
+          "domanda": "Di quanto supera il Reiki lo sham (Reiki meno sham, IC 95%) per classe di esito (auto-riferito, osservato, fisiologico), in RCT con cecità verificata e RoB2? (Riformulata: l'effetto nel braccio attivo è somma di effetto aspecifico e di un eventuale effetto specifico, e un solo braccio sham non permette di scomporlo in una «quota»; «sham ben progettato» è una condizione da verificare.)",
+          "verdetto": "PARZIALMENTE FATTO",
+          "verifica": "Non esiste una meta-analisi del contrasto Reiki-meno-sham stratificata per tipo di esito e per rischio di bias, né un dato pooled sugli esiti oggettivi. Esistono la scoping review sullo sham (35 RCT), la revisione di Zadro (14 RCT con RoB2 e GRADE, quasi tutte scale auto-riferite), la meta-analisi del noncontact healing, la Cochrane sul dolore, sulle ferite, sull'ansia e sulla depressione. Due record della stessa revisione del 2026 (PMID 42766936 e 42721754) riportano numerosità diverse: discrepanza non risolta.",
+          "disegno": "Meta-analisi a livello di contrasto per esito con analisi di sensibilità per cecità verificata e somiglianza dello sham; poi un RCT a tre bracci (Reiki da praticante formato, sham con praticante formato ma inerte, attenzione senza tocco) con esito primario oggettivo pre-registrato e controllo della cecità.",
+          "falsificazione": "Se il contrasto Reiki-meno-sham sugli esiti oggettivi ha IC 95% compatibile con zero (|SMD| minore di 0,2) mentre quello sugli esiti auto-riferiti resta positivo, l'effetto specifico fisiologico è respinto. Se i partecipanti indovinano il gruppo oltre il caso (per esempio oltre il 60%), la differenza sugli esiti soggettivi non è interpretabile.",
+          "fonti": [
+            {
+              "tipo": "PMID",
+              "id": "42551571",
+              "verificata": true
+            },
+            {
+              "tipo": "PMID",
+              "id": "35911042",
+              "verificata": true
+            },
+            {
+              "tipo": "PMID",
+              "id": "25457442",
+              "verificata": true
+            },
+            {
+              "tipo": "PMID",
+              "id": "18843720",
+              "verificata": true
+            },
+            {
+              "tipo": "PMID",
+              "id": "27552401",
+              "verificata": true
+            },
+            {
+              "tipo": "PMID",
+              "id": "25835541",
+              "verificata": true
+            },
+            {
+              "tipo": "PMID",
+              "id": "17636838",
+              "verificata": true
+            },
+            {
+              "tipo": "PMID",
+              "id": "42766936",
+              "verificata": false
+            },
+            {
+              "tipo": "PMID",
+              "id": "42721754",
+              "verificata": false
+            }
+          ]
+        },
+        {
+          "domanda": "Il feedback spontaneo dei riceventi (soddisfazione, ringraziamenti) predice il cambiamento misurato con una scala di esito validata, dopo aggiustamento per baseline, regressione verso la media e aspettativa, nelle pratiche energetiche? (Riformulata: la domanda mescolava soddisfazione, ringraziamento e miglioramento, e solo il terzo è un esito di efficacia; «indicatore valido» va definito come validità di criterio.)",
+          "verdetto": "NON TROVATO",
+          "verifica": "Nessuno studio nelle pratiche energetiche su bias di conferma, desiderabilità sociale o regressione verso la media nel feedback, né RCT di feedback strutturato. Solo analogie dalla psicoterapia: terapeuti che sovrastimano gli esiti, feedback strutturato che riduce il peggioramento nei casi a rischio (ma non in emergenza psichiatrica) e dati auto-riferiti non puramente oggettivi. Due ricerche sulla regressione verso la media sono fallite per sintassi e vanno rifatte.",
+          "disegno": "Coorte prospettica con almeno 30 praticanti e almeno 10 riceventi ciascuno, scala validata a baseline e a ogni sessione, soddisfazione e ringraziamento raccolti a parte, stima del praticante registrata prima di vedere la scala; braccio di controllo (lista d'attesa o sham con lo stesso praticante); braccio con feedback strutturato al praticante.",
+          "falsificazione": "Falsificata se la correlazione tra soddisfazione o stima del praticante e cambiamento misurato, dopo aggiustamento, ha IC 95% che include zero (o r<0,1); se la soddisfazione è uguale nel controllo e nel braccio attivo, non è un indicatore specifico.",
+          "fonti": [
+            {
+              "tipo": "PMID",
+              "id": "28183083",
+              "verificata": true
+            },
+            {
+              "tipo": "PMID",
+              "id": "29937396",
+              "verificata": true
+            },
+            {
+              "tipo": "PMID",
+              "id": "27095106",
+              "verificata": true
+            },
+            {
+              "tipo": "PMID",
+              "id": "37322037",
+              "verificata": true
+            },
+            {
+              "tipo": "PMID",
+              "id": "30335463",
+              "verificata": true
+            }
+          ]
+        }
+      ],
+      "note": "Procedura: 5 passi della scheda con sotto-agenti in parallelo, 6 domande residue verificate una per una, tre giri di verifica delle fonti: giro 1 riletture dirette su PubMed, giro 2 confronto di ogni PMID con titolo e abstract con agenti diversi, giro 3 controllo indipendente delle affermazioni negative. Limiti: verifica fatta sugli abstract, non sul testo completo; solo PubMed, i registri dei trial non sono stati consultati. Diversi lavori vengono da autori vicini al settore: i conflitti di interesse non sono stati verificati. I giri hanno corretto una trentina di affermazioni, tra cui un'etichetta «Cochrane» sbagliata e una lettura del GDV non scritta nell'abstract. Tre affermazioni negative (nessuna correlazione sensazioni-esito, nessuno studio su bias del feedback, nessuno strumento validato di qualità del praticante) non sono state smentite; due (livello di formazione come fattore assegnato, frequenza di calore dei praticanti) sono state smentite e riscritte. Due articoli sono ritirati e non sono usati come prova: Ross 2019 su Energy Medicine (PMID 30834177, avviso PMID 33912359) e Keum 2021 sull'accuratezza dei terapeuti nello stimare la soddisfazione del cliente (PMID 32673003, avviso PMID 37428768). La scheda non valuta se le pratiche energetiche funzionino per una condizione: tratta di come un praticante potrebbe sapere se sta lavorando bene. Non è una consulenza medica e non sostituisce le cure."
+    },
     {
       "id": "forza-muscolare-tumori-metastatici",
       "argomento": "Forza muscolare nei tumori metastatici",
