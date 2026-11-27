@@ -7,6 +7,12 @@
       ]
     },
     {
+      "nome": "Neuroscienze",
+      "sottocategorie": [
+        "Cervello e fisica quantistica"
+      ]
+    },
+    {
       "nome": "Oncologia",
       "sottocategorie": [
         "Muscolo e cachessia"
