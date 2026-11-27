@@ -1,0 +1,45 @@
+{
+  "id": "slug-argomento",
+  "argomento": "Titolo dell'argomento",
+  "categoria": "Nome categoria",
+  "sottocategoria": "Nome sottocategoria",
+  "data": "AAAA-MM-GG",
+  "sommario": "Due o tre righe con la conclusione principale.",
+  "affermazione_iniziale": {
+    "testo": "L'affermazione di partenza dell'utente, se c'è.",
+    "esito": "confermata | parziale | smentita | non verificabile",
+    "motivo": "Perché."
+  },
+  "sezioni": [
+    {
+      "titolo": "Stato delle conoscenze",
+      "voci": [
+        {
+          "testo": "Affermazione.",
+          "livello": "consolidato | sperimentale | ipotesi",
+          "fonte": { "tipo": "PMID | DOI | URL | libro | altro", "id": "", "verificata": false },
+          "prova": "Che cosa dimostra davvero la fonte."
+        }
+      ]
+    }
+  ],
+  "tentativi": [
+    {
+      "cosa": "Che cosa è stato provato",
+      "esito": "riuscito | fallito | inconcludente",
+      "ragione": "Perché.",
+      "fonte": { "tipo": "", "id": "", "verificata": false }
+    }
+  ],
+  "buchi": [
+    {
+      "domanda": "Domanda residua.",
+      "verdetto": "GIÀ FATTO | PARZIALMENTE FATTO | NON TROVATO",
+      "verifica": "Ciò che esiste già.",
+      "disegno": "Come si potrebbe rispondere.",
+      "falsificazione": "Che cosa la smentirebbe.",
+      "fonti": []
+    }
+  ],
+  "note": ""
+}
