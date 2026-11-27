@@ -17,6 +17,8 @@ from pathlib import Path
 
 CAMPI_OBBLIGATORI = ["id", "argomento", "categoria", "sottocategoria", "data", "sommario", "sezioni"]
 LIVELLI = {"consolidato", "sperimentale", "ipotesi"}
+ESITI_TENTATIVO = {"riuscito", "fallito", "inconcludente"}
+ESITI_AFFERMAZIONE = {"confermata", "parziale", "smentita", "non verificabile"}
 VERDETTI = {"GIÀ FATTO", "PARZIALMENTE FATTO", "NON TROVATO"}
 
 
@@ -37,6 +39,11 @@ def controlla_fonte(f, dove, errori):
 
 def controlla(r, nome):
     errori = []
+    if not isinstance(r, dict):
+        return [f"{nome}: il file deve contenere un oggetto JSON"]
+    for c in ("sezioni", "tentativi", "buchi"):
+        if c in r and not isinstance(r[c], list):
+            return [f"{nome}: '{c}' deve essere una lista"]
     for c in CAMPI_OBBLIGATORI:
         if c not in r or r[c] in ("", None):
             errori.append(f"{nome}: campo obbligatorio mancante: {c}")
@@ -44,7 +51,13 @@ def controlla(r, nome):
         return errori
     if r["id"] != nome:
         errori.append(f"{nome}: l'id '{r['id']}' deve coincidere con il nome del file")
+    ea = r.get("affermazione_iniziale")
+    if ea is not None and (not isinstance(ea, dict) or ea.get("esito") not in ESITI_AFFERMAZIONE):
+        errori.append(f"{nome}: affermazione_iniziale con esito non valido")
     for i, s in enumerate(r["sezioni"]):
+        if not isinstance(s, dict):
+            errori.append(f"{nome}: sezione {i} non è un oggetto")
+            continue
         if not s.get("titolo"):
             errori.append(f"{nome}: sezione {i} senza titolo")
         for j, v in enumerate(s.get("voci", [])):
@@ -55,6 +68,8 @@ def controlla(r, nome):
                 errori.append(f"{dove}: livello non valido ({v.get('livello')!r})")
             controlla_fonte(v.get("fonte"), dove, errori)
     for j, t in enumerate(r.get("tentativi", [])):
+        if t.get("esito") not in ESITI_TENTATIVO:
+            errori.append(f"{nome}: tentativo {j} esito non valido ({t.get('esito')!r})")
         controlla_fonte(t.get("fonte"), f"{nome}: tentativo {j}", errori)
     for j, b in enumerate(r.get("buchi", [])):
         for c in ("domanda", "verdetto", "verifica", "disegno", "falsificazione"):
@@ -97,8 +112,8 @@ def main():
     for p in sorted(cartella.glob("*.json")):
         try:
             r = json.loads(p.read_text(encoding="utf-8"))
-        except json.JSONDecodeError as e:
-            errori.append(f"{p.name}: JSON non valido ({e})")
+        except (json.JSONDecodeError, UnicodeDecodeError) as e:
+            errori.append(f"{p.name}: file non valido ({e})")
             continue
         errori += controlla(r, p.stem)
         ricerche.append(r)

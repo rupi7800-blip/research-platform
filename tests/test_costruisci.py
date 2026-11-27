@@ -66,6 +66,23 @@ class Test(unittest.TestCase):
         self.assertEqual(p.returncode, 1)
         self.assertIn("verdetto", p.stderr)
 
+    def test_livello_ed_esiti_non_validi(self):
+        b = copy.deepcopy(BASE); b["sezioni"][0]["voci"][0]["livello"] = "boh"
+        _, p = esegui([b]); self.assertEqual(p.returncode, 1); self.assertIn("livello", p.stderr)
+        c = copy.deepcopy(BASE); c["tentativi"] = [{"cosa": "x", "esito": "boh", "fonte": {"id": "", "verificata": False}}]
+        _, p = esegui([c]); self.assertEqual(p.returncode, 1); self.assertIn("esito", p.stderr)
+        d = copy.deepcopy(BASE); d["affermazione_iniziale"] = {"testo": "t", "esito": "boh"}
+        _, p = esegui([d]); self.assertEqual(p.returncode, 1); self.assertIn("affermazione_iniziale", p.stderr)
+
+    def test_forme_sbagliate_e_file_non_utf8(self):
+        b = copy.deepcopy(BASE); b["sezioni"] = "no"
+        _, p = esegui([b]); self.assertEqual(p.returncode, 1); self.assertNotIn("Traceback", p.stderr)
+        d = Path(tempfile.mkdtemp()); (d / "data" / "ricerche").mkdir(parents=True)
+        (d / "data" / "ricerche" / "a.json").write_bytes(b"\xff\xfe\x00")
+        (d / "data" / "ricerche" / "b.json").write_text("[1]")
+        p = subprocess.run([sys.executable, str(SCRIPT), "--radice", str(d)], capture_output=True, text=True)
+        self.assertEqual(p.returncode, 1); self.assertNotIn("Traceback", p.stderr)
+
 
 if __name__ == "__main__":
     unittest.main()

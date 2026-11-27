@@ -2,6 +2,17 @@
 let DATI = { indice: { categorie: [] }, ricerche: [] };
 const $ = (id) => document.getElementById(id);
 
+// Decodifica senza lanciare errori su hash malformati.
+function dec(t) { try { return decodeURIComponent(t); } catch (e) { return t; } }
+
+// Raccoglie solo i valori testuali (non i nomi dei campi) per la ricerca.
+function testi(o, out) {
+  if (typeof o === 'string') out.push(o);
+  else if (Array.isArray(o)) o.forEach((x) => testi(x, out));
+  else if (o && typeof o === 'object') Object.values(o).forEach((x) => testi(x, out));
+  return out;
+}
+
 // Costruisce un elemento; i testi passano sempre da textContent (mai HTML).
 function el(tag, cls, testo) {
   const e = document.createElement(tag);
@@ -89,7 +100,7 @@ function menu(att) {
     const sm = el('summary', null, c.nome + ' (' + nc + ')'); det.append(sm);
     for (const s of c.sottocategorie) {
       const a = el('a', 'sub', s); a.href = '#c/' + encodeURIComponent(c.nome) + '/' + encodeURIComponent(s);
-      if (att === a.getAttribute('href')) a.classList.add('att');
+      if (dec(att) === dec(a.getAttribute('href'))) a.classList.add('att');
       det.append(a);
     }
     n.append(det);
@@ -97,18 +108,19 @@ function menu(att) {
 }
 
 function vai() {
-  const h = decodeURIComponent(location.hash.slice(1)), q = $('cerca').value.trim().toLowerCase();
+  // si divide l'hash grezzo e si decodifica ogni pezzo: un '/' nel nome resta nel nome
+  const parti = location.hash.slice(1).split('/').map(dec), q = $('cerca').value.trim().toLowerCase();
   menu(location.hash);
   if (q) {
-    const rs = DATI.ricerche.filter((r) => JSON.stringify(r).toLowerCase().includes(q));
+    const rs = DATI.ricerche.filter((r) => testi(r, []).join('\n').toLowerCase().includes(q));
     return elenco(rs, 'Risultati per «' + q + '»');
   }
-  if (h.startsWith('r/')) {
-    const r = DATI.ricerche.find((x) => x.id === h.slice(2));
+  if (parti[0] === 'r') {
+    const r = DATI.ricerche.find((x) => x.id === parti[1]);
     return r ? scheda(r) : elenco([], 'Ricerca non trovata');
   }
-  if (h.startsWith('c/')) {
-    const [, cat, sub] = h.split('/');
+  if (parti[0] === 'c') {
+    const [, cat, sub] = parti;
     return elenco(DATI.ricerche.filter((r) => r.categoria === cat && r.sottocategoria === sub), cat + ' › ' + sub);
   }
   elenco(DATI.ricerche, 'Tutte le ricerche');
