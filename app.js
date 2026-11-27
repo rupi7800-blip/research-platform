@@ -127,7 +127,9 @@ function vai() {
   elenco(DATI.ricerche, 'Tutte le ricerche');
 }
 
-fetch('data/archivio.json')
+// 'no-cache' obbliga il browser a rivalidare l'archivio a ogni apertura: senza, le nuove schede
+// possono comparire con ritardo (GitHub Pages lo fa conservare in cache per circa 10 minuti).
+fetch('data/archivio.json', { cache: 'no-cache' })
   .then((r) => r.json())
   .then((d) => { DATI = d; vai(); })
   .catch(() => { $('main').replaceChildren(el('p', 'vuoto', 'Impossibile caricare i dati. Servi la cartella via HTTP.')); });
