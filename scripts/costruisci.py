@@ -16,6 +16,7 @@ import re
 import sys
 import unicodedata
 from pathlib import Path
+from urllib.parse import quote
 
 CAMPI_OBBLIGATORI = ["id", "argomento", "categoria", "sottocategoria", "data", "sommario", "sezioni"]
 LIVELLI = {"consolidato", "documentato", "sperimentale", "ipotesi"}
@@ -23,6 +24,45 @@ DATA_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 ESITI_TENTATIVO = {"riuscito", "fallito", "inconcludente"}
 ESITI_AFFERMAZIONE = {"confermata", "parziale", "smentita", "non verificabile"}
 VERDETTI = {"GIÀ FATTO", "PARZIALMENTE FATTO", "NON TROVATO"}
+PMID_RE = re.compile(r"^\d{1,9}$")
+NCT_RE = re.compile(r"^NCT\d{8}$")
+DOI_RE = re.compile(r"^10\.\d{4,9}/\S+$")
+ARXIV_RE = re.compile(r"^(\d{4}\.\d{4,5}|[a-z-]+(\.[A-Za-z]{2})?/\d{7})(v\d+)?$")
+URL_RE = re.compile(r"^https?://[^\s<>\"']+$", re.IGNORECASE)
+TIPI_CON_LINK = {"pmid", "nct", "doi", "arxiv", "url"}
+
+
+def url_fonte(f):
+    """Link esterno diretto alla fonte, o None se non calcolabile (es. libro, id assente)."""
+    if not isinstance(f, dict):
+        return None
+    tipo, i = str(f.get("tipo", "")).strip().lower(), str(f.get("id", "")).strip()
+    if not i:
+        return None
+    if tipo == "pmid" and PMID_RE.match(i):
+        return f"https://pubmed.ncbi.nlm.nih.gov/{i}/"
+    if tipo == "nct" and NCT_RE.match(i):
+        return f"https://clinicaltrials.gov/study/{i}"
+    if tipo == "doi" and DOI_RE.match(i):
+        return "https://doi.org/" + quote(i, safe="/()-._;:<>")
+    if tipo == "arxiv" and ARXIV_RE.match(i):
+        return f"https://arxiv.org/abs/{i}"
+    if tipo == "url" and URL_RE.match(i):
+        return i
+    return None
+
+
+def aggiungi_link(r):
+    """Scrive in ogni fonte il campo 'url' (solo nell'archivio, non nei file sorgente)."""
+    fonti = [v.get("fonte") for s in r["sezioni"] for v in s.get("voci", [])]
+    fonti += [t.get("fonte") for t in r.get("tentativi", [])]
+    fonti += [f for b in r.get("buchi", []) for f in b.get("fonti", [])]
+    for f in fonti:
+        u = url_fonte(f)
+        if u:
+            f["url"] = u
+        elif isinstance(f, dict):
+            f.pop("url", None)
 
 
 def norma(testo):
@@ -38,6 +78,9 @@ def controlla_fonte(f, dove, errori):
         errori.append(f"{dove}: fonte 'verificata' senza id")
     if "verificata" in f and not isinstance(f["verificata"], bool):
         errori.append(f"{dove}: 'verificata' deve essere vero o falso")
+    if str(f.get("id", "")).strip() and str(f.get("tipo", "")).strip().lower() in TIPI_CON_LINK \
+            and url_fonte(f) is None:
+        errori.append(f"{dove}: identificativo non valido per il tipo {f.get('tipo')!r}: {f.get('id')!r}")
 
 
 def controlla(r, nome):
@@ -161,6 +204,8 @@ def main():
     aggiunte = aggiorna_indice(indice, ricerche)
     pind.write_text(json.dumps(indice, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
+    for r in ricerche:
+        aggiungi_link(r)
     ricerche.sort(key=lambda r: (r["data"], r["id"]), reverse=True)
     arch = {"indice": indice, "ricerche": ricerche}
     (radice / "data" / "archivio.json").write_text(
