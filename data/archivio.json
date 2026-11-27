@@ -389,7 +389,7 @@
                 "id": "",
                 "verificata": false
               },
-              "prova": "Affermazioni negative del passo 5, non ricontrollate nei giri di verifica; una ricerca era scritta male e va rifatta."
+              "prova": "Affermazioni negative del passo 5, non ricontrollate nei giri di verifica. La ricerca sulle piastrine era stata scritta con una sintassi errata e non è stata ripetuta."
             }
           ]
         }
