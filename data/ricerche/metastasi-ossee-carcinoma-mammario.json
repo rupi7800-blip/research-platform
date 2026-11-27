@@ -9,7 +9,7 @@
     "esito": "parziale",
     "motivo": "La letteratura descrive una cascata di passaggi (disseminazione, homing, dormienza, riattivazione, circolo vizioso con l'osso) con vie ridondanti, in gran parte da modelli murini: nessuna catena completa è dimostrata nell'uomo."
   },
-  "sommario": "Non risulta un unico meccanismo ma una cascata di passaggi: disseminazione dal primario, homing verso il midollo, dormienza delle cellule disseminate, riattivazione e un «circolo vizioso» con l'osso (PTHrP, TGF-beta rilasciato dalla matrice, RANKL, IL-6 e altri mediatori). Quasi tutta la catena è dimostrata nel topo; nell'uomo le prove sono soprattutto correlative (espressione di Jagged1 o PTHrP nei tessuti, cellule disseminate nel midollo, andamento delle recidive ER+ fino a 10 anni). Le vie sono ridondanti e in modelli resistenti a denosumab è stato descritto un asse RANKL-indipendente. L'effetto clinico degli antiriassorbitivi mostra la rilevanza degli osteoclasti, non che PTHrP o Jagged1 siano i nodi del circolo. Il tropismo osseo (affinità di seme e suolo o anatomia) non è risolto da un esperimento che distingua le due spiegazioni. Sul piano terapeutico, i bisfosfonati adiuvanti riducono le recidive ossee con un effetto apparente solo in postmenopausa; denosumab adiuvante non ha raggiunto l'endpoint primario in D-CARE, mentre in ABCSG-18 riduce le fratture e la DFS in postmenopausa con inibitore dell'aromatasi, con sottogruppi esplorativi. Non è una consulenza medica.",
+  "sommario": "Non risulta un unico meccanismo ma una cascata di passaggi: disseminazione dal primario, homing verso il midollo, dormienza delle cellule disseminate, riattivazione e un «circolo vizioso» con l'osso (PTHrP, TGF-beta rilasciato dalla matrice, RANKL, IL-6 e altri mediatori). Quasi tutta la catena è dimostrata nel topo; nell'uomo le prove sono soprattutto correlative (espressione di Jagged1 o PTHrP nei tessuti, cellule disseminate nel midollo, rischio di recidiva scheletrica ER+ che persiste fino a 10 anni e rischio di recidiva ER+ che continua oltre 5 anni). Le vie sono ridondanti e in modelli resistenti a denosumab è stato descritto un asse RANKL-indipendente. L'effetto clinico degli antiriassorbitivi mostra la rilevanza degli osteoclasti, non che PTHrP o Jagged1 siano i nodi del circolo. Il tropismo osseo (affinità di seme e suolo o anatomia) non è risolto da un esperimento che distingua le due spiegazioni. Sul piano terapeutico, i bisfosfonati adiuvanti riducono le recidive ossee con un effetto apparente solo in postmenopausa; denosumab adiuvante non ha raggiunto l'endpoint primario in D-CARE, mentre in ABCSG-18 (postmenopausa con inibitore dell'aromatasi) riduce le fratture cliniche (endpoint primario) e mostra un vantaggio di DFS in analisi secondaria senza correzione per molteplicità; la sopravvivenza libera da metastasi ossee ha un intervallo che include 1 (HR 0,81; 0,65-1,00); i sottogruppi sono esplorativi. Non è una consulenza medica.",
   "sezioni": [
     {
       "titolo": "Osso normale, nicchie, epidemiologia e aspetto delle lesioni",
@@ -46,7 +46,7 @@
         },
         {
           "testo": "Nell'iperriassorbimento osseo delle metastasi, PTH-rP e citochine, con TGF-beta e IGF-1 depositati nell'osso e liberati dal riassorbimento, formano un circolo vizioso.",
-          "livello": "sperimentale",
+          "livello": "ipotesi",
           "fonte": {
             "tipo": "PMID",
             "id": "10745942",
@@ -106,7 +106,7 @@
         },
         {
           "testo": "Una rassegna del 2008 afferma che circa il 70% dei pazienti con tumore mammario sviluppa metastasi ossee.",
-          "livello": "sperimentale",
+          "livello": "ipotesi",
           "fonte": {
             "tipo": "PMID",
             "id": "18059174",
@@ -510,14 +510,14 @@
           "prova": "Marcatore osservazionale, senza controllo."
         },
         {
-          "testo": "Pazienti con più di 21 cellule disseminate nel midollo dopo terapia adiuvante: recidiva a 3-6 anni in 4 pazienti su 5 secondo l'abstract.",
+          "testo": "Pazienti con più di 21 cellule disseminate nel midollo dopo terapia adiuvante: recidiva a distanza a 3-6 anni in una piccola parte dei 20 pazienti; il numero esatto non è affidabile.",
           "livello": "sperimentale",
           "fonte": {
             "tipo": "PMID",
             "id": "27909824",
             "verificata": true
           },
-          "prova": "L'abstract è internamente incoerente (parla anche di 2 casi): il denominatore va verificato sul testo completo; 20 pazienti."
+          "prova": "L'abstract è internamente incoerente (parla di 4 su 5 e di 2 casi): il denominatore va verificato sul testo completo; 20 pazienti."
         },
         {
           "testo": "NEJM 2000: 552 pazienti, 36% (199) con cellule citocheratina-positive nel midollo; valore prognostico a 4 anni.",
@@ -690,7 +690,7 @@
           "prova": "Piccola serie."
         },
         {
-          "testo": "Jagged1 in 228 tumori mammari (immunoistochimica): associato a grado, HER2, cellule disseminate nel midollo e, nelle pazienti senza metastasi linfonodali, a una sopravvivenza libera da malattia più breve; 85,7% delle cellule circolanti Jagged1 positive in 21 pazienti su 100 testate.",
+          "testo": "Jagged1 in 228 tumori mammari (immunoistochimica): associato a grado, HER2, cellule disseminate nel midollo e, nelle pazienti senza metastasi linfonodali, a una sopravvivenza libera da malattia più breve; 85,7% delle cellule circolanti Jagged1 positive in 21 pazienti su 100 testate (l'abstract non chiarisce se 21 siano i pazienti con cellule circolanti rilevate).",
           "livello": "sperimentale",
           "fonte": {
             "tipo": "PMID",
@@ -896,7 +896,7 @@
         },
         {
           "testo": "Rassegna 2026: l'effetto immunologico sinergico preclinico di anti-RANKL non è stato ancora collegato a un beneficio clinico dimostrato.",
-          "livello": "sperimentale",
+          "livello": "ipotesi",
           "fonte": {
             "tipo": "PMID",
             "id": "43081461",
@@ -1006,7 +1006,7 @@
         },
         {
           "testo": "Case report: una linea cellulare (P7731) da una lesione ossea metastatica di una paziente condivide 32 mutazioni con il primario (45 nel primario, 76 nella linea).",
-          "livello": "sperimentale",
+          "livello": "ipotesi",
           "fonte": {
             "tipo": "PMID",
             "id": "29468485",
@@ -1191,7 +1191,7 @@
         },
         {
           "testo": "Moretti 2024: articolo di discussione: risultati misti sulla DFS con denosumab adiuvante; ABCSG-18 raggiunge la prevenzione delle fratture.",
-          "livello": "documentato",
+          "livello": "ipotesi",
           "fonte": {
             "tipo": "PMID",
             "id": "39509862",
@@ -1240,7 +1240,7 @@
           "prova": "Non solo il tumore mammario."
         },
         {
-          "testo": "Osteonecrosi della mascella: D-CARE 5% (122/2241) con denosumab adiuvante contro meno dell'1% (4/2218) con placebo; ipocalcemia emergente 7% contro 4%.",
+          "testo": "Osteonecrosi della mascella: D-CARE 5% (122/2241) con denosumab adiuvante contro meno dell'1% (4/2218) con placebo; ipocalcemia emergente 7% contro 4%. I denominatori (4459) sono la popolazione di sicurezza, diversa dai 4509 randomizzati.",
           "livello": "sperimentale",
           "fonte": {
             "tipo": "PMID",
@@ -1340,24 +1340,24 @@
           "prova": "La durata esatta non è stimata."
         },
         {
-          "testo": "Rassegna sulla biopsia liquida e meta-analisi sui marcatori midollari: l'eradicazione delle cellule disseminate è un obiettivo di trial, non una prova di beneficio sulla recidiva.",
+          "testo": "L'eradicazione delle cellule disseminate è un obiettivo di trial (CLEVER, PALAVY, ABBY) con endpoint di fattibilità o di conteggio cellulare, non una prova di beneficio sulla recidiva.",
           "livello": "ipotesi",
           "fonte": {
-            "tipo": "",
-            "id": "",
-            "verificata": false
+            "tipo": "PMID",
+            "id": "40897974",
+            "verificata": true
           },
-          "prova": "Sintesi della scheda."
+          "prova": "Sintesi della scheda su CLEVER; PALAVY e ABBY sono record di registro."
         },
         {
-          "testo": "Un trial di farmaco osso-mirato disegnato sulla finestra di dormienza, con la recidiva come endpoint, e la durata della dormienza nell'uomo non sono stati reperiti.",
+          "testo": "Non è stato reperito un trial di farmaco osso-mirato con la recidiva come endpoint primario né una misura diretta della durata della dormienza nell'uomo; esistono trial di eradicazione con altri endpoint e coorti osservazionali.",
           "livello": "ipotesi",
           "fonte": {
-            "tipo": "",
-            "id": "",
+            "tipo": "altro",
+            "id": "fonte non reperita",
             "verificata": false
           },
-          "prova": "Affermazioni negative parzialmente smentite dal controllo indipendente (coorti e trial con altri endpoint)."
+          "prova": "Affermazione negativa circoscritta, controllata in modo indipendente nel giro 3."
         }
       ]
     }
@@ -1396,7 +1396,7 @@
     {
       "cosa": "Denosumab adiuvante in postmenopausa con inibitore dell'aromatasi (ABCSG-18, 3420 pazienti)",
       "esito": "riuscito",
-      "ragione": "Riduce le fratture cliniche (HR 0,50); DFS HR 0,82 in analisi descrittiva senza correzione per molteplicità; a lungo termine DFS HR 0,83 ma sopravvivenza libera da metastasi ossee HR 0,81 (0,65-1,00).",
+      "ragione": "Riduce le fratture cliniche (HR 0,50); nel report del 2015 la DFS ha HR 0,82 in analisi descrittiva senza correzione per molteplicità; nel follow-up esteso DFS HR 0,83 ma sopravvivenza libera da metastasi ossee HR 0,81 (0,65-1,00).",
       "fonte": {
         "tipo": "PMID",
         "id": "26040499",
@@ -1651,7 +1651,7 @@
     },
     {
       "domanda": "Lo stesso clone mammario, con knockdown di CXCR4 (o inibizione dell'integrina) e rescue, riduce la colonizzazione ossea più di quella polmonare o epatica dopo iniezione endovenosa sistemica, mentre con iniezione intracardiaca la distribuzione è indipendente dal recettore? (Riformulata: la domanda iniziale non specificava la via di iniezione, e l'iniezione intracardiaca bypassa il filtro venoso, quindi è già un confondente.)",
-      "verdetto": "NON TROVATO",
+      "verdetto": "PARZIALMENTE FATTO",
       "verifica": "Parzialmente fatto per componenti, non per il disegno decisivo: i knockdown di ANGPTL2, TRAIL-R2 e DEC1 riducono le metastasi ossee dopo iniezione intracardiaca, senza confronto con altri organi né tra vie di iniezione; il microambiente osseo modifica la colonizzazione (beta2AR); i dati umani di scintigrafia sono osservazionali. Uno studio che mostra riduzioni del carico metastatico in fegato, osso, cervello e polmone con espressione di BRMS1 non riguarda CXCR4. Un lavoro citato sul CXCR4 osseo (PMID 17121921) è marcato come ritirato e non è usato.",
       "disegno": "(a) Stesso clone, con knockdown o controllo, iniezione endovenosa e intracardiaca; carico di tumore osseo contro polmonare ed epatico a 4-6 settimane con bioluminescenza e microCT. (b) Rescue con CXCR4 wild-type. (c) Immunoistochimica di CXCR4 su metastasi ossee contro viscerali dello stesso paziente in autopsia o biopsia.",
       "falsificazione": "Il tropismo è solo anatomico o emodinamico se il knockdown riduce la colonizzazione in modo uguale in tutti gli organi, oppure se la distribuzione endovenosa dello stesso clone segue la stessa mappa dell'anatomia venosa anche dopo il knockdown.",
@@ -1768,8 +1768,8 @@
     },
     {
       "domanda": "In modelli murini di metastasi ossee mammarie con risposta parziale a denosumab, il blocco di RANKL più un secondo asse (PTHrP, IL-6, TGF-beta o CSF-1) riduce l'osteolisi più del blocco singolo e più della somma degli effetti, e nell'uomo esistono osteoclasti RANKL-indipendenti in pazienti progrediti su denosumab? (Riformulata: «combinato» senza modello ed endpoint non è falsificabile.)",
-      "verdetto": "NON TROVATO",
-      "verifica": "Parzialmente fatto in senso preclinico: esperimenti murini a due agenti con endpoint osseo (per esempio bufalina con denosumab) che non dichiarano un disegno fattoriale nell'abstract; un asse RANKL-indipendente descritto in modelli ER+ resistenti a denosumab (2026, non replicato). Nessun anti-PTHrP, anti-IL-6 o anti-TGF-beta in disegno fattoriale con endpoint osseo; nessuna serie umana (biopsie o marcatori) di osteoclasti RANKL-indipendenti. L'unico dato clinico di combinazione trovato riguarda l'asse immunitario (anti-RANKL con immunoterapia).",
+      "verdetto": "PARZIALMENTE FATTO",
+      "verifica": "Parzialmente fatto in senso preclinico: un asse RANKL-indipendente descritto in modelli ER+ resistenti a denosumab (2026, non replicato). Nessun anti-PTHrP, anti-IL-6 o anti-TGF-beta in disegno fattoriale con endpoint osseo; nessuna serie umana (biopsie o marcatori) di osteoclasti RANKL-indipendenti. L'unico dato clinico di combinazione trovato riguarda l'asse immunitario (anti-RANKL con immunoterapia).",
       "disegno": "Topi con metastasi intratibiali di linee ER+ e sensibili; bracci vehicle, denosumab, secondo agente, combinazione (2x2); endpoint primario microCT (BV/TV) e osteoclasti TRAP positivi; analisi di interazione.",
       "falsificazione": "La sinergia cade se la combinazione non supera il miglior singolo agente, con interazione non significativa; la resistenza RANKL-indipendente cade se nelle lesioni progressive su denosumab gli osteoclasti sono ancora sopprimibili da denosumab in vivo.",
       "fonti": [
