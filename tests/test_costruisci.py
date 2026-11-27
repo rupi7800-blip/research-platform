@@ -83,6 +83,22 @@ class Test(unittest.TestCase):
         p = subprocess.run([sys.executable, str(SCRIPT), "--radice", str(d)], capture_output=True, text=True)
         self.assertEqual(p.returncode, 1); self.assertNotIn("Traceback", p.stderr)
 
+    def test_data_fonti_buchi_e_tipi(self):
+        b = copy.deepcopy(BASE); b["data"] = "27/11/2026"
+        _, p = esegui([b]); self.assertEqual(p.returncode, 1); self.assertIn("AAAA-MM-GG", p.stderr)
+        c = copy.deepcopy(BASE)
+        c["buchi"] = [{"domanda": "q", "verdetto": "NON TROVATO", "verifica": "v", "disegno": "d",
+                       "falsificazione": "f", "fonti": [{"tipo": "DOI", "id": "", "verificata": True}]}]
+        _, p = esegui([c]); self.assertEqual(p.returncode, 1); self.assertIn("senza id", p.stderr)
+        d = copy.deepcopy(BASE); d["sezioni"][0]["voci"] = ["x"]; d["categoria"] = 5
+        _, p = esegui([d]); self.assertEqual(p.returncode, 1); self.assertNotIn("Traceback", p.stderr)
+        e = copy.deepcopy(BASE); e["id"] = "altro"
+        d2, p = esegui([e]); self.assertEqual(p.returncode, 0)
+
+    def test_avviso_categoria_simile(self):
+        b = copy.deepcopy(BASE); b["id"] = "prova-due"; b["categoria"] = "Salutee"
+        _, p = esegui([BASE, b]); self.assertEqual(p.returncode, 0); self.assertIn("somiglia", p.stderr)
+
 
 if __name__ == "__main__":
     unittest.main()

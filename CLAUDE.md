@@ -14,7 +14,8 @@ L'utente indica un argomento qualsiasi; la sessione esegue la ricerca e la pubbl
 Ogni ricerca è un file `data/ricerche/<id>.json` (schema in `modelli/ricerca.modello.json`).
 Categorie e sottocategorie stanno in `data/indice.json` e si aggiungono da sole:
 `python3 scripts/costruisci.py` aggiunge all'indice quelle mancanti e rigenera `data/archivio.json`,
-che è l'unico file letto dalla pagina. Prima di crearne una nuova, riusa una categoria esistente se calza.
+che è l'unico file letto dalla pagina. Prima di crearne una nuova, riusa una categoria esistente se calza (lo script avvisa se un nome nuovo somiglia a uno esistente).
+Livelli delle voci: `consolidato`, `documentato` (per temi non sperimentali: storia, diritto, economia), `sperimentale`, `ipotesi`.
 
 ## Procedura per ogni nuova ricerca
 

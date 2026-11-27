@@ -72,6 +72,7 @@ function scheda(r) {
       d.append(el('p', 'prova', 'Esiste già: ' + b.verifica));
       d.append(el('p', 'prova', 'Disegno: ' + b.disegno));
       d.append(el('p', 'prova', 'Falsificazione: ' + b.falsificazione));
+      for (const f of b.fonti || []) d.append(fonte(f));
       m.append(d);
     }
   }

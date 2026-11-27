@@ -16,7 +16,7 @@
       "voci": [
         {
           "testo": "Affermazione.",
-          "livello": "consolidato | sperimentale | ipotesi",
+          "livello": "consolidato | documentato | sperimentale | ipotesi",
           "fonte": { "tipo": "PMID | DOI | URL | libro | altro", "id": "", "verificata": false },
           "prova": "Che cosa dimostra davvero la fonte."
         }
@@ -38,7 +38,7 @@
       "verifica": "Ciò che esiste già.",
       "disegno": "Come si potrebbe rispondere.",
       "falsificazione": "Che cosa la smentirebbe.",
-      "fonti": []
+      "fonti": [{ "tipo": "", "id": "", "verificata": false }]
     }
   ],
   "note": ""
