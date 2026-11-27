@@ -73,7 +73,10 @@ const GRUPPI = [
   { id: 'liv', etichetta: 'Livello', valori: (r) => (r.sezioni || []).flatMap((s) => s.voci || []).map((v) => v.livello) },
   { id: 'esi', etichetta: 'Esito dei tentativi', valori: (r) => (r.tentativi || []).map((t) => t.esito) },
   { id: 'ver', etichetta: 'Verdetto dei buchi', valori: (r) => (r.buchi || []).map((b) => b.verdetto) },
-  { id: 'fon', etichetta: 'Fonte', valori: () => ['verificata', 'non verificata', 'non reperita'] },
+  { id: 'fon', etichetta: 'Fonte', valori: (r) => [
+    ...(r.sezioni || []).flatMap((s) => s.voci || []).map((v) => v.fonte),
+    ...(r.tentativi || []).map((t) => t.fonte),
+    ...(r.buchi || []).flatMap((x) => x.fonti || [])].map((f) => STATO_NOME[statoFonte(f)]) },
 ];
 let FILTRI = {};
 let SCHEDA = null;
@@ -145,7 +148,7 @@ function barraFiltri(r) {
     if (!nomi.length) continue;
     const riga = el('div', 'gruppo'); riga.append(el('span', 'et', g.etichetta + ':'));
     for (const n of nomi) {
-      const c = el('button', 'chip', g.id === 'fon' ? n : n + ' (' + conta[n] + ')');
+      const c = el('button', 'chip', n + ' (' + conta[n] + ')');
       c.type = 'button'; c.setAttribute('aria-pressed', 'false');
       c.addEventListener('click', () => {
         const sel = FILTRI[g.id] || (FILTRI[g.id] = new Set());
