@@ -1,6 +1,12 @@
 {
   "categorie": [
     {
+      "nome": "Medicina complementare",
+      "sottocategorie": [
+        "Pratiche energetiche"
+      ]
+    },
+    {
       "nome": "Oncologia",
       "sottocategorie": [
         "Muscolo e cachessia"
