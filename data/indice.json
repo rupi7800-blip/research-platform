@@ -1,3 +1,10 @@
 {
-  "categorie": []
+  "categorie": [
+    {
+      "nome": "Oncologia",
+      "sottocategorie": [
+        "Muscolo e cachessia"
+      ]
+    }
+  ]
 }
