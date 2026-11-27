@@ -1,0 +1,1144 @@
+{
+  "id": "cervello-quantistico-o-classico",
+  "argomento": "Il cervello umano è un sistema quantistico o classico?",
+  "categoria": "Neuroscienze",
+  "sottocategoria": "Cervello e fisica quantistica",
+  "data": "2026-11-27",
+  "affermazione_iniziale": {
+    "testo": "Presupposto della domanda: il cervello va considerato o un sistema quantistico o un sistema classico.",
+    "esito": "parziale",
+    "motivo": "La dicotomia non regge: per la fisica attuale ogni sistema è descritto dalla meccanica quantistica e fenomeni come il tunneling negli enzimi sono dimostrati. La domanda scientificamente utile è se effetti non classici (coerenza, entanglement) abbiano un ruolo funzionale nel calcolo neurale: per questa le fonti lette non mostrano alcuna misura diretta."
+  },
+  "sommario": "La domanda va riformulata: la dicotomia non regge, perché per la fisica attuale ogni sistema è descritto dalla meccanica quantistica e fenomeni come il tunneling negli enzimi sono dimostrati. La questione scientifica è se effetti non banali, come coerenza ed entanglement, abbiano un ruolo funzionale nel calcolo neurale. Il modello classico descrive bene il singolo neurone; sulla dinamica di rete e sulla coscienza non è risolto. Per un ruolo quantistico funzionale le fonti lette non contengono alcuna misura diretta di coerenza o entanglement nel tessuto neurale vivo. I proponenti citano un test di entanglement alla risonanza magnetica (Kerskens e López Pérez 2022) e un'evidenza diretta di stato entangled (Wiest 2025), non riletti e senza repliche indipendenti trovate. Le stime di decoerenza sono calcoli teorici che divergono di diversi ordini di grandezza, e le proposte più note (Orch OR, molecole di Posner) hanno critiche forti, con articoli favorevoli in gran parte di autori proponenti. L'unico effetto isotopico sperimentale (xeno nel topo, un laboratorio) non ha repliche indipendenti trovate. I modelli «quantum-like» della cognizione sono formalismi matematici e non implicano un cervello fisicamente quantistico. La questione resta aperta e, allo stato delle fonti lette, priva di una prova sperimentale a favore di un ruolo funzionale quantistico.",
+  "sezioni": [
+    {
+      "titolo": "Il modello classico, la chimica quantistica e la biologia quantistica",
+      "voci": [
+        {
+          "testo": "Hodgkin e Huxley 1952: «Una descrizione quantitativa della corrente di membrana e la sua applicazione alla conduzione e all'eccitazione nel nervo».",
+          "livello": "consolidato",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "12991237",
+            "verificata": true
+          },
+          "prova": "Il record PubMed non ha un abstract: si riporta solo il titolo, senza affermazioni sulla capacità predittiva."
+        },
+        {
+          "testo": "Connor 1977: modifiche dell'assone di Hodgkin-Huxley, adattate a dati di voltage clamp da assoni di crostaceo e con una conduttanza transitoria del potassio, producono un firing ripetitivo qualitativamente simile a quello del modello standard.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "856318",
+            "verificata": true
+          },
+          "prova": "Non è scritto che il modello riproduca il firing dei crostacei."
+        },
+        {
+          "testo": "Jolivet 2008: articolo benchmark per modelli semplici di neurone, con buone previsioni quantitative dell'attività futura di neuroni piramidali corticali di ratto sotto iniezione di corrente temporalmente strutturata.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "18160135",
+            "verificata": true
+          },
+          "prova": "Riporta i primi contributi al benchmark; l'abstract non dà numeri."
+        },
+        {
+          "testo": "Rassegna di Breakspear 2017: le cause dei picchi di un singolo neurone sono comprese da decenni; la dinamica collettiva su larga scala è meno chiara ed è oggetto di dibattito.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "28230845",
+            "verificata": true
+          },
+          "prova": "Il limite del modello classico indicato è a livello di rete, non quantistico."
+        },
+        {
+          "testo": "Il tunneling dell'idrogeno a temperatura ambiente è dimostrato in due enzimi, alcol deidrogenasi di lievito e amina ossidasi di siero bovino (rassegna di Klinman 1989).",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "2688201",
+            "verificata": true
+          },
+          "prova": "È un effetto quantistico non banale, ma non è coerenza di stati neurali."
+        },
+        {
+          "testo": "Klinman e Kohen 2013 (rassegna): il tunneling di idrogeno lega la dinamica proteica alla catalisi enzimatica.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "23746260",
+            "verificata": true
+          },
+          "prova": "Rassegna; l'abstract parla di necessità della dinamica proteica per una catalisi ottimale."
+        },
+        {
+          "testo": "Hay e Scrutton 2012: la dimostrazione diretta che moti di compressione veloci abbassino la barriera nel tunneling enzimatico non è stata raggiunta.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "22354429",
+            "verificata": true
+          },
+          "prova": "Discussione di un tema aperto, non una misura originale."
+        },
+        {
+          "testo": "Engel 2007 (Nature): spettroscopia bidimensionale nel complesso FMO fotosintetico interpretata come evidenza di trasferimento ondulatorio dell'energia attraverso coerenza quantistica.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "17429397",
+            "verificata": true
+          },
+          "prova": "La funzione della coerenza è contestata (voce seguente)."
+        },
+        {
+          "testo": "Cao e altri 2020 (rassegna «Quantum biology revisited»): le coerenze interexcitoniche hanno una durata troppo breve per avere significato funzionale; le coerenze di lunga durata derivano da vibrazioni impulsive.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "32284982",
+            "verificata": true
+          },
+          "prova": "Rilegge e contesta l'interpretazione di Engel 2007."
+        },
+        {
+          "testo": "Hore e Mouritsen 2016 (rassegna): il meccanismo a coppia radicalica è l'ipotesi principale per la magnetorecezione; il meccanismo sensoriale primario è ancora poco chiaro; i criptocromi sono nella retina.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "27216936",
+            "verificata": true
+          },
+          "prova": "Riguarda la retina degli uccelli migratori, non il cervello."
+        },
+        {
+          "testo": "Franco 2011: le mosche Drosophila distinguono isotopi deuterati nell'olfatto (condizionamento comportamentale).",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "21321219",
+            "verificata": true
+          },
+          "prova": "Teoria vibrazionale dell'olfatto; riguarda il comportamento, non il cervello."
+        },
+        {
+          "testo": "Block 2015: alcuni recettori olfattivi umani e di topo (OR5AN1, MOR244-3 e altri selezionati) non distinguono isotopomeri in vitro.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "25901328",
+            "verificata": true
+          },
+          "prova": "Contesta la teoria vibrazionale dell'olfatto; riguarda i recettori, non il cervello."
+        },
+        {
+          "testo": "Albert 2026 (rassegna narrativa di medicina delle dipendenze quantistica-informata): il tunneling enzimatico ha il supporto più forte, la magnetorecezione a coppie radicaliche un supporto più qualificato, la fotosintesi resta contestata; nessuna evidenza attuale mostra una firma di decoerenza nelle dipendenze.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "42815650",
+            "verificata": true
+          },
+          "prova": "La biologia quantistica è uno dei domini della rassegna, narrativa e di un campo di nicchia: usata solo come sintesi, non come autorità."
+        },
+        {
+          "testo": "Per la fisica attuale ogni sistema, cervello compreso, è descritto a livello fondamentale dalla meccanica quantistica.",
+          "livello": "consolidato",
+          "fonte": {
+            "tipo": "",
+            "id": "",
+            "verificata": false
+          },
+          "prova": "Conoscenza di base della fisica: una fonte primaria sulla chimica quantistica ordinaria non è stata reperita nella verifica."
+        },
+        {
+          "testo": "Riformulazione della domanda: la questione utile non è «quantistico oppure classico» ma se effetti non classici come coerenza ed entanglement abbiano un ruolo funzionale alle scale di tempo del calcolo neurale.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "",
+            "id": "",
+            "verificata": false
+          },
+          "prova": "Riformulazione della scheda, non una fonte."
+        }
+      ]
+    },
+    {
+      "titolo": "Le proposte quantistiche e le loro catene",
+      "voci": [
+        {
+          "testo": "Hameroff e Penrose 2014: rassegna di Orch OR scritta dagli autori della teoria, alla luce delle critiche, con una nuova ipotesi di frequenze di battimento per i correlati EEG.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "24070914",
+            "verificata": true
+          },
+          "prova": "Autori proponenti; non mostra coerenza misurata nel cervello."
+        },
+        {
+          "testo": "Woolf e Hameroff 2001: proposta teorica di coscienza visiva con computazioni quantistiche a circa 40 Hz.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "11684479",
+            "verificata": true
+          },
+          "prova": "L'abstract non riporta dati sperimentali."
+        },
+        {
+          "testo": "Hameroff 2001 sostiene che l'auto-collasso oggettivo introdurrebbe non computabilità e propone Orch OR come processo nei microtubuli.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "11349432",
+            "verificata": true
+          },
+          "prova": "Rassegna teorica a sostegno della proposta."
+        },
+        {
+          "testo": "Hameroff 2022: argomenta che oscillazioni a gigahertz e megahertz nei microtubuli dendritico-somatici regolano il firing di rami assonali distali, con evidenze da reti neuronali in coltura citate.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "35782391",
+            "verificata": true
+          },
+          "prova": "Articolo programmatico; i dati citati non sono riletti qui."
+        },
+        {
+          "testo": "Swift e altri 2018: calcolo da primi principi di coerenze di spin del fosforo nelle molecole di Posner, con tempi di coerenza di spin molto lunghi (senza numeri nell'abstract).",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "29379925",
+            "verificata": true
+          },
+          "prova": "Solo calcolo in silico."
+        },
+        {
+          "testo": "Player e Hore 2018: limite superiore di 37 minuti per l'entanglement di spin nucleari in molecole di Posner in condizioni fisiologiche idealizzate; gli autori ritengono il rilassamento reale molto più rapido.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "30381344",
+            "verificata": true
+          },
+          "prova": "Risultato negativo di un calcolo."
+        },
+        {
+          "testo": "Agarwal e altri 2021: a temperatura ambiente la molecola di Posner assume prevalentemente strutture a bassa simmetria (Cs, Ci) anziché la simmetria S6 spesso assunta.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "34668712",
+            "verificata": true
+          },
+          "prova": "Simulazioni, critica all'ipotesi."
+        },
+        {
+          "testo": "Agarwal e altri 2023: simulazioni: nei trimeri di Posner l'entanglement di spin tra molecole separate, in stato di Bell, decade in meno di un secondo; nei dimeri di fosfato di calcio dura centinaia di secondi.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "36876913",
+            "verificata": true
+          },
+          "prova": "Nessun esperimento riportato nell'abstract, che parla di simulazioni."
+        },
+        {
+          "testo": "Adams e altri 2025: robustezza di coerenza ed entanglement in molecole di Posner pure e drogate con litio.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "40221481",
+            "verificata": true
+          },
+          "prova": "L'abstract non riporta un risultato numerico."
+        },
+        {
+          "testo": "Fisher 2015 (Annals of Physics): proposta teorica di qubit con spin nucleari del fosforo nelle molecole di Posner come base di processi neurali.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "arXiv",
+            "id": "1508.05929",
+            "verificata": false
+          },
+          "prova": "Fonte non in PubMed e non riletta: l'identificativo viene da risultati di ricerca web, non da una lettura diretta."
+        },
+        {
+          "testo": "Craddock e altri 2014: calcolo di fattibilità del trasferimento coerente di energia nella tubulina, senza misure.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "25232047",
+            "verificata": true
+          },
+          "prova": "Investigazione computazionale."
+        },
+        {
+          "testo": "Craddock e altri 2017: simulazioni di oscillazioni terahertz collettive della tubulina che correlano con la potenza clinica degli anestetici (docking, chimica quantistica, modello teorico).",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "28852014",
+            "verificata": true
+          },
+          "prova": "Nessuna misura nel cervello nell'abstract."
+        },
+        {
+          "testo": "Babcock 2024: teoria e misure di resa quantica di fluorescenza di strutture di tubulina; la teoria predice superradianza ultravioletta in reti di triptofano.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "38641327",
+            "verificata": true
+          },
+          "prova": "Si misura fluorescenza, non coerenza; l'abstract non riporta misure su neuroni."
+        },
+        {
+          "testo": "Kalra 2023: la vita di fluorescenza del triptofano in microtubuli indica una diffusione di energia oltre 6,6 nm; etomidato e isoflurano riducono la diffusione; la teoria di Förster non la spiega in modo sufficiente.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "36968538",
+            "verificata": true
+          },
+          "prova": "Misura di trasporto di eccitazione; l'abstract non menziona coerenza."
+        },
+        {
+          "testo": "Kakati e altri 2025: calcolo del trasporto di energia tra residui aromatici: singoletto 12,4 Å (actina) e circa 8,6 Å (microtubuli e vimentina); tripletto 6,1 Å (microtubuli), 0,5 Å (actina), 1,0 Å (vimentina).",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "39721596",
+            "verificata": true
+          },
+          "prova": "Calcolo; il singoletto arriva a distanze molto maggiori del tripletto."
+        },
+        {
+          "testo": "Mavromatos, Mershin e Nanopoulos 2025 (rassegna): modello a cavità QED nei microtubuli con decoerenza dell'ordine di 10^-6 s; le proposte sperimentali (splitting di Rabi, sonde a plasmoni entangled) sono presentate come proposte per validare l'ipotesi; l'abstract non riporta esperimenti eseguiti.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "41281348",
+            "verificata": true
+          },
+          "prova": "Autori favorevoli alla proposta."
+        },
+        {
+          "testo": "Roeloffs e Tuszynski 2026: ipotesi su effetti quantistici subneuronali; la potenza anestetica segue i cambiamenti dell'oscillazione collettiva della tubulina con R²=0,999 su composti chimicamente diversi; l'abstract non riporta repliche indipendenti.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "42537979",
+            "verificata": true
+          },
+          "prova": "Affermazioni degli autori; correlazione su dati computazionali."
+        },
+        {
+          "testo": "Roeloffs e Tuszynski 2026: ipotesi che l'elaborazione autoreferenziale funga da interruttore tra funzionamento classico e quantistico del cervello, con predizioni testabili (rete di default, stati di flusso, insight); nessun test riportato.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "42137636",
+            "verificata": true
+          },
+          "prova": "Ipotesi senza test."
+        },
+        {
+          "testo": "Neven e altri 2024: congettura che l'esperienza cosciente nasca quando si forma una sovrapposizione quantistica; propongono un programma di ricerca sperimentale non ancora eseguito.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "38920469",
+            "verificata": true
+          },
+          "prova": "Programma proposto, nessun esperimento riportato."
+        },
+        {
+          "testo": "Pradeep 2026: modello quantum-inspired dello stato neurale che dichiara esplicitamente di non affermare che il tessuto neuronale mantenga coerenza quantistica macroscopica.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "42824118",
+            "verificata": true
+          },
+          "prova": "Un modello formale, non un esperimento."
+        },
+        {
+          "testo": "Wiest e Puniani 2025 (rassegna): sostengono che Orch OR spieghi i cicli percettivi discreti e citano un'evidenza biofisica diretta di uno stato entangled macroscopico nel cervello umano vivente, senza dettagli nell'abstract.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "41019231",
+            "verificata": true
+          },
+          "prova": "Affermazione degli autori; le evidenze primarie non sono nominate."
+        },
+        {
+          "testo": "Wiest 2025: afferma che esiste evidenza fisica diretta di uno stato entangled macroscopico nel cervello umano vivente a sostegno di un substrato quantistico a microtubuli.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "40342554",
+            "verificata": true
+          },
+          "prova": "Affermazione dell'autore; le evidenze primarie non sono nominate nell'abstract."
+        },
+        {
+          "testo": "Echternach 2026 (autore unico, ricercatore indipendente): sintesi che giustifica la misura diretta dei tempi di decoerenza nei microtubuli prima di assegnare un ruolo funzionale; il legame con la coscienza è non provato.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "42920515",
+            "verificata": true
+          },
+          "prova": "È la dichiarazione più esplicita, tra le fonti PubMed lette, che la misura diretta manca (affiliazione dichiarata: ricercatore indipendente); le evidenze di terzi che cita non sono state rilette."
+        }
+      ]
+    },
+    {
+      "titolo": "Obiezioni sulla decoerenza e spiegazioni classiche",
+      "voci": [
+        {
+          "testo": "Tegmark 2000: calcolo teorico dei tempi di decoerenza per neuroni e microtubuli (da 10^-13 a 10^-20 s) contro le scale dinamiche neurali (da 10^-3 a 10^-1 s), con la conclusione che i gradi di libertà cognitivi vanno trattati come classici.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "11088215",
+            "verificata": true
+          },
+          "prova": "È un calcolo, non una misura."
+        },
+        {
+          "testo": "Hagan, Hameroff e Tuszynski 2002: contestano le assunzioni di Tegmark (separazione della sovrapposizione, carica contro dipolo, costante dielettrica), ricalcolano 10^-5-10^-4 s e propongono schermatura di Debye, gel di actina, ordinamento dell'acqua e codici topologici.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "12188753",
+            "verificata": true
+          },
+          "prova": "Anche il valore rivisto resta sotto la soglia di Tegmark; le protezioni sono proposte, non dimostrate; autori proponenti."
+        },
+        {
+          "testo": "Rosa e Faber 2004: il modello di Hameroff e Penrose è incompatibile con la decoerenza, ma un cervello quantistico resta sostenibile sostituendo il collasso gravitazionale con la decoerenza; dissentono dalla conclusione di Tegmark e da alcuni punti di Hagan e altri.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "15524544",
+            "verificata": true
+          },
+          "prova": "Le critiche non sono univoche."
+        },
+        {
+          "testo": "McKemmish e altri 2009 (Phys Rev E): la tubulina non ha le proprietà richieste dalla formulazione originaria di Orch OR (commutazione coerente rapida); nessuna riformulazione basata su paradigmi fisici noti rende possibile il calcolo quantistico nei microtubuli.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "19792156",
+            "verificata": true
+          },
+          "prova": "Critica biofisica."
+        },
+        {
+          "testo": "Reimers e altri 2009 (PNAS): i condensati di Fröhlich coerenti sono energeticamente irraggiungibili e fragili in ambiente biologico e Orch OR è giudicata insostenibile; i condensati deboli possono invece influire sulla cinetica enzimatica.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "19251667",
+            "verificata": true
+          },
+          "prova": "Analisi teorica senza misure nuove."
+        },
+        {
+          "testo": "Salari e altri 2015: la decoerenza di sovrapposizioni ioniche nel filtro di selettività dei canali ionici avviene in tempi dell'ordine dei picosecondi, non abbastanza lunghi per l'elaborazione cognitiva; potrebbe lasciare tracce sul filtro e sui potenziali d'azione.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "25871141",
+            "verificata": true
+          },
+          "prova": "Calcolo teorico."
+        },
+        {
+          "testo": "Craddock e Tuszynski 2010: dubitano dell'esistenza di strutture coerenti di eccitoni e fononi di lunga durata nei microtubuli a temperatura fisiologica in assenza di isolamento termico.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "19669419",
+            "verificata": true
+          },
+          "prova": "Critica da autori che hanno lavorato anche a favore di ipotesi quantistiche."
+        },
+        {
+          "testo": "Zhang e Ahmed 2026: rassegna critica dei vincoli fisici (decoerenza, rumore termico) per la decodifica dei segnali neurali; dichiara di non proporre un meccanismo validato.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "42130685",
+            "verificata": true
+          },
+          "prova": "Senza un verdetto esplicito."
+        },
+        {
+          "testo": "Arias-Carrión, Ortega-Robles e Manjarrez 2026 (rassegna): nessuno studio ha dimostrato entanglement, coerenza di lunga durata o dinamiche di collasso nel tessuto neurale con criteri operativi comparabili a quelli dei sistemi quantistici controllati; le repliche sono limitate; dinamiche classiche non lineari riproducono molte firme.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "42041796",
+            "verificata": true
+          },
+          "prova": "Posizione di tre autori, non una misura del consenso."
+        },
+        {
+          "testo": "Franks e Lieb 1982: una rilettura quantitativa dei dati di potenza rende più plausibile un effetto diretto degli anestetici su proteine sensibili, mentre le teorie centrate sui lipidi non appaiono promettenti.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "6755267",
+            "verificata": true
+          },
+          "prova": "Compatibile con una spiegazione molecolare classica, ma non la dimostra né esclude altre."
+        },
+        {
+          "testo": "Hopfield 1982: modello di rete di neuroni semplici con memoria associativa (accessibile per contenuto), proprietà collettive emergenti e correzione d'errore.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "6953413",
+            "verificata": true
+          },
+          "prova": "L'etichetta «classico» è una valutazione della scheda, non dell'abstract; non tratta la coscienza."
+        },
+        {
+          "testo": "Dehaene e Changeux 2011 (rassegna): l'accesso cosciente come ignizione di una rete prefronto-parietale con sincronizzazione beta e gamma; implicazioni per l'anestesia generale.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "21521609",
+            "verificata": true
+          },
+          "prova": "Spiega la coscienza con misure neurali, senza provare che la fisica quantistica non serva."
+        },
+        {
+          "testo": "Cogitate Consortium 2025 (Nature): test avversariale tra teoria dell'informazione integrata e teoria dello spazio di lavoro globale su 256 partecipanti: risultati in parte coerenti con entrambe, con sfide sostanziali a punti chiave di entrambe.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "40307561",
+            "verificata": true
+          },
+          "prova": "Le teorie classiche della coscienza non sono risolte; nessuna teoria quantistica è testata."
+        },
+        {
+          "testo": "Pothos e Busemeyer 2013: si propone la probabilità quantistica come formalismo per alcuni processi cognitivi di giudizio e decisione, in cui la valutazione dipende da ordine e contesto.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "23673021",
+            "verificata": true
+          },
+          "prova": "Il formalismo non implica un cervello fisicamente quantistico: questa conclusione è un'inferenza della scheda."
+        },
+        {
+          "testo": "Khrennikov 2023 (rassegna): i modelli quantum-like vanno distinti dalla modellazione fisica quantistica dei processi biologici.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "37372230",
+            "verificata": true
+          },
+          "prova": "Distinzione esplicita nell'abstract."
+        },
+        {
+          "testo": "Pothos e Busemeyer 2022 (rassegna): rassegna dei modelli di cognizione basati sulla probabilità quantistica, con una valutazione critica dei limiti.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "34546804",
+            "verificata": true
+          },
+          "prova": "L'abstract non esplicita la distinzione tra quantum-like e fisico."
+        },
+        {
+          "testo": "Wang e altri 2014 (PNAS): 70 indagini nazionali (651-3006 partecipanti ciascuna) e 2 esperimenti sull'ordine delle domande: forte supporto alla QQ equality prevista a priori dalla probabilità quantistica.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "24979797",
+            "verificata": true
+          },
+          "prova": "L'abstract non riporta un confronto con un modello classico."
+        },
+        {
+          "testo": "Zheng, Busemeyer e Nosofsky 2023: confronto di un modello quantistico con un modello a esemplari in un compito di categorizzazione e decisione: il modello quantistico ha, nel complesso, un BIC migliore, a livello aggregato e individuale; entrambi predicono l'effetto di interferenza.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "36655984",
+            "verificata": true
+          },
+          "prova": "Il comparatore non è un modello bayesiano."
+        },
+        {
+          "testo": "Trueblood e Busemeyer 2011: confronto di un modello quantistico con due versioni del modello di belief-adjustment (adding e averaging) sugli effetti dell'ordine delle informazioni.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "21951058",
+            "verificata": true
+          },
+          "prova": "Un solo gruppo di effetti."
+        },
+        {
+          "testo": "Trueblood e Busemeyer 2012: un modello di probabilità quantistica per tre fenomeni di ragionamento causale.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "22593747",
+            "verificata": true
+          },
+          "prova": "L'abstract non riporta un comparatore classico."
+        },
+        {
+          "testo": "Tentori, Crupi e Russo 2013: spiegazione di conferma induttiva (bayesiana) della fallacia della congiunzione, contrapposta a regole di media e a un modello di errore casuale (quattro studi).",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "22823498",
+            "verificata": true
+          },
+          "prova": "Alternativa classica su un singolo effetto."
+        },
+        {
+          "testo": "Ozawa e Khrennikov 2019: la rappresentazione di Busemeyer e Wang dell'effetto di ordine non si combina con l'effetto di replicabilità della risposta; la combinazione si modella con strumenti quantistici non atomici.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "33285812",
+            "verificata": true
+          },
+          "prova": "Critica interna al formalismo."
+        },
+        {
+          "testo": "Huang e altri 2025 (rassegna): rassegna del programma della cognizione quantistica, con confronti con modelli non quantistici area per area.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "40608277",
+            "verificata": true
+          },
+          "prova": "Non è un confronto unico a parità di parametri."
+        }
+      ]
+    },
+    {
+      "titolo": "Criteri di prova, consenso e implicazioni",
+      "voci": [
+        {
+          "testo": "Michel e altri 2018: sondaggio online informale su 249 partecipanti (80% accademici): la teoria più promettente è il global workspace (circa 28%); l'abstract non menziona teorie quantistiche.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "30455661",
+            "verificata": true
+          },
+          "prova": "È un analogo generale sulla scienza della coscienza, non un sondaggio sul ruolo quantistico."
+        },
+        {
+          "testo": "Rizi e altri 2000: immagini di coerenza intermolecolare a zero quanti (iZQC) del cervello umano a 4 tesla, con una mappa di rilassamento a zero quanti.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "10800025",
+            "verificata": true
+          },
+          "prova": "La «coerenza» della risonanza magnetica è una coerenza multi-spin descritta classicamente: non è la coerenza quantistica di stati neurali."
+        },
+        {
+          "testo": "López Pérez, Bokde e Kerskens 2023: analisi di complessità dei segnali di risonanza magnetica legati al battito (sequenza ZSE) come possibile biomarcatore di età e prestazioni cognitive; l'abstract non parla di quantistica.",
+          "livello": "sperimentale",
+          "fonte": {
+            "tipo": "PMID",
+            "id": "36910259",
+            "verificata": true
+          },
+          "prova": "Non è la fonte della tesi sull'entanglement e non va citato come tale."
+        },
+        {
+          "testo": "Un test di entanglement alla risonanza magnetica cerebrale (Kerskens e López Pérez 2022, J Phys Commun) è citato dai proponenti; non è indicizzato in PubMed, non è stato riletto e una critica pubblicata (Warren 2023) è nota solo da risultati di ricerca web.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "",
+            "id": "",
+            "verificata": false
+          },
+          "prova": "Rivista non biomedica: la non indicizzazione non dice nulla sull'esistenza dell'articolo."
+        },
+        {
+          "testo": "Criteri di prova proposti: test di disuguaglianza di Bell o testimoni di entanglement, tempi di decoerenza misurati, effetti isotopici, dipendenza dallo spin. Nessun test di Bell o di entanglement è stato riportato in tessuto neurale vivo nelle fonti lette (Kerskens e López Pérez 2022 dichiara un test, non riletto).",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "",
+            "id": "",
+            "verificata": false
+          },
+          "prova": "Sintesi della scheda dei passi 4 e 5."
+        },
+        {
+          "testo": "Implicazioni: se un ruolo funzionale quantistico fosse dimostrato, potrebbero aprirsi nuove firme diagnostiche e bersagli farmacologici; se fosse falso, la pratica clinica non cambierebbe; i modelli quantum-like restano strumenti matematici utilizzabili su hardware classico.",
+          "livello": "ipotesi",
+          "fonte": {
+            "tipo": "",
+            "id": "",
+            "verificata": false
+          },
+          "prova": "Inferenze della scheda, non risultati; le ipotesi sugli anestetici restano non dimostrate."
+        }
+      ]
+    }
+  ],
+  "tentativi": [
+    {
+      "cosa": "Xeno e anestesia nel topo: isotopi con e senza spin nucleare (Li 2018, un laboratorio, 80 topi maschi C57BL/6)",
+      "esito": "inconcludente",
+      "ragione": "Gli isotopi con spin nucleare risultano meno potenti, come dal titolo dello studio (ED50 con isoflurano 0,50%: 15±4%, 16±5%, 22±5%, 23±7%; da soli 70±4%, 72±5%, 99±5%, 105±7%), con polarizzabilità calcolata identica. L'abstract perde i numeri di massa di due gruppi, quindi l'associazione dei valori agli isotopi si deduce dall'ordine. Nessuna replica indipendente trovata; il controllo per massa e vibrazioni non è nell'abstract.",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "29642079",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Modello a coppia radicalica che riproduce la dipendenza isotopica dello xeno (Smith 2021)",
+      "esito": "inconcludente",
+      "ragione": "Riproduce i dati osservati nei topi; non è una replica.",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "33737599",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Isotopi del litio e comportamento materno nel ratto (Sechzer 1986)",
+      "esito": "inconcludente",
+      "ragione": "Le madri Li-7 trascurano i piccoli, le Li-6 sono iperprotettive; l'abstract non contiene un quadro quantistico.",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "3019440",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Isotopi del litio e iperattività da ketamina nel ratto (Ettenberg 2020)",
+      "esito": "inconcludente",
+      "ragione": "Dopo 30 giorni di dieta, ketamina 25 mg/kg per 11 giorni a dieta continuata; dal quarto test il Li-6 riduce l'iperattività più a lungo. Non separa spin e massa e non è una replica indipendente: un autore è tra i proponenti della teoria.",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "32084493",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Isotopi del litio in cellule neuronali HT22 (Livingstone 2023)",
+      "esito": "fallito",
+      "ragione": "Nessuna differenza tra litio-6 e litio-7 su vitalità, fosforilazione di GSK-3beta e attività chinasica; risultato nullo in vitro.",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "37063814",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Isotopi del calcio e anestesia con sevoflurane nel topo (Chen 2020)",
+      "esito": "fallito",
+      "ragione": "Cloruri di Ca-40 e Ca-43 danno effetti identici: nessuna dipendenza dall'isotopo; il titolo riguarda il fosforo-31. Stesso gruppo di Li 2018, quindi non una replica indipendente.",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "33378834",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Modello a coppia radicalica per gli effetti isotopici del litio (Zadeh-Haghighi e Simon 2021)",
+      "esito": "inconcludente",
+      "ragione": "Predice una dipendenza dal campo magnetico; non è stato trovato un test di quella predizione.",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "34108537",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Test di entanglement alla risonanza magnetica cerebrale (Kerskens e López Pérez 2022)",
+      "esito": "inconcludente",
+      "ragione": "Non indicizzato in PubMed e non riletto; i dati e la critica sono noti solo da fonti secondarie.",
+      "fonte": {
+        "tipo": "",
+        "id": "",
+        "verificata": false
+      }
+    },
+    {
+      "cosa": "Superradianza e fluorescenza del triptofano nei microtubuli (Babcock 2024)",
+      "esito": "inconcludente",
+      "ragione": "Misura la resa quantica di fluorescenza, non la coerenza; nessuna critica pubblicata trovata.",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "38641327",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Diffusione di energia e anestetici nei microtubuli (Kalra 2023)",
+      "esito": "inconcludente",
+      "ragione": "Diffusione oltre 6,6 nm ridotta da etomidato e isoflurano; misura trasporto di eccitazione, non coerenza.",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "36968538",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Entanglement di spin del fosforo nelle molecole di Posner (Player e Hore 2018)",
+      "esito": "inconcludente",
+      "ragione": "Solo calcolo: limite superiore di 37 minuti in condizioni idealizzate, con rilassamento reale ritenuto molto più rapido; nessun esperimento sugli spin del fosforo trovato.",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "30381344",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Entanglement di spin tra molecole di Posner (Agarwal 2023)",
+      "esito": "inconcludente",
+      "ragione": "Solo simulazioni: decadimento in meno di un secondo nei trimeri, centinaia di secondi nei dimeri di fosfato di calcio.",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "36876913",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Epotilone B e perdita di coscienza da isoflurano nel ratto (Khan 2024)",
+      "esito": "inconcludente",
+      "ragione": "Ritarda di circa 69 s la latenza alla perdita del riflesso di raddrizzamento, usata come indicatore di incoscienza (d=1,9); gli autori scrivono che è previsto da modelli quantistici dei microtubuli. Dall'abstract non risultano pre-registrazione né un controllo che stabilizzi i microtubuli senza essere quantistico.",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "39147581",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Ricerca di radiazione spontanea da collasso della funzione d'onda (Majorana Demonstrator 2022)",
+      "esito": "fallito",
+      "ragione": "Nessun segnale a 19-100 keV; nel quadro Diósi-Penrose il limite inferiore migliora di quasi un ordine di grandezza. Il modello principale testato è CSL.",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "36053678",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Analisi critica di Orch OR rispetto alla radiazione spontanea (Derakhshani 2022)",
+      "esito": "inconcludente",
+      "ragione": "Orch OR, basata sui modelli di collasso dinamico legati alla gravità nella versione più semplice, è giudicata altamente implausibile nei casi analizzati; è un'analisi critica, non un esperimento sui microtubuli.",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "35617922",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Falsificabilità di Orch OR (Hameroff 2021, commento)",
+      "esito": "inconcludente",
+      "ragione": "Secondo l'autore Orch OR è la teoria della coscienza più completa e più facilmente falsificabile; l'abstract non indica un criterio di falsificazione specifico.",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "33232193",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Test avversariale di due teorie classiche della coscienza (Cogitate 2025)",
+      "esito": "inconcludente",
+      "ragione": "Risultati in parte coerenti con entrambe, con sfide sostanziali a punti chiave di entrambe; nessuna teoria quantistica è testata.",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "40307561",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Test della QQ equality su dati di ordine delle domande (Wang 2014)",
+      "esito": "riuscito",
+      "ragione": "Forte supporto a una predizione a priori della probabilità quantistica su 70 indagini e 2 esperimenti; non confrontata con un modello classico nell'abstract e non implica un cervello quantistico.",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "24979797",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Confronto tra modello quantistico e modello a esemplari su categorizzazione e decisione (Zheng 2023)",
+      "esito": "riuscito",
+      "ragione": "Il modello quantistico ha nel complesso un BIC migliore; il comparatore non è un modello bayesiano.",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "36655984",
+        "verificata": true
+      }
+    },
+    {
+      "cosa": "Spiegazione bayesiana della fallacia della congiunzione (Tentori 2013)",
+      "esito": "inconcludente",
+      "ragione": "Alternativa classica su un singolo effetto; non confronta direttamente più effetti insieme.",
+      "fonte": {
+        "tipo": "PMID",
+        "id": "22823498",
+        "verificata": true
+      }
+    }
+  ],
+  "buchi": [
+    {
+      "domanda": "In tessuto neurale vivo o in un preparato, esistono misure con criterio operativo predefinito di entanglement tra gradi di libertà, con tempo di coerenza di almeno 1 ms a 37 gradi, non spiegabili da un modello classico calibrato sugli stessi dati? (Riformulata: «coerenza» è ambigua: la coerenza di spin nucleari in risonanza magnetica è misurabile ma non implica coerenza di stati neurali, e senza grado di libertà e soglia temporale la domanda non è falsificabile.)",
+      "verdetto": "NON TROVATO",
+      "verifica": "Nessun esperimento in PubMed misura direttamente coerenza o entanglement in tessuto neurale vivo su scala di millisecondi. Esistono immagini di coerenza intermolecolare a zero quanti del cervello umano (Rizi 2000), che è una coerenza multi-spin descritta classicamente, e misure di fluorescenza e diffusione di energia in tubulina (Babcock 2024, Kalra 2023) che non misurano coerenza. Il test di Kerskens e López Pérez 2022 non è indicizzato in PubMed e non è stato riletto: nessuna replica indipendente indicizzata trovata. Verdetto limitato a PubMed.",
+      "disegno": "In vitro: misura del tempo di rilassamento T2 degli spin nucleari (idrogeno, fosforo) in tubulina o tessuto a 37 gradi; se compatibile con i millisecondi, test con disuguaglianza o testimone su coppie di spin in un preparato, con criterio e analisi pre-registrati e ciechi. Per la risonanza magnetica: confronto con un modello classico calibrato sugli stessi dati e replica in almeno due laboratori.",
+      "falsificazione": "Respinta se il T2 misurato è inferiore alla scala del processo ipotizzato, se un modello classico calibrato riproduce il segnale entro la soglia pre-registrata, o se manca una replica indipendente con lo stesso criterio.",
+      "fonti": [
+        {
+          "tipo": "PMID",
+          "id": "10800025",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "38641327",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "36968538",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "42041796",
+          "verificata": true
+        }
+      ]
+    },
+    {
+      "domanda": "A massa e isotopo costanti, lo stato di polarizzazione dello spin nucleare di xeno-129 modifica la potenza anestetica nel topo? (Riformulata: confrontare isotopi diversi confonde spin e massa; lo xeno non ha coppie stabili con la stessa massa e spin diverso.)",
+      "verdetto": "NON TROVATO",
+      "verifica": "Parzialmente fatto solo per la domanda originaria (confronto tra isotopi): il disegno a massa costante non è mai stato eseguito. L'effetto isotopico dello xeno (Li 2018, un laboratorio) non ha repliche indipendenti trovate in 7 formulazioni; i gruppi con spin sono anche i più leggeri dei quattro, ma il controllo per massa e vibrazioni non è nell'abstract (osservazione della scheda). Un tentativo con isotopi del calcio non mostra differenze (stesso gruppo di Li 2018); gli esperimenti sul litio non separano lo spin dalla massa; due modelli a coppia radicalica riproducono i dati a posteriori. Nessun esperimento a massa costante con spin polarizzato trovato.",
+      "disegno": "Proposta, non eseguita: ED50 del riflesso di raddrizzamento con xeno-129 iperpolarizzato contro xeno-129 a polarizzazione termica, stessa miscela e stesso isoflurano di fondo, polarizzazione misurata al momento della somministrazione (decade nel tempo: la fattibilità dipende dal decadimento, non reperito), operatore cieco, pre-registrazione, controllo sham con lo stesso xeno-129 passato nel polarizzatore senza pompaggio ottico, replica in almeno due laboratori.",
+      "falsificazione": "Respinta se la differenza di ED50 tra xeno-129 iperpolarizzato e termico rientra nell'intervallo di equivalenza pre-registrato, o se il controllo sham dà lo stesso effetto.",
+      "fonti": [
+        {
+          "tipo": "PMID",
+          "id": "29642079",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "33378834",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "3019440",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "32084493",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "37063814",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "33737599",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "34108537",
+          "verificata": true
+        }
+      ]
+    },
+    {
+      "domanda": "Qual è il tempo di coerenza misurato, non calcolato, di spin del fosforo in cluster Ca9(PO4)6 o di eccitoni in tubulina a 37 gradi? (Riformulata: la domanda mescolava modelli e misure: il riesame trovato è solo teorico.)",
+      "verdetto": "NON TROVATO",
+      "verifica": "Nessuna misura diretta. Le stime di decoerenza sono state riesaminate solo con calcoli: Tegmark 2000 (da 10^-13 a 10^-20 s), Hagan e altri 2002 (10^-5-10^-4 s) e altre stime di ordine di grandezza diverso; misure affini (Kalra 2023, Babcock 2024) riguardano diffusione di energia e fluorescenza, non coerenza; per le molecole di Posner solo simulazioni. Echternach 2026 scrive che bisogna misurare direttamente la decoerenza nei microtubuli prima di assegnare un ruolo funzionale. Non trovata una rassegna recente equilibrata della disputa. La ricerca sulle molecole di Posner dà 123 risultati, letti solo in parte: non va considerata esaustiva.",
+      "disegno": "Cluster di Posner sintetici in tampone a 37 gradi con risonanza magnetica nucleare del fosforo-31 e sequenze di entanglement, misurando T2 e tempo di entanglement; microtubuli purificati a 37 gradi con spettroscopia ultraveloce del triptofano, misurando migrazione e decoerenza degli eccitoni; soglie fissate prima, replica indipendente.",
+      "falsificazione": "Un ruolo funzionale è sfavorito se il tempo misurato è inferiore a circa 10^-3 s (limite basso delle scale neurali usato da Tegmark); è compatibile con un ruolo, senza dimostrarlo, se supera circa 10^-1 s (limite alto della stessa scala di Tegmark; soglia scelta dalla scheda) e viene replicato in modo indipendente.",
+      "fonti": [
+        {
+          "tipo": "PMID",
+          "id": "11088215",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "12188753",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "30381344",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "34668712",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "36876913",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "19669419",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "42920515",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "36968538",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "38641327",
+          "verificata": true
+        }
+      ]
+    },
+    {
+      "domanda": "Esiste un test pre-registrato di Orch OR con risultati pubblicati? (Riformulata: «test di Orch OR» mescola due ipotesi: il collasso gravitazionale è osservato alla scala prevista, e l'effetto anestetico dipende dai microtubuli in modo specifico? Un risultato nullo sul collasso falsifica Orch OR solo se la teoria richiede quella forma di collasso.)",
+      "verdetto": "NON TROVATO",
+      "verifica": "Nessuna pre-registrazione con risultati trovata in PubMed (PubMed non indicizza registri come OSF, che non sono stati consultati). Esistono test indiretti del collasso (Majorana 2022) e un'analisi critica (Derakhshani 2022); un esperimento sul ratto con epotilone B (Khan 2024) senza pre-registrazione né controllo noto dall'abstract; Hameroff 2021 scrive che la teoria è facilmente falsificabile senza indicare un criterio. Non verificato se il limite di Majorana copra la finestra di collasso predetta per i microtubuli.",
+      "disegno": "(a) radiazione spontanea o interferometria su sistemi con energia gravitazionale nota, confrontate con la scala temporale prevista; (b) tre bracci pre-registrati con dose-risposta e riflesso di raddrizzamento: epotilone B, controllo con pari sedazione senza legame ai microtubuli, stabilizzatore di microtubuli che non attraversa la barriera emato-encefalica.",
+      "falsificazione": "(a) Se il collasso osservato cade fuori dalla finestra predetta, fissata prima della misura, la versione gravitazionale di Orch OR è esclusa a quella scala. (b) Se l'effetto dell'epotilone B è uguale a quello del controllo non legato ai microtubuli, l'ipotesi quantistica dei microtubuli non ha sostegno specifico; un effetto diverso dal controllo indicherebbe un ruolo dei microtubuli, non specificamente quantistico.",
+      "fonti": [
+        {
+          "tipo": "PMID",
+          "id": "33232193",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "35617922",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "36053678",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "39147581",
+          "verificata": true
+        }
+      ]
+    },
+    {
+      "domanda": "Su dati di giudizio con effetti di ordine e interferenza, un modello a formalismo quantistico con k parametri predice meglio, fuori campione, di un modello bayesiano o markoviano dipendente dall'ordine con lo stesso k? (Riformulata: la quantità testata è il formalismo, non il substrato fisico; «a parità di parametri» va esplicitato come k uguale o penalità di complessità; «meglio» come predizione su dati non usati nel fit.)",
+      "verdetto": "PARZIALMENTE FATTO",
+      "verifica": "Esistono confronti su singoli effetti: modello quantistico contro modello a esemplari (Zheng 2023), contro modelli di belief-adjustment sull'ordine (Trueblood e Busemeyer 2011), una spiegazione bayesiana della fallacia della congiunzione (Tentori 2013) e un test della QQ equality senza confronto classico nell'abstract (Wang 2014). Non trovato un confronto su più effetti insieme (ordine, congiunzione, interferenza) sullo stesso dataset con penalità di complessità. Nessuna fonte mostra che i dati comportamentali richiedano una base fisica quantistica.",
+      "disegno": "Dataset pre-registrato di giudizi (ordine delle domande, congiunzione e disgiunzione), suddiviso in addestramento e verifica; modello quantistico e modelli classici ordine-dipendenti con lo stesso k; confronto con validazione incrociata o BIC e intervalli di confidenza sulle dimensioni dell'effetto.",
+      "falsificazione": "Il vantaggio del formalismo quantistico è falsificato se un modello classico con k uguale o minore raggiunge un adattamento fuori campione non peggiore (differenza di BIC minore di 2, o validazione incrociata non significativa) su tutti gli effetti, QQ equality inclusa, o se la QQ equality non regge su dati nuovi.",
+      "fonti": [
+        {
+          "tipo": "PMID",
+          "id": "23673021",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "24979797",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "36655984",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "21951058",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "22593747",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "22823498",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "33285812",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "40608277",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "37372230",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "34546804",
+          "verificata": true
+        }
+      ]
+    },
+    {
+      "domanda": "Esistono sondaggi quantitativi, con campione e tasso di risposta dichiarati, tra neuroscienziati e fisici su affermazioni precise (per esempio «la coerenza quantistica ha un ruolo funzionale nella cognizione»), e quale quota li sostiene, con intervallo di confidenza? (Riformulata: «quale posizione prevale» è mal posta per una ricerca bibliografica, perché il consenso è una proprietà di una popolazione, non di articoli.)",
+      "verdetto": "NON TROVATO",
+      "verifica": "Nessun sondaggio sul ruolo quantistico in 4 formulazioni PubMed. Il più vicino, Michel 2018 (249 partecipanti, informale), riguarda la scienza della coscienza in generale e non cita teorie quantistiche. La rassegna del 2026 (Arias-Carrión) afferma che nessuno studio ha dimostrato entanglement o coerenza di lunga durata nel tessuto neurale, ma è la posizione di tre autori. Il confronto con l'argomento di Penrose e Lucas sulla non computabilità non è stato trovato in PubMed (le riviste di filosofia non sono indicizzate): quel dibattito resta non verificato con questo strumento.",
+      "disegno": "Sondaggio pre-registrato con campione stratificato (neuroscienziati cognitivi, fisici quantistici, filosofi della mente come gruppo a parte), 5-10 affermazioni definite su scala di Likert, tasso di risposta dichiarato, intervalli bootstrap.",
+      "falsificazione": "La posizione «effetti quantistici funzionali» prevale se oltre il 50% è favorevole con IC 95% sopra il 50% in ciascun gruppo; il consenso «classico» è falsificato se la maggioranza di neuroscienziati o fisici sostiene l'affermazione funzionale con IC sopra il 50%.",
+      "fonti": [
+        {
+          "tipo": "PMID",
+          "id": "30455661",
+          "verificata": true
+        },
+        {
+          "tipo": "PMID",
+          "id": "42041796",
+          "verificata": true
+        }
+      ]
+    }
+  ],
+  "note": "Procedura: 5 passi della scheda con sotto-agenti in parallelo, 6 domande residue verificate una per una, tre giri di verifica delle fonti PubMed (giro 1 riletture dirette, giro 2 confronto di ogni PMID con titolo e abstract con agenti diversi, giro 3 controllo indipendente delle affermazioni negative). Limiti importanti: verifica sugli abstract, non sul testo completo; l'accesso a arXiv e ad altri siti di fisica non era disponibile per gli agenti, quindi le fonti non PubMed (Fisher 2015, Kerskens e López Pérez 2022, la critica di Warren 2023, la risposta di Stapp a Tegmark, i test del collasso di Donadi e le critiche all'argomento di Penrose e Lucas) non sono state rilette e restano non verificate o non reperite. Molti degli articoli favorevoli a ipotesi quantistiche sono di autori proponenti, e i loro abstract non sono prove indipendenti. Alcuni abstract hanno perso i numeri di massa degli isotopi (Li 2018), per cui l'associazione dei valori ai singoli isotopi si deduce dall'ordine. Le osservazioni sulla massa degli isotopi dello xeno e sul fatto che i modelli quantum-like non implichino un cervello quantistico sono inferenze della scheda. Molte fonti sono del 2026. Ritiri e correzioni: nei record riletti i metadati PubMed non segnalano ritiri; le errata non sono state controllate una per una. La scheda non prende posizione: indica cosa le fonti lette mostrano e cosa manca. Non è una consulenza medica."
+}
