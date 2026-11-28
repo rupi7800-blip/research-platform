@@ -13,6 +13,12 @@
       ]
     },
     {
+      "nome": "Nutrizione",
+      "sottocategorie": [
+        "Diete e longevità"
+      ]
+    },
+    {
       "nome": "Oncologia",
       "sottocategorie": [
         "Metastasi ossee",
