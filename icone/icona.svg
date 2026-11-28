@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Piattaforma di ricerca">
+  <defs>
+    <linearGradient id="sfondo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2a79ad"/>
+      <stop offset="1" stop-color="#143f5c"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" fill="url(#sfondo)"/>
+  <g fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="224" cy="224" r="108" stroke-width="30"/>
+    <path d="M304 304 L388 388" stroke-width="42"/>
+    <path d="M176 228 L212 264 L276 190" stroke-width="30" stroke="#ffd166"/>
+  </g>
+</svg>

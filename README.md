@@ -12,3 +12,12 @@ categoria e sottocategoria.
 
 Anteprima locale: `python3 -m http.server` e aprire `http://localhost:8000`.
 Pubblicazione: GitHub Pages dal ramo `main`, cartella radice.
+
+
+## App installabile
+
+Il sito è un'app web installabile (PWA): si apre anche senza rete e ha una propria icona.
+Su Android e computer (Chrome, Edge) compare il pulsante «Installa l'app» in alto; su iPhone e iPad
+si usa «Condividi» → «Aggiungi alla schermata Home». Non serve alcun file APK.
+Dopo aver modificato `index.html`, `style.css` o `app.js`, aumentare `VERSIONE` in `sw.js` per aggiornare la cache.
+Le icone sono in `icone/` (origine: `icona.svg`).

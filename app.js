@@ -269,3 +269,22 @@ fetch('data/archivio.json', { cache: 'no-cache' })
 window.addEventListener('hashchange', vai);
 // dentro una scheda la casella filtra la scheda senza ricostruirla; altrove cerca tra gli argomenti
 $('cerca').addEventListener('input', () => (SCHEDA && location.hash.startsWith('#r/') ? corpo() : vai()));
+
+// ---- App installabile (PWA) ----
+// Il service worker permette l'uso offline; il pulsante compare solo se il browser consente l'installazione.
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => { navigator.serviceWorker.register('sw.js').catch(() => {}); });
+}
+let proposta = null;
+window.addEventListener('beforeinstallprompt', (e) => {
+  e.preventDefault(); proposta = e; $('installa').hidden = false;
+});
+$('installa').addEventListener('click', () => {
+  if (!proposta) return;
+  proposta.prompt();
+  proposta.userChoice.finally(() => { proposta = null; $('installa').hidden = true; });
+});
+window.addEventListener('appinstalled', () => { $('installa').hidden = true; });
+// iOS non offre il pulsante: si mostra la spiegazione, solo se l'app non è già installata
+const ios = /iphone|ipad|ipod/i.test(navigator.userAgent) && !window.navigator.standalone;
+if (ios) $('aiuto-ios').hidden = false;

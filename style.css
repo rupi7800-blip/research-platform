@@ -3,7 +3,10 @@
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 system-ui,sans-serif}
 header{display:flex;gap:16px;align-items:center;flex-wrap:wrap;padding:12px 16px;border-bottom:1px solid var(--lin)}
-h1{font-size:1.2rem;margin:0}
+h1{font-size:1.2rem;margin:0;display:flex;align-items:center;gap:8px}
+.logo{border-radius:6px}
+#installa{font:inherit;font-size:.9rem;padding:6px 12px;border-radius:8px;border:1px solid var(--acc);background:var(--acc);color:var(--bg);cursor:pointer}
+#installa[hidden],#aiuto-ios[hidden]{display:none}
 #cerca{flex:1;min-width:200px;padding:8px 10px;border:1px solid var(--lin);border-radius:6px;background:var(--pan);color:var(--fg);font:inherit}
 .corpo{display:grid;grid-template-columns:280px 1fr;min-height:70vh}
 nav{border-right:1px solid var(--lin);padding:12px 16px;overflow:auto}

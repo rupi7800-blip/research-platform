@@ -4,11 +4,21 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Piattaforma di ricerca</title>
+<meta name="theme-color" content="#1f5f8b">
+<meta name="description" content="Ricerche verificate su qualsiasi argomento, con fonti e livelli di prova.">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" type="image/svg+xml" href="icone/icona.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="icone/favicon-32.png">
+<link rel="apple-touch-icon" href="icone/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Ricerca">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <header>
-  <h1>Piattaforma di ricerca</h1>
+  <h1><img src="icone/icona.svg" alt="" width="28" height="28" class="logo">Piattaforma di ricerca</h1>
+  <button id="installa" type="button" hidden>Installa l'app</button>
   <input id="cerca" type="search" placeholder="Cerca negli argomenti e nei testi…" aria-label="Cerca">
 </header>
 <div class="corpo">
@@ -20,6 +30,7 @@
   <span class="badge no">non verificata</span> fonte non riletta ·
   <span class="badge ass">fonte non reperita</span> identificativo assente ·
   ↗ il codice della fonte è un link esterno diretto (PubMed, registro dei trial)
+  <p id="aiuto-ios" class="meta" hidden>Su iPhone e iPad: tocca «Condividi» e poi «Aggiungi alla schermata Home» per installare l'app.</p>
 </footer>
 <script src="app.js"></script>
 </body>

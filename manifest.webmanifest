@@ -1,0 +1,19 @@
+{
+  "name": "Piattaforma di ricerca",
+  "short_name": "Ricerca",
+  "description": "Ricerche verificate su qualsiasi argomento, con fonti e livelli di prova.",
+  "lang": "it",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#fafaf7",
+  "theme_color": "#1f5f8b",
+  "categories": ["education", "science", "reference"],
+  "icons": [
+    { "src": "icone/icona-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icone/icona-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icone/icona-maschera-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icone/icona.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
