@@ -40,7 +40,7 @@
         "esito": "parziale",
         "motivo": "Per gli eventi cardiovascolari e i fattori di rischio esistono trial positivi (dieta mediterranea); per la durata della vita e la qualità di vita nell'uomo non risultano trial. Le coorti mostrano associazioni con confondimento non eliminabile, e contano più la qualità complessiva della dieta e la fonte degli alimenti che l'etichetta del modello."
       },
-      "sommario": "Nessuna dieta risulta dimostrata, con trial randomizzati, capace di allungare la vita umana: nelle ricerche fatte non è stato trovato alcun trial con la durata della vita come esito. Le prove più solide riguardano gli eventi cardiovascolari e i fattori di rischio. La dieta mediterranea ha ridotto gli eventi cardiovascolari nei trial PREDIMED (nella versione ripubblicata nel 2018, dopo il ritiro del 2013) e CORDIOPREV, mentre nella meta-analisi dei trial la mortalità totale non è significativamente diversa (OR 0,77; 0,51-1,15). Nelle coorti osservazionali i modelli ricchi di vegetali, cereali integrali, legumi, frutta secca, olio d'oliva e pesce, e poveri di carni lavorate, bevande zuccherate e alimenti ultra-processati sono associati a minore mortalità totale (HR tipici 0,77-0,86 per l'estremo migliore), ma possono risentire di confondimento residuo (negli studi sui gemelli l'associazione è in parte spiegata da condizione sociale e stile di vita). Conta più la qualità complessiva e la fonte degli alimenti che l'etichetta del modello: le diete vegetali poco sane sono associate a più mortalità; nelle diete povere di carboidrati la mortalità ha una relazione a U con i carboidrati ed è più alta se le proteine e i grassi sono di origine animale e più bassa se sono vegetali (coorti). Digiuno e restrizione calorica migliorano marcatori intermedi, senza dati di mortalità nell'uomo. Per la qualità di vita le prove sono scarse e quasi sempre secondarie; in età molto avanzata alcuni effetti cambiano (per esempio nell'Adventist Health Study-2 l'HR dei vegetariani passa da 0,89 a 65 anni a 0,98 a 85 anni). La longevità delle «Zone Blu» ha una validità dell'età contestata, e la randomizzazione mendeliana non conferma un beneficio dell'alcol a basso consumo. Non è una consulenza medica.",
+      "sommario": "Nessuna dieta risulta dimostrata, con trial randomizzati, capace di allungare la vita umana: nelle ricerche fatte non è stato trovato alcun trial con la durata della vita come esito. Le prove più solide riguardano gli eventi cardiovascolari e i fattori di rischio. La dieta mediterranea ha ridotto gli eventi cardiovascolari nei trial PREDIMED (nella versione ripubblicata nel 2018, dopo il ritiro del 2013) e CORDIOPREV, mentre nella meta-analisi dei trial la mortalità totale non è significativamente diversa (OR 0,77; 0,51-1,15). Nelle coorti osservazionali i modelli ricchi di vegetali, cereali integrali, legumi, frutta secca, olio d'oliva e pesce, e poveri di carni lavorate, bevande zuccherate e alimenti ultra-processati sono associati a minore mortalità totale (HR tipici 0,77-0,86 per l'estremo migliore), ma possono risentire di confondimento residuo (negli studi sui gemelli l'associazione è in gran parte spiegata da condizione sociale e stile di vita). Conta più la qualità complessiva e la fonte degli alimenti che l'etichetta del modello: le diete vegetali poco sane sono associate a più mortalità; nelle diete povere di carboidrati la mortalità ha una relazione a U con i carboidrati ed è più alta se le proteine e i grassi sono di origine animale e più bassa se sono vegetali (coorti). Digiuno e restrizione calorica migliorano marcatori intermedi, senza dati di mortalità nell'uomo. Per la qualità di vita le prove sono scarse e quasi sempre secondarie; in età molto avanzata alcuni effetti cambiano (per esempio nell'Adventist Health Study-2 l'HR dei vegetariani passa da 0,89 a 65 anni a 0,98 a 85 anni). La longevità delle «Zone Blu» ha una validità dell'età contestata, e la randomizzazione mendeliana non conferma un beneficio dell'alcol a basso consumo. Non è una consulenza medica.",
       "sezioni": [
         {
           "titolo": "Che cosa mostrano i dati per modello alimentare e per alimento",
@@ -153,7 +153,7 @@
                 "verificata": true,
                 "url": "https://pubmed.ncbi.nlm.nih.gov/38431146/"
               },
-              "prova": "Meta-analisi di 4 RCT con 10.054 partecipanti; eterogeneità alta per il MACE."
+              "prova": "Meta-analisi di 4 RCT con 10.054 partecipanti; eterogeneità alta per il MACE. L'intervallo della rivascolarizzazione (0.30-1.27) non è centrato sulla stima: probabile refuso della fonte."
             },
             {
               "testo": "Greek EPIC: MedDiet inversamente associata a incidenza di ictus/CBVD, HR 0.85 (IC 0.74-0.96); mortalità per ictus HR 0.88 (IC 0.73-1.06), non significativo.",
@@ -255,7 +255,7 @@
               "prova": "Meta-analisi di 5 RCT con 1507 partecipanti: eterogeneità molto alta, intervallo di predizione che include lo zero."
             },
             {
-              "testo": "Correzione della meta-analisi sulla depressione (ricalcolo dopo commenti): coorti HR 0.81 (IC 0.70-0.94); trasversali OR 0.81 (IC 0.71-0.92). La versione originale non è stata riletta, quindi il risultato precedente non è noto.",
+              "testo": "Correzione della meta-analisi sulla depressione (ricalcolo dopo commenti): coorti HR 0.81 (IC 0.70-0.94); trasversali OR 0.81 (IC 0.71-0.92). La versione originale non è stata consultata, quindi il risultato precedente non è noto.",
               "livello": "ipotesi",
               "fonte": {
                 "tipo": "PMID",
@@ -266,7 +266,7 @@
               "prova": "Commento e rianalisi di una meta-analisi osservazionale; n non nell'abstract."
             },
             {
-              "testo": "Dieta sana non vegetariana (AMED, HEI-2015, AHEI) ha effetti sulla mortalità simili alla dieta vegetale di qualità: HR 0.82, 0.81, 0.80 rispetto a hPDI 0.86.",
+              "testo": "Dieta sana non vegetariana (AMED, HEI-2015, AHEI) è associata a riduzioni di mortalità simili alla dieta vegetale di qualità: HR 0.82, 0.81, 0.80 rispetto a hPDI 0.86.",
               "livello": "sperimentale",
               "fonte": {
                 "tipo": "PMID",
@@ -1363,7 +1363,7 @@
                 "verificata": true,
                 "url": "https://pubmed.ncbi.nlm.nih.gov/34459569/"
               },
-              "prova": "RCT a grappolo in villaggi cinesi; numerosità non indicata nell'abstract (la coorte con ictus è di 15.249 pazienti in 600 villaggi, vedi la riga successiva)."
+              "prova": "RCT a grappolo in villaggi cinesi; numerosità non indicata nell'abstract (la coorte con ictus è di 15.249 pazienti in 600 villaggi, vedi la voce successiva)."
             },
             {
               "testo": "Sottogruppo prespecificato di pazienti con ictus precedente nello stesso trial a grappolo (sostituto del sale): ictus ricorrente RR 0,86 (IC 95% 0,77-0,95); morte RR 0,88 (0,82-0,96); iperkaliemia RR 1,01 (0,74-1,38).",
@@ -1902,7 +1902,7 @@
                 "verificata": true,
                 "url": "https://pubmed.ncbi.nlm.nih.gov/12826634/"
               },
-              "prova": "Titolo e disegno riletti su PubMed; l'effetto numerico non è riportato in questa scheda."
+              "prova": "Titolo e disegno riletti su PubMed; l'effetto numerico non è indicato."
             },
             {
               "testo": "Cochrane 2019 (30 RCT, 12.461 randomizzati): per PREDIMED (7747 randomizzati secondo la Cochrane, contro 7447 nell'articolo ripubblicato) mortalità cardiovascolare HR 0,81 (0,50-1,32) e mortalità totale HR 1,0 (0,81-1,24) in 4,8 anni (evidenza di bassa qualità), ictus HR 0,60 (0,45-0,80); nel Lyon Diet Heart Study (605 coronaropatici, 46 mesi) mortalità cardiovascolare HR 0,35 (0,15-0,82) e totale HR 0,44 (0,21-0,92), evidenza di bassa qualità. Nessun trial riporta la qualità di vita.",
@@ -2292,7 +2292,7 @@
                 "verificata": true,
                 "url": "https://pubmed.ncbi.nlm.nih.gov/30864165/"
               },
-              "prova": "Revisione Cochrane di 30 RCT (12.461 partecipanti randomizzati, 49 articoli); la stima di mortalità CV (HR 0,81) deriva da PREDIMED (7.747 randomizzati)."
+              "prova": "Revisione Cochrane di 30 RCT (12.461 partecipanti randomizzati, 49 articoli); la stima di mortalità CV (HR 0,81) deriva da PREDIMED (7747 randomizzati secondo la Cochrane, 7447 nell'articolo ripubblicato)."
             },
             {
               "testo": "Riduzione di sodio: oltre all'effetto sulla pressione, gli stessi trial mostrano che la riduzione aumenta renina plasmatica, aldosterone, insulino-resistenza, attività simpatica, colesterolo e trigliceridi; l'effetto netto sugli esiti non è prevedibile dal singolo parametro (riportato in una revisione; il tipo di revisione non è specificato nell'abstract).",
@@ -3006,7 +3006,7 @@
                 "verificata": true,
                 "url": "https://pubmed.ncbi.nlm.nih.gov/30570386/"
               },
-              "prova": "Analisi economica dentro il trial HELFIMED (RCT di dieta di gruppo a 3 mesi vs gruppo sociale); numerosità non indicata nell'abstract in questo abstract."
+              "prova": "Analisi economica dentro il trial HELFIMED (RCT di dieta di gruppo a 3 mesi vs gruppo sociale); numerosità non indicata nell'abstract."
             },
             {
               "testo": "Nell'obesità dell'anziano la dieta più esercizio migliora la funzione fisica più della sola dieta o del solo esercizio: Physical Performance Test +21% dieta+esercizio vs +12% dieta vs +15% esercizio vs +1% controllo (p<0,001)",
@@ -3190,7 +3190,7 @@
               "prova": "Meta-analisi di 10 articoli (RCT) su pazienti con diabete di tipo 2 trattati con dieta chetogenica a bassissimo contenuto di carboidrati; ricerca fino a settembre 2021; effetto espresso come SMD."
             },
             {
-              "testo": "L'abstract 39255914 riporta sia un calo di peso con low-carb sia il low-carb al primo posto nel ranking: incoerenza da verificare nel testo completo.",
+              "testo": "L'abstract 39255914 riporta meno perdita di peso con low-carb rispetto alla dieta mediterranea e, insieme, il primo posto del low-carb nel ranking: i due dati sembrano in contrasto e vanno controllati sul testo completo.",
               "livello": "sperimentale",
               "fonte": {
                 "tipo": "PMID",
@@ -3264,10 +3264,10 @@
                 "verificata": true,
                 "url": "https://pubmed.ncbi.nlm.nih.gov/28202779/"
               },
-              "prova": "RCT su 100 partecipanti generalmente sani, due bracci (28202779). I valori di ADF (100) ed eTRE (90) non sono in questo abstract."
+              "prova": "RCT su 100 partecipanti generalmente sani, due bracci (28202779)."
             },
             {
-              "testo": "Conflitto di definizione: NHANES 2003-2018 (40944446) usa categorie di finestra di alimentazione di 8 ore o meno e 15 ore o più, con mortalità minima a circa 11-12 ore. La soglia della seconda analisi (38999767, oltre 12,38 ore) non è verificata qui.",
+              "testo": "Conflitto di definizione: NHANES 2003-2018 (40944446) usa categorie di finestra di alimentazione di 8 ore o meno e 15 ore o più, con mortalità minima a circa 11-12 ore. La soglia della seconda analisi (38999767, oltre 12,38 ore) non è verificata.",
               "livello": "ipotesi",
               "fonte": {
                 "tipo": "PMID",
@@ -3278,7 +3278,7 @@
               "prova": "Analisi NHANES di 40944446 con categorie ≤8 h e ≥15 h (curva a U, minimo a circa 11-12 h); il confronto con la seconda coorte (38999767) non è verificato da questo PMID."
             },
             {
-              "testo": "Le associazioni con la mortalità sono osservazionali e possono risentire di confondimento residuo. Nell'abstract gli HR multivariabili aggiustati sono 0,80 (AHEI) e 0,81 (HEI-2015); l'abstract non riporta HR non aggiustati, quindi l'attenuazione dopo l'aggiustamento non è verificata qui.",
+              "testo": "Le associazioni con la mortalità sono osservazionali e possono risentire di confondimento residuo. Nell'abstract gli HR multivariabili aggiustati sono 0,80 (AHEI) e 0,81 (HEI-2015); l'abstract non riporta HR non aggiustati, quindi l'attenuazione dopo l'aggiustamento non è verificata.",
               "livello": "sperimentale",
               "fonte": {
                 "tipo": "PMID",
@@ -3583,7 +3583,7 @@
               "prova": "Affermazione negativa: dice ciò che è stato cercato e dove, non che l'evidenza non esista. Controllata in modo indipendente nel giro 3 (esito: parzialmente smentita)."
             },
             {
-              "testo": "Nelle ricerche su PubMed e ClinicalTrials.gov non sono stati trovati studi su primati con digiuno a giorni alterni o digiuno intermittente e mobilita. Per la restrizione calorica cronica nei macachi esistono dati su massa muscolare e attività fisica (PMID 31982367) e su sopravvivenza (PMID 24691430), ma non sulla mobilita misurata in modo funzionale.",
+              "testo": "Nelle ricerche su PubMed e ClinicalTrials.gov non sono stati trovati studi su primati con digiuno a giorni alterni o digiuno intermittente e mobilità. Per la restrizione calorica cronica nei macachi esistono dati su massa muscolare e attività fisica (PMID 31982367) e su sopravvivenza (PMID 24691430), ma non sulla mobilità misurata in modo funzionale.",
               "livello": "ipotesi",
               "fonte": {
                 "tipo": "altro",
@@ -3613,7 +3613,7 @@
               "prova": "Affermazione negativa: dice ciò che è stato cercato e dove, non che l'evidenza non esista. Controllata in modo indipendente nel giro 3 (esito: parzialmente smentita)."
             },
             {
-              "testo": "Nelle ricerche su PubMed e su ClinicalTrials.gov non è stato trovato un trial di durata superiore a 3 mesi che confronti dieta non processata e dieta ricca di alimenti ultra-processati. I trial identificati durano da 1 settimana a 3 mesi (NCT05290064, NCT05358171, NCT06314932). Limite: ricerca non esaustiva; i risultati della seconda query PubMed non sono stati letti in dettaglio.",
+              "testo": "Nelle ricerche su PubMed e su ClinicalTrials.gov non è stato trovato un trial di durata superiore a 3 mesi che confronti dieta non processata e dieta ricca di alimenti ultra-processati. I trial identificati durano da 1 settimana a 3 mesi (NCT05290064, NCT05358171, NCT06314932). Limite: ricerca non esaustiva; i risultati della seconda query PubMed non sono stati consultati in dettaglio.",
               "livello": "ipotesi",
               "fonte": {
                 "tipo": "altro",
@@ -3633,7 +3633,7 @@
               "prova": "Affermazione negativa: dice ciò che è stato cercato e dove, non che l'evidenza non esista. Controllata in modo indipendente nel giro 3 (esito: parzialmente smentita)."
             },
             {
-              "testo": "Nelle ricerche PubMed (titoli e tipo di pubblicazione 'Randomized Controlled Trial', query elencate) e nel registro ClinicalTrials.gov (query 'Mediterranean diet AND cancer') sono stati trovati RCT di dieta mediterranea in pazienti oncologiche (cachessia colorettale, sopravvissute al carcinoma mammario; esiti di composizione corporea, infiammazione, QoL, IGF-1) e un RCT con incidenza di carcinoma mammario come esito (PREDIMED, popolazione ad alto rischio CV). Nessuno di questi è stato riletto in full text; la ricerca non è esaustiva per tutti i tumori né per gli esiti di sopravvivenza.",
+              "testo": "Nelle ricerche PubMed (titoli e tipo di pubblicazione 'Randomized Controlled Trial', query elencate) e nel registro ClinicalTrials.gov (query 'Mediterranean diet AND cancer') sono stati trovati RCT di dieta mediterranea in pazienti oncologiche (cachessia colorettale, sopravvissute al carcinoma mammario; esiti di composizione corporea, infiammazione, QoL, IGF-1) e un RCT con incidenza di carcinoma mammario come esito (PREDIMED, popolazione ad alto rischio CV). Nessuno di questi è stato consultato nel testo completo; la ricerca non è esaustiva per tutti i tumori né per gli esiti di sopravvivenza.",
               "livello": "ipotesi",
               "fonte": {
                 "tipo": "altro",
@@ -3684,7 +3684,7 @@
               "prova": "Affermazione negativa: dice ciò che è stato cercato e dove, non che l'evidenza non esista. Controllata in modo indipendente nel giro 3 (esito: negativa confermata)."
             },
             {
-              "testo": "Nelle ricerche PubMed e ClinicalTrials.gov non è stato trovato alcun RCT sull'uomo con la durata della vita come esito primario di efficacia. Un RCT dietetico su anziani (dieta a bassissimo contenuto proteico, 2000, NCT00388648) ha la mortalità tra le ipotesi primarie, come esito di sicurezza. Limite: gli RCT sulla restrizione calorica (CALERIE, ricerche non riviste) non sono stati riletti.",
+              "testo": "Nelle ricerche PubMed e ClinicalTrials.gov non è stato trovato alcun RCT sull'uomo con la durata della vita come esito primario di efficacia. Un RCT dietetico su anziani (dieta a bassissimo contenuto proteico, 2000, NCT00388648) ha la mortalità tra le ipotesi primarie, come esito di sicurezza. Limite: oltre a CALERIE non sono stati ricontrollati altri RCT di restrizione calorica.",
               "livello": "ipotesi",
               "fonte": {
                 "tipo": "altro",
@@ -3757,7 +3757,7 @@
             "verificata": true,
             "url": "https://pubmed.ncbi.nlm.nih.gov/9989963/"
           },
-          "ragione": "dieta di tipo mediterraneo vs dieta occidentale prudente: nel composito CO1 (morte cardiaca e infarto non fatale) 14 vs 44 eventi (P=0.0001); risk ratio aggiustati tra 0.28 e 0.53 nei tre composti (CO1-CO3); follow-up medio 46 mesi. Il numero di partecipanti non è riportato nell'abstract."
+          "ragione": "dieta di tipo mediterraneo vs dieta occidentale prudente: nel composito CO1 (morte cardiaca e infarto non fatale) 14 vs 44 eventi (P=0.0001); risk ratio aggiustati tra 0.28 e 0.53 nei tre compositi (CO1-CO3); follow-up medio 46 mesi. 605 coronaropatici secondo la Cochrane (PMID 30864165)."
         },
         {
           "cosa": "CORDIOPREV (prevenzione secondaria, MedDiet vs low-fat)",
@@ -3805,7 +3805,7 @@
         },
         {
           "cosa": "PREDIMED-NAVARRA, sottostudio cognitivo",
-          "esito": "riuscito",
+          "esito": "inconcludente",
           "fonte": {
             "tipo": "PMID",
             "id": "23670794",
@@ -3837,7 +3837,7 @@
           "ragione": "SMD -0.53 (IC -0.90 a -0.16) ma I2 87.1% e intervallo di predizione -1.86 a 0.81 che include lo zero; certezza bassa."
         },
         {
-          "cosa": "Rianalisi, dopo commenti dei lettori, della meta-analisi su dieta mediterranea e depressione, basata su studi osservazionali (non RCT): negli studi di coorte HR 0.81 (IC 95% 0.70-0.94); negli 8 studi trasversali OR 0.81 (IC 95% 0.71-0.92). L'abstract non riporta il risultato della versione originale, quindi l'entita della correzione non e nota da questo record.",
+          "cosa": "Rianalisi, dopo commenti dei lettori, della meta-analisi su dieta mediterranea e depressione, basata su studi osservazionali (non RCT): negli studi di coorte HR 0.81 (IC 95% 0.70-0.94); negli 8 studi trasversali OR 0.81 (IC 95% 0.71-0.92). L'abstract non riporta il risultato della versione originale, quindi l'entità della correzione non e nota da questo record.",
           "esito": "inconcludente",
           "fonte": {
             "tipo": "PMID",
@@ -3881,7 +3881,7 @@
           "ragione": "Troppo breve (8 settimane) e piccolo (44 partecipanti) per concludere su eventi."
         },
         {
-          "cosa": "Dieta vegetariana a bassissimo contenuto proteico con chetoanaloghi vs dieta a basso contenuto proteico convenzionale, nella malattia renale cronica (RCT, eGFR<30, 15 mesi): solo il 14% dei pazienti screenati è stato randomizzato. Endpoint primario composito (dialisi o calo >50% dell'eGFR): NNT aggiustato 4.4 (ITT) nei pazienti con eGFR<30; NNT per evitare la dialisi 22.4, che scende a 2.7 con eGFR<20. Correzione dei disturbi metabolici solo con la dieta chetoanaloga; nessuna reazione avversa riportata. Non e un test della dieta vegetale in generale.",
+          "cosa": "Dieta vegetariana a bassissimo contenuto proteico con chetoanaloghi vs dieta a basso contenuto proteico convenzionale, nella malattia renale cronica (RCT, eGFR<30, 15 mesi): solo il 14% dei pazienti screenati è stato randomizzato. Endpoint primario composito (dialisi o calo >50% dell'eGFR): NNT aggiustato 4.4 (ITT) nei pazienti con eGFR<30; NNT per evitare la dialisi 22.4, che scende a 2.7 con eGFR<20. Correzione dei disturbi metabolici solo con la dieta chetoanaloga; nessuna reazione avversa riportata. Non è un test della dieta vegetale in generale.",
           "esito": "inconcludente",
           "fonte": {
             "tipo": "PMID",
@@ -3892,7 +3892,7 @@
           "ragione": "Solo il 14% dei pazienti selezionati randomizzato; dieta a bassissime proteine vegetali con chetoanaloghi sicura e corregge alterazioni metaboliche; non è un test della dieta vegetale in generale."
         },
         {
-          "cosa": "Editoriale su dieta vegetariana e vegana: dati RCT favorevoli su diabete, peso, pressione e LDL; nessun dato RCT su eventi cardiovascolari e declino cognitivo; dati molto limitati sul cancro. Diete vegetali povere di nutrienti o ricche di alimenti processati aumentano morbilita e mortalità.",
+          "cosa": "Articolo di revisione su dieta vegetariana e vegana: dati RCT favorevoli su diabete, peso, pressione e LDL; nessun dato RCT su eventi cardiovascolari e declino cognitivo; dati molto limitati sul cancro. Diete vegetali povere di nutrienti o ricche di alimenti processati aumentano morbilità e mortalità.",
           "esito": "inconcludente",
           "fonte": {
             "tipo": "PMID",
@@ -4024,7 +4024,7 @@
           "ragione": "Nessun miglioramento della sopravvivenza; la salute migliora, ma la durata di vita no."
         },
         {
-          "cosa": "Confronto diretto dei dati WNPRC e NIA (2017): i benefici per la salute della CR risultano conservati nei primati. La sopravvivenza differisce tra i due studi (significativa nel WNPRC, non nel NIA) e gli autori indicano come possibili cause le differenze di disegno dello studio, di dieta ed eta di inizio della CR.",
+          "cosa": "Confronto diretto dei dati WNPRC e NIA (2017): i benefici per la salute della CR risultano conservati nei primati. La sopravvivenza differisce tra i due studi (significativa nel WNPRC, non nel NIA) e gli autori indicano come possibili cause le differenze di disegno dello studio, di dieta ed età di inizio della CR.",
           "esito": "inconcludente",
           "fonte": {
             "tipo": "PMID",
@@ -4035,7 +4035,7 @@
           "ragione": "I benefici per la salute sono 'conservati', ma la sopravvivenza dipende da disegno, dieta ed età di inizio: esito inconcludente sulla durata della vita."
         },
         {
-          "cosa": "CALERIE (RCT di 2 anni, 218 adulti non obesi di 21-51 anni): CR con obiettivo 25%, ottenuta 11.7% (perdita di peso 10.4%); completamento 82% nel gruppo CR vs 95% ad libitum. Riuscito per fattibilita e per marcatori di rischio cardiometabolico (riduzioni maggiori nel gruppo CR); nessun endpoint di mortalità.",
+          "cosa": "CALERIE (RCT di 2 anni, 218 adulti non obesi di 21-51 anni): CR con obiettivo 25%, ottenuta 11.7% (perdita di peso 10.4%); completamento 82% nel gruppo CR vs 95% ad libitum. Riuscito per fattibilità e per marcatori di rischio cardiometabolico (riduzioni maggiori nel gruppo CR); nessun endpoint di mortalità.",
           "esito": "riuscito",
           "fonte": {
             "tipo": "PMID",
@@ -4068,7 +4068,7 @@
           "ragione": "Grasso epatico -5.48% (IC 95% -7.77 a -3.18) con la combinazione vs esercizio e controllo; non significativamente diverso dal solo ADF (-2.25%)."
         },
         {
-          "cosa": "eTRE 8 ore con restrizione energetica vs lTRE con restrizione energetica vs sola restrizione energetica (ER, finestra 12 ore), 3 mesi, sovrappeso o obesi, n=108 (93 completati, analisi per protocollo). Nell'abstract l'assegnazione avviene in base al cronotipo, non per randomizzazione: va verificato nel full text, nonostante il titolo. Peso: nessuna differenza tra i gruppi (-5.0, -4.4 e -4.3 kg; P=0.319). eTRE+ER rispetto a lTRE+ER: massa grassa -1.2% (P=0.013) e glicemia a digiuno -0.35 mmol/L (P=0.012). eTRE+ER rispetto a ER: massa grassa -1.1% (P=0.022), eta metabolica -3 anni (P=0.028), pressione diastolica -4 mmHg (IC -8 a 0; P=0.033).",
+          "cosa": "eTRE 8 ore con restrizione energetica vs lTRE con restrizione energetica vs sola restrizione energetica (ER, finestra 12 ore), 3 mesi, sovrappeso o obesi, n=108 (93 completati, analisi per protocollo). Peso: nessuna differenza tra i gruppi (-5.0, -4.4 e -4.3 kg; P=0.319). eTRE+ER rispetto a lTRE+ER: massa grassa -1.2% (P=0.013) e glicemia a digiuno -0.35 mmol/L (P=0.012). eTRE+ER rispetto a ER: massa grassa -1.1% (P=0.022), età metabolica -3 anni (P=0..",
           "esito": "inconcludente",
           "fonte": {
             "tipo": "PMID",
@@ -4076,7 +4076,7 @@
             "verificata": true,
             "url": "https://pubmed.ncbi.nlm.nih.gov/40250088/"
           },
-          "ragione": "Nessun effetto sul peso rispetto alla restrizione continua; piccolo vantaggio su pressione diastolica e glicemia in alcuni confronti."
+          "ragione": "Nessun effetto sul peso rispetto alla restrizione continua; piccoli vantaggi su alcuni marcatori in alcuni confronti."
         },
         {
           "cosa": "TRE con finestra di 8 ore (eTRE), trial 2022",
@@ -4101,12 +4101,12 @@
           "ragione": "Sicuro e con effetti su marcatori di rischio."
         },
         {
-          "cosa": "Digiuno mimante con chemioterapia neoadiuvante nel tumore della mammella (DIRECT, RCT multicentrico di fase 2, 2020; 131 pazienti con carcinoma HER2-negativo stadio II/III): nessuna differenza di tossicita tra i gruppi, nonostante nel gruppo FMD il desametasone sia stato omesso. Risposta radiologica completa o parziale più frequente con FMD (OR 3.17, P=0.039); risposta patologica Miller-Payne 4/5 più frequente con FMD nell'analisi per protocollo (OR 4.11, P=0.016). Trial di fase 2: i risultati vanno confermati in studi più ampi.",
+          "cosa": "Digiuno mimante con chemioterapia neoadiuvante nel tumore della mammella (DIRECT, RCT multicentrico di fase 2, 2020; 131 pazienti con carcinoma HER2-negativo stadio II/III): nessuna differenza di tossicità tra i gruppi, nonostante nel gruppo FMD il desametasone sia stato omesso. Risposta radiologica completa o parziale più frequente con FMD (OR 3.17, P=0.039); risposta patologica Miller-Payne 4/5 più frequente con FMD nell'analisi per protocollo (OR 4.11, P=0.016). Trial di fase 2: i risultati vanno confermati in studi più ampi.",
           "esito": "inconcludente",
           "fonte": {
             "tipo": "PMID",
             "id": "32576828",
-            "verificata": true,
+            "verificata": false,
             "url": "https://pubmed.ncbi.nlm.nih.gov/32576828/"
           },
           "ragione": "Solo il titolo è stato riletto: l'esito di DIRECT non è verificato."
@@ -4132,28 +4132,6 @@
             "url": "https://pubmed.ncbi.nlm.nih.gov/40533200/"
           },
           "ragione": "Il vantaggio sulla perdita di peso si riduce rispetto alla restrizione continua."
-        },
-        {
-          "cosa": "Affermazione negativa, non verificata in modo esaustivo (ricerca limitata, ClinicalTrials.gov non consultato): non risulta un RCT umano con endpoint di mortalità o durata della vita per CR o digiuno. Questo PMID (CALERIE, 2 anni, n=220, CR 25%, analisi post hoc su metilazione del DNA) non fornisce questo dato: i suoi autori scrivono che una prova conclusiva richiede trial a lungo termine con mortalità e incidenza di malattie.",
-          "esito": "inconcludente",
-          "fonte": {
-            "tipo": "PMID",
-            "id": "37118425",
-            "verificata": true,
-            "url": "https://pubmed.ncbi.nlm.nih.gov/37118425/"
-          },
-          "ragione": "Affermazione negativa NON verificata in modo esaustivo (ricerca limitata, ClinicalTrials.gov non consultato); CALERIE si ferma a 2 anni con marcatori."
-        },
-        {
-          "cosa": "Partecipazione e aderenza nel trial ADF (JAMA Intern Med 2017): abbandoni alti, 38% nel gruppo ADF vs 29% nel gruppo a restrizione calorica giornaliera.",
-          "esito": "fallito",
-          "fonte": {
-            "tipo": "PMID",
-            "id": "28459931",
-            "verificata": true,
-            "url": "https://pubmed.ncbi.nlm.nih.gov/28459931/"
-          },
-          "ragione": "Abbandoni alti (38% nel gruppo ADF)."
         },
         {
           "cosa": "DASH: trial di alimentazione controllata di 8 settimane su 459 adulti (1997)",
@@ -4266,17 +4244,6 @@
           "ragione": "dati preliminari: singolo trial con n=67; critica di expectation bias (PMID 30591059); analisi economica positiva (PMID 29783983)"
         },
         {
-          "cosa": "HELFIMED: dieta mediterranea con cibo fornito e corsi di cucina più olio di pesce nella depressione",
-          "esito": "riuscito",
-          "fonte": {
-            "tipo": "PMID",
-            "id": "29215971",
-            "verificata": true,
-            "url": "https://pubmed.ncbi.nlm.nih.gov/29215971/"
-          },
-          "ragione": "dieta e olio di pesce insieme, effetto non separabile; costo-efficace (PMID 30570386)"
-        },
-        {
           "cosa": "Meta-analisi di RCT e coorti sulla dieta e la depressione",
           "esito": "inconcludente",
           "fonte": {
@@ -4297,17 +4264,6 @@
             "url": "https://pubmed.ncbi.nlm.nih.gov/25961184/"
           },
           "ragione": "Effetto piccolo, in parte dovuto al peggioramento del gruppo di controllo; alcuni test non significativi; 334 con follow-up cognitivo. Nel composito memoria l'IC (0,09; da -0,05 a 0,23) è la variazione dal basale e il P=0,04 è il confronto con il controllo."
-        },
-        {
-          "cosa": "Dieta MIND con calorie ridotte, RCT a 3 anni",
-          "esito": "fallito",
-          "fonte": {
-            "tipo": "PMID",
-            "id": "37466280",
-            "verificata": true,
-            "url": "https://pubmed.ncbi.nlm.nih.gov/37466280/"
-          },
-          "ragione": "endpoint primario negativo: differenza 0,035 (IC95% -0,022 a 0,092; p=0,23) con 604 arruolati"
         },
         {
           "cosa": "Dieta più esercizio fisico nell'obesità dell'anziano (RCT a 1 anno)",
@@ -4341,28 +4297,6 @@
             "url": "https://pubmed.ncbi.nlm.nih.gov/34256014/"
           },
           "ragione": "endpoint primario (cytokine response score) non modificato; la dieta ricca di fibre aumenta gli enzimi glicano-degradanti del microbiota; la dieta ricca di alimenti fermentati aumenta la diversità del microbiota e riduce marker infiammatori (entità non riportata nell'abstract)."
-        },
-        {
-          "cosa": "Dieta a basso contenuto di grassi vs basso contenuto di carboidrati (RCT a 12 mesi)",
-          "esito": "inconcludente",
-          "fonte": {
-            "tipo": "PMID",
-            "id": "29466592",
-            "verificata": true,
-            "url": "https://pubmed.ncbi.nlm.nih.gov/29466592/"
-          },
-          "ragione": "nessuna differenza significativa tra le due diete; il genotipo non predice la risposta"
-        },
-        {
-          "cosa": "PREDIMED (versione ripubblicata 2018): dieta mediterranea con olio extravergine o noci in prevenzione primaria",
-          "esito": "riuscito",
-          "fonte": {
-            "tipo": "PMID",
-            "id": "29897866",
-            "verificata": true,
-            "url": "https://pubmed.ncbi.nlm.nih.gov/29897866/"
-          },
-          "ragione": "HR 0,69 (0,53-0,91) olio EVO e 0,72 (0,54-0,95) noci vs controllo (ITT aggiustata); 288 eventi primari su 7447 partecipanti"
         },
         {
           "cosa": "PREDIMED, versione originale 2013 (ritirata: Retracted Publication in PubMed)",
@@ -4484,17 +4418,6 @@
             "url": "https://pubmed.ncbi.nlm.nih.gov/41904649/"
           },
           "ragione": "durata limitata: calo medio 6,1 kg e 10% di remissioni a 5 anni; n non indicato nell'abstract"
-        },
-        {
-          "cosa": "DASH: alimentazione controllata di 8 settimane",
-          "esito": "riuscito",
-          "fonte": {
-            "tipo": "PMID",
-            "id": "9099655",
-            "verificata": true,
-            "url": "https://pubmed.ncbi.nlm.nih.gov/9099655/"
-          },
-          "ragione": "riuscito sulla pressione (-5,5/-3,0 mmHg); effetto sugli eventi cardiovascolari solo stimato (PMID 36459731)"
         },
         {
           "cosa": "CALERIE: restrizione calorica di 2 anni",
@@ -4623,13 +4546,19 @@
               "id": "9989956",
               "verificata": true,
               "url": "https://pubmed.ncbi.nlm.nih.gov/9989956/"
+            },
+            {
+              "tipo": "PMID",
+              "id": "29897866",
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/29897866/"
             }
           ]
         },
         {
           "domanda": "Esistono trial randomizzati, anche in corso, di alimentazione a tempo limitato, digiuno intermittente o restrizione calorica con eventi cardiovascolari o mortalità come esito primario e durata di almeno 3 anni, e il dato presentato a un congresso nel 2024 sulla mortalità cardiovascolare con finestra alimentare inferiore a 8 ore è stato pubblicato con revisione tra pari?",
-          "verdetto": "PARZIALMENTE FATTO",
-          "verifica": "Nelle ricerche su PubMed e in 5 query su ClinicalTrials.gov non è stato trovato alcun RCT con questi esiti primari e durata di almeno 3 anni. Record vicini ma non conformi: NCT04184076 (alimentazione a tempo limitato in ictus ischemico acuto, 40 pazienti stimati, esiti primari cerebrovascolari a 4 settimane), NCT07634926 (esito primario pressione nelle 24 ore), CALERIE NCT00427193 (esito primario temperatura corporea), NCT05651620 (healthspan, borderline), NCT06911918 (esito primario citochine). Il dato congressuale del 2024 non è reperibile in PubMed: fonte non reperita. Esistono analisi osservazionali su NHANES con direzione concordante (finestre più brevi associate a più mortalità) in popolazioni diverse: PMID 40944446 (finestra di 8 ore o meno associata a oltre il 30% di mortalità totale in più, relazione a U), PMID 38999767 (misura la durata del digiuno, direzione concordante) e PMID 38155047 (scompenso cardiaco: finestra oltre 11,02 ore associata a minore mortalità cardiovascolare, HR 0,36). Non è stato dimostrato che l'analisi del 2025 derivi dalla presentazione del 2024. Il verdetto «parzialmente fatto» regge solo per i dati osservazionali: nessun RCT è stato trovato.",
+          "verdetto": "NON TROVATO",
+          "verifica": "Nelle ricerche su PubMed e in 5 query su ClinicalTrials.gov non è stato trovato alcun RCT con questi esiti primari e durata di almeno 3 anni. Record vicini ma non conformi: NCT04184076 (alimentazione a tempo limitato in ictus ischemico acuto, 40 pazienti stimati, esiti primari cerebrovascolari a 4 settimane), NCT07634926 (esito primario pressione nelle 24 ore), CALERIE NCT00427193 (esito primario temperatura corporea), NCT05651620 (healthspan, borderline), NCT06911918 (esito primario citochine). Il dato congressuale del 2024 non è reperibile in PubMed: fonte non reperita. Esistono analisi osservazionali su NHANES con direzione concordante (finestre più brevi associate a più mortalità) in popolazioni diverse: PMID 40944446 (finestra di 8 ore o meno associata a oltre il 30% di mortalità totale in più, relazione a U), PMID 38999767 (misura la durata del digiuno, direzione concordante) e PMID 38155047 (scompenso cardiaco: finestra oltre 11,02 ore associata a minore mortalità cardiovascolare, HR 0,36). Non è stato dimostrato che l'analisi del 2025 derivi dalla presentazione del 2024. Verdetto: nessun RCT e nessuna pubblicazione del dato congressuale sono stati trovati; le analisi osservazionali su NHANES sono riportate come contesto.",
           "disegno": "RCT pragmatico di alimentazione a tempo limitato contro orari abituali, almeno 3 anni, esito primario composito di eventi cardiovascolari maggiori, con controllo dell'apporto energetico e della massa magra.",
           "falsificazione": "Un beneficio di almeno il 15% sarebbe respinto se il limite inferiore dell'IC 95% dell'HR primario fosse maggiore di 0,85.",
           "fonti": [
@@ -4638,30 +4567,6 @@
               "id": "NCT07634926",
               "verificata": true,
               "url": "https://clinicaltrials.gov/study/NCT07634926"
-            },
-            {
-              "tipo": "NCT",
-              "id": "NCT03504683",
-              "verificata": true,
-              "url": "https://clinicaltrials.gov/study/NCT03504683"
-            },
-            {
-              "tipo": "NCT",
-              "id": "NCT01964118",
-              "verificata": true,
-              "url": "https://clinicaltrials.gov/study/NCT01964118"
-            },
-            {
-              "tipo": "NCT",
-              "id": "NCT05730231",
-              "verificata": true,
-              "url": "https://clinicaltrials.gov/study/NCT05730231"
-            },
-            {
-              "tipo": "NCT",
-              "id": "NCT06845345",
-              "verificata": true,
-              "url": "https://clinicaltrials.gov/study/NCT06845345"
             },
             {
               "tipo": "PMID",
@@ -4676,10 +4581,34 @@
               "url": "https://pubmed.ncbi.nlm.nih.gov/38155047/"
             },
             {
-              "tipo": "PMID",
-              "id": "42538400",
+              "tipo": "NCT",
+              "id": "NCT04184076",
               "verificata": true,
-              "url": "https://pubmed.ncbi.nlm.nih.gov/42538400/"
+              "url": "https://clinicaltrials.gov/study/NCT04184076"
+            },
+            {
+              "tipo": "NCT",
+              "id": "NCT00427193",
+              "verificata": true,
+              "url": "https://clinicaltrials.gov/study/NCT00427193"
+            },
+            {
+              "tipo": "NCT",
+              "id": "NCT05651620",
+              "verificata": true,
+              "url": "https://clinicaltrials.gov/study/NCT05651620"
+            },
+            {
+              "tipo": "NCT",
+              "id": "NCT06911918",
+              "verificata": true,
+              "url": "https://clinicaltrials.gov/study/NCT06911918"
+            },
+            {
+              "tipo": "PMID",
+              "id": "38999767",
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/38999767/"
             }
           ]
         },
@@ -4829,7 +4758,7 @@
           "verdetto": "PARZIALMENTE FATTO",
           "verifica": "A favore: a Okinawa solo l'8% dei centenari aveva documenti (PMID 18426957), mentre 12 supercentenari su 15 intervistati risultano validati (PMID 19038835); Sardegna AKEA (PMID 15489066). Critiche: PMID 38221516 (Poulain e Herm 2024: plausibile invalidazione dell'età di alcuni dei più anziani a Okinawa), PMID 33400701 (epitaffi: circa il 2% di 381, con 3 nonagenari, 2 centenari, 2 ultracentenari e 1 supercentenario; le prove sono giudicate deboli) e PMID 42312729 (2026). La risposta degli autori (Austad e coautori, 2025, PMID 41405258) sostiene che tutte le zone siano validate, ma non è una verifica indipendente; tra i coautori compaiono Pes e Buettner, fondatore di Blue Zones LLC (PMID 40322661). La critica originale a cui rispondono non è stata reperita. Fattori non alimentari: PMID 19415983 (FOXO3) e PMID 31792278 (genotipo PAV/PAV più frequente nei centenari; l'origine sarda non è nell'abstract), PMID 28958036 (altezza). Una scomposizione quantitativa tra dieta, attività fisica e rete sociale non è stata trovata (query troppo specifiche: prova debole).",
           "disegno": "Verifica indipendente, a campione, di certificati di nascita e di decesso o di registri anagrafici per i più anziani di ciascuna zona; analisi di mediazione che separi dieta, attività fisica, rete sociale e genetica in una coorte con misure di tutti questi fattori.",
-          "falsificazione": "La longevità eccezionale non reggerebbe se, in un campione definito a priori, oltre il 10% dei più anziani risultasse non validabile con documenti di nascita e di decesso.",
+          "falsificazione": "La longevità eccezionale non reggerebbe se oltre il 10% dei casi documentabili risultasse con età contraddetta dai documenti di nascita o di decesso; i casi senza documenti si riportano a parte come non valutabili.",
           "fonti": [
             {
               "tipo": "PMID",
@@ -4908,13 +4837,25 @@
               "id": "42312729",
               "verificata": true,
               "url": "https://pubmed.ncbi.nlm.nih.gov/42312729/"
+            },
+            {
+              "tipo": "PMID",
+              "id": "33400701",
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/33400701/"
+            },
+            {
+              "tipo": "PMID",
+              "id": "31792278",
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/31792278/"
             }
           ]
         },
         {
           "domanda": "Esistono trial randomizzati o studi con qualità di vita misurata con strumenti validati (SF-36, EQ-5D, WHOQOL) come esito di una dieta, e trial con qualità di vita primaria in persone di almeno 65 anni? (Riformulata: «qualità di vita» e «depressione» sono esiti diversi; SMILES misura la depressione, non la qualità di vita.)",
           "verdetto": "PARZIALMENTE FATTO",
-          "verifica": "Esistono trial con qualità di vita primaria o co-primaria: PREDIDEP (PMID 36933773, SF-36 come obiettivo principale, in una popolazione adulta con sottogruppo di almeno 60 anni), NCT07385716 (PCOSQ-50, 55 persone, dieta mediterranea nella sindrome dell'ovaio policistico, dati non pubblicati), NCT05409651 (SF-36 primario), NCT04873856 (EQ-5D-5L primario, 87 persone), NCT04587154 (MENQOL; registrati 80, randomizzati 38) e PMID 33622392 (QOL-AD co-primario, dieta chetogenica nell'Alzheimer). Per PREDIMED-Plus esistono analisi di sottogruppo su SF-36 (per esempio PMID 29912978, 32540410, 35846291) e non un confronto randomizzato della sola qualità di vita. SMILES ha come esito primario la depressione (PMID 28137247); una replica indipendente con lo stesso intervento non è stata cercata con una query dedicata: non verificato. Un controesempio parziale da chiudere: PMID 42772684 (2026, RCT a cluster in persone di almeno 65 anni, EQ-5D-5L migliorato, ma l'abstract indica la cognizione come obiettivo; testo integrale non letto). Un RCT di dieta con qualità di vita validata come esito primario in persone di almeno 65 anni non è stato trovato nelle ricerche fatte.",
+          "verifica": "Esistono trial con qualità di vita primaria o co-primaria: PREDIDEP (PMID 36933773, SF-36 come obiettivo principale, in una popolazione adulta con sottogruppo di almeno 60 anni), NCT07385716 (PCOSQ-50, 55 persone, dieta mediterranea nella sindrome dell'ovaio policistico, dati non pubblicati), NCT05409651 (SF-36 primario), NCT04873856 (EQ-5D-5L primario, 87 persone), NCT04587154 (MENQOL; registrati 80, randomizzati 38) e PMID 33622392 (QOL-AD co-primario, dieta chetogenica nell'Alzheimer). Per PREDIMED-Plus esistono analisi di sottogruppo su SF-36 (per esempio PMID 29912978, 32540410, 35846291) e non un confronto randomizzato della sola qualità di vita. SMILES ha come esito primario la depressione (PMID 28137247); una replica indipendente con lo stesso intervento non è stata cercata con una query dedicata: non verificato. Un controesempio parziale da chiudere: PMID 42772684 (2026, RCT a cluster in persone di almeno 65 anni, EQ-5D-5L migliorato, ma l'abstract indica la cognizione come obiettivo; testo integrale non consultato). Un RCT di dieta con qualità di vita validata come esito primario in persone di almeno 65 anni non è stato trovato nelle ricerche fatte.",
           "disegno": "RCT di dieta mediterranea o MIND contro dieta abituale in persone di almeno 65 anni, esito primario EQ-5D-5L a 12 mesi, con differenza minima clinicamente importante prespecificata e calcolo della potenza.",
           "falsificazione": "Un beneficio sarebbe respinto se l'IC 95% della differenza aggiustata si collocasse interamente sotto la differenza minima prespecificata; un esito nullo di un trial sottodimensionato non falsifica.",
           "fonti": [
@@ -5031,6 +4972,24 @@
               "id": "36933773",
               "verificata": true,
               "url": "https://pubmed.ncbi.nlm.nih.gov/36933773/"
+            },
+            {
+              "tipo": "NCT",
+              "id": "NCT05409651",
+              "verificata": true,
+              "url": "https://clinicaltrials.gov/study/NCT05409651"
+            },
+            {
+              "tipo": "PMID",
+              "id": "33622392",
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/33622392/"
+            },
+            {
+              "tipo": "PMID",
+              "id": "35846291",
+              "verificata": true,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/35846291/"
             }
           ]
         },
@@ -5124,6 +5083,18 @@
               "id": "40879431",
               "verificata": true,
               "url": "https://pubmed.ncbi.nlm.nih.gov/40879431/"
+            },
+            {
+              "tipo": "NCT",
+              "id": "NCT03842579",
+              "verificata": true,
+              "url": "https://clinicaltrials.gov/study/NCT03842579"
+            },
+            {
+              "tipo": "NCT",
+              "id": "NCT07761091",
+              "verificata": true,
+              "url": "https://clinicaltrials.gov/study/NCT07761091"
             }
           ]
         },
@@ -5211,9 +5182,9 @@
         {
           "domanda": "Le randomizzazioni mendeliane sull'alcol, in popolazioni europee, confermano o smentiscono la curva a J osservata nelle coorti per mortalità totale e malattie cardiovascolari? (Riformulata: la randomizzazione mendeliana valuta la non linearità causale; il test giusto è basso consumo contro astensione predetti geneticamente.)",
           "verdetto": "PARZIALMENTE FATTO",
-          "verifica": "Fatto per la mortalità totale e le malattie cardiovascolari; aperto per la cardiopatia ischemica: PMID 38508868 (UK Biobank, britannici bianchi): relazione lineare senza curvatura; mortalità totale OR 1,27 (1,16-1,39; l'unità di esposizione genetica non è riportata qui), malattia cardiovascolare OR 1,30 (1,10-1,53). PMID 33275596 (GWAS europee): nessun effetto cardioprotettivo (non testa la non linearità). PMID 35333364 (UK Biobank, 371.463 persone): randomizzazione mendeliana non lineare su coronaropatia e infarto senza protezione a basso consumo. PMID 41862300 (7 malattie, andamenti non lineari). Residuo: per la cardiopatia ischemica PMID 42129601 (2026) riporta un'associazione nulla o dannosa, ma solo 3 studi testano la non linearità e i dati sono giudicati insufficienti per respingere una curva a J. Le randomizzazioni mendeliane cinesi (per esempio PMID 35687413) sono state escluse per la popolazione.",
+          "verifica": "Fatto per la mortalità totale e le malattie cardiovascolari; per la cardiopatia ischemica manca una replica in coorti indipendenti da UK Biobank (la randomizzazione non lineare di PMID 35333364 non mostra protezione a basso consumo): PMID 38508868 (UK Biobank, britannici bianchi): relazione lineare senza curvatura; mortalità totale OR 1,27 (1,16-1,39; l'unità di esposizione genetica non è riportata), malattia cardiovascolare OR 1,30 (1,10-1,53). PMID 33275596 (GWAS europee): nessun effetto cardioprotettivo (non testa la non linearità). PMID 35333364 (UK Biobank, 371.463 persone): randomizzazione mendeliana non lineare su coronaropatia e infarto senza protezione a basso consumo. PMID 41862300 (7 malattie, andamenti non lineari). Residuo: per la cardiopatia ischemica PMID 42129601 (2026) riporta un'associazione nulla o dannosa, ma solo 3 studi testano la non linearità e i dati sono giudicati insufficienti per respingere una curva a J. Le randomizzazioni mendeliane cinesi (per esempio PMID 35687413) sono state escluse per la popolazione.",
           "disegno": "Randomizzazione mendeliana non lineare in più coorti europee indipendenti, con strati per basso consumo e astensione predetti geneticamente, esiti mortalità totale e cardiopatia ischemica.",
-          "falsificazione": "La curva a J causale sarebbe respinta se, nei confronti tra basso consumo e astensione predetti geneticamente, l'IC 95% dell'HR non scendesse sotto 1 in campioni indipendenti; un test di non linearità non significativo da solo non basta.",
+          "falsificazione": "La curva a J causale sarebbe respinta se, in almeno due campioni indipendenti, il limite inferiore dell'IC 95% dell'HR per basso consumo contro astensione predetti geneticamente fosse almeno 0,95 (esclusa una protezione di almeno il 5%).",
           "fonti": [
             {
               "tipo": "PMID",
@@ -5329,7 +5300,7 @@
           ]
         }
       ],
-      "note": "Procedura: 5 passi della scheda con 8 agenti di intelligenza artificiale in parallelo (un gruppo di alimentazioni per agente), 9 domande residue verificate una per una, tre giri di verifica. Giro 1: ogni gruppo ha riletto le proprie fonti su PubMed e sul registro dei trial. Giro 2: 10 agenti di intelligenza artificiale indipendenti hanno riletto titolo e abstract di 394 elementi con fonte (voci e tentativi delle bozze, prima della pulizia: nella scheda finale restano 335 voci e 70 tentativi) e confrontato numeri, direzioni, numerosità e tipo di studio: 254 risultavano corretti, 139 sono stati riscritti (per lo più per eccessi di causalità, numeri attribuiti alla fonte sbagliata, dati per «non letti» che invece erano nell'abstract) e 1 identificativo errato è stato tolto. Giro 3: controllo indipendente delle affermazioni negative (27; nella sezione sui limiti compaiono quelle riformulate con il testo corretto: 8 confermate nei limiti delle ricerche, 9 parzialmente smentite, 5 smentite, 5 non verificabili) e rilettura delle fonti dei 9 buchi, compresi i record del registro letti in JSON grezzo; le correzioni sono state applicate (per esempio: esistono trial di dieta con eventi cardiovascolari primari; esistono emulazioni di trial dietetici con la mortalità; il trial DECIDE-Salt ha un braccio di sola riduzione del sale).\nLimiti: verifica sugli abstract, non sui testi completi; solo PubMed e ClinicalTrials.gov; le ricerche negative non sono esaustive (ISRCTN e altri registri non controllati). Quasi tutte le prove su mortalità e longevità vengono da coorti osservazionali con confondimento (utente sano, causalità inversa, questionari alimentari con errore di misura); la maggior parte dei trial misura peso, pressione, lipidi o glicemia, non eventi. PREDIMED 2013 è segnato come ritirato in PubMed e si usa la versione 2018. Un identificativo errato (un PMID che era in realtà un codice di registro) è stato escluso. Fonti non reperite o non rilette: avviso di ritiro di PREDIMED (solo metadati), classe IARC per le carni (solo notizia), la critica originale sulla validità dell'età delle Zone Blu, la presentazione congressuale 2024 sull'alimentazione a tempo limitato, il risultato primario del trial BALANCE, il testo integrale di PMID 42772684. Gli interventi citati (per esempio il digiuno) non sono raccomandazioni: i dati sui farmaci e sulle diete vanno discussi con il medico curante. Non è una consulenza medica."
+      "note": "Procedura: 5 passi della scheda con 8 agenti di intelligenza artificiale in parallelo (un gruppo di alimentazioni per agente), 9 domande residue verificate una per una, tre giri di verifica. Giro 1: ogni gruppo ha riletto le proprie fonti su PubMed e sul registro dei trial. Giro 2: 10 agenti di intelligenza artificiale indipendenti hanno riletto titolo e abstract di 394 elementi con identificativo (le bozze ne avevano 415 in tutto, di cui 21 senza identificativo: sostituiti dalle affermazioni negative controllate nel giro 3) e confrontato numeri, direzioni, numerosità e tipo di studio: 254 risultavano corretti, 139 sono stati riscritti (per lo più per eccessi di causalità, numeri attribuiti alla fonte sbagliata, dati per «non letti» che invece erano nell'abstract) e 1 identificativo errato è stato tolto. Dopo il giro 2 sono stati uniti i doppioni e aggiunta una voce con i dati della Cochrane riletti su PubMed: la scheda finale ha 335 voci e 63 tentativi. Giro 3: controllo indipendente delle affermazioni negative (27; nella sezione sui limiti compaiono quelle riformulate con il testo corretto; le altre sono state assorbite in voci o buchi: 8 confermate nei limiti delle ricerche, 9 parzialmente smentite, 5 smentite, 5 non verificabili) e rilettura delle fonti dei 9 buchi, compresi i record del registro letti come record completi del registro; le correzioni sono state applicate (per esempio: esistono trial di dieta con eventi cardiovascolari primari; esistono emulazioni di trial dietetici con la mortalità; il trial DECIDE-Salt ha un braccio di sola riduzione del sale).\nLimiti: verifica sugli abstract, non sui testi completi; solo PubMed e ClinicalTrials.gov; le ricerche negative non sono esaustive (ISRCTN e altri registri non controllati). Quasi tutte le prove su mortalità e longevità vengono da coorti osservazionali con confondimento (utente sano, causalità inversa, questionari alimentari con errore di misura); la maggior parte dei trial misura peso, pressione, lipidi o glicemia, non eventi. PREDIMED 2013 è segnato come ritirato in PubMed e si usa la versione 2018. Un identificativo errato (un PMID che era in realtà un codice di registro) è stato escluso. Fonti non reperite o non rilette: avviso di ritiro di PREDIMED (solo metadati), classe IARC per le carni (solo notizia), la critica originale sulla validità dell'età delle Zone Blu, la presentazione congressuale 2024 sull'alimentazione a tempo limitato, il risultato primario del trial BALANCE, il testo integrale di PMID 42772684. Gli interventi citati (per esempio il digiuno) non sono raccomandazioni: i dati sui farmaci e sulle diete vanno discussi con il medico curante. Non è una consulenza medica."
     },
     {
       "id": "pratiche-energetiche-come-sapere-se-si-fa-bene",
