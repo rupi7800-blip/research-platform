@@ -265,7 +265,7 @@ function vai() {
 fetch('data/archivio.json', { cache: 'no-cache' })
   .then((r) => r.json())
   .then((d) => { DATI = d; vai(); })
-  .catch(() => { $('main').replaceChildren(el('p', 'vuoto', 'Impossibile caricare i dati. Servi la cartella via HTTP.')); });
+  .catch(() => { $('main').replaceChildren(el('p', 'vuoto', 'Impossibile caricare i dati. Controlla la connessione e riprova (se apri il file in locale, servilo via HTTP).')); });
 window.addEventListener('hashchange', vai);
 // dentro una scheda la casella filtra la scheda senza ricostruirla; altrove cerca tra gli argomenti
 $('cerca').addEventListener('input', () => (SCHEDA && location.hash.startsWith('#r/') ? corpo() : vai()));
